@@ -1,0 +1,209 @@
+---
+title: 'Election 2020: USA'
+author: "BGL"
+date: "11/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(arm)
+library(rvest)
+library(maps)
+library(ggthemes)
+library(usmap)
+library(socviz)
+```
+
+Load megafile:
+
+```{r}
+megafile = read.table("eday-covid.txt", header = TRUE)
+```
+
+```{r}
+source("nytscraper2020.R")
+```
+
+```{r}
+statelist = unique(megafile$state.x)
+# Not states: DC, Guam, Marianas, Puerto Rico, Virgin Islands
+statelist = statelist[-c(9, 12, 37, 42, 50)]
+urllist = rep(NA, length(statelist))
+statelist2 = tolower(statelist)
+statelist2 = gsub(" ", "-", statelist2)
+for(J in 1:length(urllist)){
+  urllist[J] = paste("https://www.nytimes.com/interactive/2020/11/03/us/elections/results-", statelist2[J], ".html", sep = "")
+}
+```
+
+```{r}
+results2020 = scrapenyt(statelist[1], urllist[1])
+```
+
+```{r}
+for(J in 2:length(statelist)){
+  print(J)
+  df = scrapenyt(statelist[J], urllist[J])
+  results2020 = rbind(results2020, df)
+}
+```
+
+```{r}
+#unique(results2020$state)
+```
+
+```{r, eval = FALSE}
+write.table(results2020, file = "results2020.txt", row.names = FALSE)
+```
+
+Merge with big file:
+
+```{r}
+results = left_join(megafile, results2020,
+  by = c("county" = "County", "state.x" = "state"))
+```
+
+Get 2012, 2016 margins:
+
+```{r}
+results$Margin2012 = (results$per_dem_2012 - results$per_gop_2012) * 100
+results$Margin2016 = (results$per_dem_2016 - results$per_gop_2016) * 100
+```
+
+Get swings:
+
+```{r}
+results$Swing2020 = results$Margin2020 - results$Margin2016
+results$Swing2016 = results$Margin2016 - results$Margin2012
+```
+
+```{r}
+#summary(results)
+```
+
+Easy map:
+
+```{r}
+# Needs a fips variable
+library(usmap)
+plot_usmap(regions = "counties", include = "IN",
+  data = results, values = "Margin2020") +
+  scale_fill_gradient2(low = "red", mid = "darkorchid",
+    high = "darkblue", name = "Biden margin") +
+  theme(legend.position = "right")
+```
+
+County map:
+
+```{r}
+us_states = map_data("state")
+county_map$id = as.numeric(county_map$id)
+# joining with election results 
+county.election.df = left_join(county_map, results, by = c("id" = "fips"))
+county.election.df = drop_na(county.election.df)
+```
+
+```{r, fig.height=10, fig.width=16}
+ggplot(county.election.df, aes(x = long, y = lat, fill = Margin2020, group = group)) + geom_polygon(color = "gray90", size = 0.25) + theme_map() + labs(fill = "Dem margin") + scale_fill_gradient2(low = "red", mid = "darkorchid", high = "blue")
+```
+
+Nerf:
+```{r}
+nerf = county.election.df
+nerf$Margin2020[nerf$Margin2020 > 25] = 25
+nerf$Margin2020[nerf$Margin2020 < -25] = -25
+```
+
+```{r, fig.height=10, fig.width=16}
+ggplot(nerf, aes(x = long, y = lat, fill = Margin2020, group = group)) + geom_polygon(color = "gray90", size = 0.25) + theme_map() + labs(fill = "Biden margin") + scale_fill_gradient2(low = "red", mid = "darkorchid", high = "blue")
+```
+
+```{r, fig.height=10, fig.width=16}
+nerfswing = county.election.df
+nerfswing$Swing2020[nerfswing$Swing2020 > 10] = 10
+nerfswing$Swing2020[nerfswing$Swing2020 < -10] = -10
+ggplot(nerfswing, aes(x = long, y = lat, fill = Swing2020, group = group)) + geom_polygon(color = "gray90", size = 0.25) + theme_map() + scale_fill_gradient2(low = "red", mid = "darkorchid", high = "blue")
+```
+
+
+
+
+Scatterplots:
+
+```{r}
+results %>%
+  filter(counted >= 98) %>%
+  ggplot(aes(Swing2016, Swing2020)) + geom_point()
+```
+
+```{r}
+results %>%
+  filter(counted >= 98) %>%
+  ggplot(aes(college, Swing2020)) + geom_point() + geom_smooth()
+```
+
+```{r}
+results %>%
+  filter(counted >= 98) %>%
+  ggplot(aes(hisp_pct * 100, Swing2020)) + geom_point(alpha = 0.3) +
+  geom_smooth(se = FALSE) +
+  scale_x_log10() +
+  xlab("Hispanic percentage")
+```
+
+```{r}
+results %>%
+  filter(counted >= 98) %>%
+  ggplot(aes(deaths/popestimate2019, Swing2020)) +
+  geom_point() +
+  #geom_smooth(method = "lm") +
+  geom_smooth(method = "gam", color = "orange") +
+  scale_x_log10()
+```
+
+
+
+Regression:
+
+```{r}
+display(lm(Margin2020 ~ Margin2012 + Margin2016, data = filter(results, counted >= 98)))
+```
+
+```{r}
+display(lm(Swing2020 ~ log((cases+1)/popestimate2019), data = filter(results, counted >= 98)))
+```
+
+```{r}
+display(lm(Swing2020 ~ log((deaths+1)/popestimate2019), data = filter(results, counted >= 98)))
+```
+
+```{r}
+compresults = filter(results, counted >= 98)
+cor(compresults$college, compresults$Swing2020, use = "pairwise")
+```
+
+
+
+```{r}
+display(lm(Swing2020 ~ college, data = filter(results, counted >= 98)))
+```
+
+
+```{r}
+display(lm(Swing2020 ~ hisp_pct * state.x - 1, data = filter(results, counted >= 98)))
+```
+
+```{r}
+display(lm(Swing2020 ~ hisp_pct, data = filter(results, counted >= 98, state.x == "Illinois")))
+```
+
+
+```{r}
+results %>%
+  filter(counted >= 98, state.x == "Illinois") %>%
+  ggplot(aes(hisp_pct, Swing2020)) + geom_text(aes(label = county))
+```
+
+
