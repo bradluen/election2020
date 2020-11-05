@@ -1,3 +1,6 @@
+# GitHub:
+# https://github.com/bradluen/election2020
+
 scrapenyt = function(state, url){
 require(rvest)
 #url = "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-indiana.html"
