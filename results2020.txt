@@ -1,0 +1,4615 @@
+"state" "County" "Margin2020" "votes" "counted"
+"Alabama" "Jefferson" 13 325848 98
+"Alabama" "Madison" -8 194767 98
+"Alabama" "Mobile" -12 183164 98
+"Alabama" "Shelby" -40 114950 98
+"Alabama" "Baldwin" -54 109679 98
+"Alabama" "Montgomery" 31 99139 98
+"Alabama" "Tuscaloosa" -15 90172 98
+"Alabama" "Lee" -20 71449 98
+"Alabama" "Morgan" -49 53722 98
+"Alabama" "Calhoun" -39 50983 98
+"Alabama" "Limestone" -43 49235 98
+"Alabama" "Etowah" -50 47728 98
+"Alabama" "Houston" -43 46173 98
+"Alabama" "St. Clair" -64 44441 98
+"Alabama" "Lauderdale" -45 44339 98
+"Alabama" "Cullman" -77 41851 98
+"Alabama" "Elmore" -48 41030 98
+"Alabama" "Marshall" -69 39655 98
+"Alabama" "Talladega" -26 35663 98
+"Alabama" "Walker" -68 31170 98
+"Alabama" "DeKalb" -70 29356 98
+"Alabama" "Colbert" -39 27886 98
+"Alabama" "Autauga" -44 27770 98
+"Alabama" "Blount" -80 27588 98
+"Alabama" "Jackson" -67 23636 98
+"Alabama" "Coffee" -53 22275 98
+"Alabama" "Russell" 6 21329 98
+"Alabama" "Tallapoosa" -43 20991 98
+"Alabama" "Dale" -46 19738 98
+"Alabama" "Chilton" -67 19310 98
+"Alabama" "Dallas" 38 17864 98
+"Alabama" "Covington" -68 17430 98
+"Alabama" "Lawrence" -55 16031 98
+"Alabama" "Escambia" -37 15910 98
+"Alabama" "Chambers" -16 15284 98
+"Alabama" "Pike" -17 13841 98
+"Alabama" "Marion" -78 13807 98
+"Alabama" "Clarke" -12 13135 98
+"Alabama" "Franklin" -66 12578 98
+"Alabama" "Geneva" -74 12545 98
+"Alabama" "Cherokee" -73 12301 98
+"Alabama" "Winston" -82 11284 98
+"Alabama" "Marengo" 1.3 10900 98
+"Alabama" "Randolph" -59 10837 98
+"Alabama" "Monroe" -16 10668 98
+"Alabama" "Barbour" -8 10518 98
+"Alabama" "Pickens" -16 9668 98
+"Alabama" "Bibb" -58 9595 98
+"Alabama" "Butler" -16 9488 98
+"Alabama" "Henry" -43 9298 98
+"Alabama" "Washington" -49 8876 98
+"Alabama" "Fayette" -67 8766 98
+"Alabama" "Macon" 64 8723 98
+"Alabama" "Hale" 19 7900 98
+"Alabama" "Choctaw" -16 7464 98
+"Alabama" "Cleburne" -80 7227 98
+"Alabama" "Lamar" -72 7193 98
+"Alabama" "Clay" -63 6930 98
+"Alabama" "Lowndes" 46 6835 98
+"Alabama" "Crenshaw" -48 6617 98
+"Alabama" "Conecuh" -7 6441 98
+"Alabama" "Sumter" 48 6291 98
+"Alabama" "Wilcox" 38 5903 98
+"Alabama" "Coosa" -33 5479 98
+"Alabama" "Perry" 48 5230 98
+"Alabama" "Greene" 63 4775 98
+"Alabama" "Bullock" 50 4613 98
+"Alaska" "ED 38" 28 5299 96
+"Alaska" "ED 28" -26 25580 98
+"Alaska" "ED 26" -24 20292 98
+"Alaska" "ED 27" -25 19037 98
+"Alaska" "ED 31" -15 12481 98
+"Alaska" "ED 14" -21 11534 98
+"Alaska" "ED 12" -44 11280 98
+"Alaska" "ED 10" -48 11256 98
+"Alaska" "ED 9" -45 11047 98
+"Alaska" "ED 33" 41 11016 98
+"Alaska" "ED 34" 11 10794 98
+"Alaska" "ED 29" -42 10784 98
+"Alaska" "ED 11" -37 10686 98
+"Alaska" "ED 4" 6 10587 98
+"Alaska" "ED 24" -6 10484 98
+"Alaska" "ED 30" -44 10226 98
+"Alaska" "ED 35" 2 10149 98
+"Alaska" "ED 8" -57 9957 98
+"Alaska" "ED 7" -50 9664 98
+"Alaska" "ED 22" -1.4 9597 98
+"Alaska" "ED 6" -26 9518 98
+"Alaska" "ED 21" 18 9482 98
+"Alaska" "ED 25" 2 9369 98
+"Alaska" "ED 36" -14 9292 98
+"Alaska" "ED 5" 1.5 8706 98
+"Alaska" "ED 3" -50 8385 98
+"Alaska" "ED 32" -11 8361 98
+"Alaska" "ED 16" 9 8170 98
+"Alaska" "ED 23" 2 7796 98
+"Alaska" "ED 13" -26 7765 98
+"Alaska" "ED 18" 25 7759 98
+"Alaska" "ED 20" 33 7544 98
+"Alaska" "ED 1" -0.46 7360 98
+"Alaska" "ED 17" 18 7271 98
+"Alaska" "ED 2" -25 6161 98
+"Alaska" "ED 39" 28 5930 98
+"Alaska" "ED 15" -0.88 5593 98
+"Alaska" "ED 19" 21 5338 98
+"Alaska" "ED 37" 4 5168 98
+"Alaska" "ED 40" 7 4628 98
+"Arizona" "Maricopa" 2 2069475 98
+"Arizona" "Pima" 19 520735 98
+"Arizona" "Pinal" -17 185037 98
+"Arizona" "Yavapai" -29 143280 98
+"Arizona" "Mohave" -51 104705 98
+"Arizona" "Coconino" 24 73346 98
+"Arizona" "Yuma" -6 69926 98
+"Arizona" "Cochise" -20 60473 98
+"Arizona" "Navajo" -8 51783 98
+"Arizona" "Apache" 34 35183 98
+"Arizona" "Gila" -34 27678 98
+"Arizona" "Santa Cruz" 35 19561 98
+"Arizona" "Graham" -45 14996 98
+"Arizona" "La Paz" -39 7460 98
+"Arizona" "Greenlee" -34 3688 98
+"Arkansas" "Pulaski" 23 169956 98
+"Arkansas" "Benton" -26 119912 98
+"Arkansas" "Washington" -4 94266 98
+"Arkansas" "Saline" -41 56959 98
+"Arkansas" "Faulkner" -30 54428 98
+"Arkansas" "Sebastian" -35 47140 98
+"Arkansas" "Garland" -34 44199 98
+"Arkansas" "Craighead" -35 38511 98
+"Arkansas" "White" -59 30885 98
+"Arkansas" "Lonoke" -53 30662 98
+"Arkansas" "Jefferson" 22 25158 98
+"Arkansas" "Pope" -50 24432 98
+"Arkansas" "Crawford" -57 24091 98
+"Arkansas" "Baxter" -53 21007 98
+"Arkansas" "Boone" -62 17114 98
+"Arkansas" "Union" -29 16607 98
+"Arkansas" "Miller" -46 16529 98
+"Arkansas" "Crittenden" 7 16367 98
+"Arkansas" "Greene" -60 16100 98
+"Arkansas" "Independence" -58 14512 98
+"Arkansas" "Cleburne" -66 12680 98
+"Arkansas" "Hot Spring" -49 12557 98
+"Arkansas" "Mississippi" -22 12342 98
+"Arkansas" "Carroll" -29 11797 98
+"Arkansas" "Ouachita" -13 9629 98
+"Arkansas" "Johnson" -49 9498 98
+"Arkansas" "Conway" -35 8685 98
+"Arkansas" "Columbia" -31 8616 98
+"Arkansas" "Polk" -68 8490 98
+"Arkansas" "Clark" -14 8395 98
+"Arkansas" "Logan" -60 8225 98
+"Arkansas" "Grant" -67 8200 98
+"Arkansas" "Ashley" -43 7926 98
+"Arkansas" "Van Buren" -57 7807 98
+"Arkansas" "Sharp" -60 7566 98
+"Arkansas" "Poinsett" -60 7521 98
+"Arkansas" "Marion" -57 7503 98
+"Arkansas" "Madison" -56 7351 98
+"Arkansas" "Franklin" -61 7129 98
+"Arkansas" "Saint Francis" 5 7108 98
+"Arkansas" "Cross" -46 6942 98
+"Arkansas" "Drew" -28 6908 98
+"Arkansas" "Hempstead" -34 6848 98
+"Arkansas" "Randolph" -61 6812 98
+"Arkansas" "Yell" -58 6741 98
+"Arkansas" "Arkansas" -40 6292 98
+"Arkansas" "Phillips" 19 6242 98
+"Arkansas" "Stone" -58 5938 98
+"Arkansas" "Lawrence" -60 5857 98
+"Arkansas" "Izard" -62 5810 98
+"Arkansas" "Sevier" -53 5202 98
+"Arkansas" "Clay" -60 5183 98
+"Arkansas" "Little River" -48 5177 98
+"Arkansas" "Fulton" -57 5119 98
+"Arkansas" "Jackson" -44 5091 98
+"Arkansas" "Howard" -42 4834 98
+"Arkansas" "Perry" -53 4627 98
+"Arkansas" "Pike" -68 4246 98
+"Arkansas" "Desha" 2 4164 98
+"Arkansas" "Chicot" 12 4103 98
+"Arkansas" "Searcy" -69 4019 98
+"Arkansas" "Newton" -62 3998 98
+"Arkansas" "Lincoln" -44 3875 98
+"Arkansas" "Montgomery" -60 3873 98
+"Arkansas" "Bradley" -31 3654 98
+"Arkansas" "Cleveland" -62 3600 98
+"Arkansas" "Scott" -70 3551 98
+"Arkansas" "Prairie" -61 3495 98
+"Arkansas" "Nevada" -31 3358 98
+"Arkansas" "Lee" 5 2848 98
+"Arkansas" "Monroe" -14 2816 98
+"Arkansas" "Lafayette" -34 2679 98
+"Arkansas" "Dallas" -23 2649 98
+"Arkansas" "Woodruff" -28 2476 98
+"Arkansas" "Calhoun" -53 2182 98
+"California" "Sierra" -21 1930 93
+"California" "Butte" 1.7 102042 94
+"California" "San Francisco" 73 443458 96
+"California" "Modoc" -45 4338 96
+"California" "Trinity" -5 6258 97
+"California" "Marin" 67 155801 98
+"California" "Los Angeles" 44 4263443 98
+"California" "San Diego" 23 1601722 98
+"California" "Orange" 9 1521725 98
+"California" "Riverside" 8 996156 98
+"California" "Santa Clara" 47 850522 98
+"California" "San Bernardino" 11 840931 98
+"California" "Alameda" 63 769864 98
+"California" "Sacramento" 25 718290 98
+"California" "Contra Costa" 45 581230 98
+"California" "Ventura" 21 422698 98
+"California" "San Mateo" 58 374138 98
+"California" "Fresno" 8 364809 98
+"California" "Kern" -10 305226 98
+"California" "San Joaquin" 14 288443 98
+"California" "Sonoma" 51 268252 98
+"California" "Placer" -7 235017 98
+"California" "Stanislaus" 0.79 214876 98
+"California" "Solano" 30 205831 98
+"California" "Santa Barbara" 32 200288 98
+"California" "Monterey" 41 163883 98
+"California" "San Luis Obispo" 13 159681 98
+"California" "Tulare" -8 146832 98
+"California" "Santa Cruz" 60 144796 98
+"California" "El Dorado" -9 116138 98
+"California" "Yolo" 41 97264 98
+"California" "Shasta" -33 92900 98
+"California" "Merced" 11 90541 98
+"California" "Napa" 40 72122 98
+"California" "Humboldt" 33 68828 98
+"California" "Nevada" 15 64738 98
+"California" "Imperial" 24 56718 98
+"California" "Madera" -12 53722 98
+"California" "Kings" -12 43858 98
+"California" "Mendocino" 36 43336 98
+"California" "Sutter" -16 42640 98
+"California" "Tuolumne" -19 30401 98
+"California" "Yuba" -22 29787 98
+"California" "San Benito" 24 28821 98
+"California" "Lake" 6 28800 98
+"California" "Tehama" -36 28721 98
+"California" "Calaveras" -24 27164 98
+"California" "Siskiyou" -16 23450 98
+"California" "Amador" -24 22302 98
+"California" "Lassen" -51 11985 98
+"California" "Del Norte" -16 11452 98
+"California" "Glenn" -27 11292 98
+"California" "Plumas" -17 11256 98
+"California" "Mariposa" -18 10280 98
+"California" "Inyo" 0.15 9481 98
+"California" "Colusa" -17 7951 98
+"California" "Mono" 22 6737 98
+"California" "Alpine" 31 741 98
+"Colorado" "Denver" 61 393827 98
+"Colorado" "El Paso" -11 378849 98
+"Colorado" "Jefferson" 19 377357 98
+"Colorado" "Arapahoe" 25 350183 98
+"Colorado" "Adams" 16 236735 98
+"Colorado" "Douglas" -7 231599 98
+"Colorado" "Larimer" 15 224338 98
+"Colorado" "Boulder" 57 206111 98
+"Colorado" "Weld" -18 166968 98
+"Colorado" "Mesa" -28 90622 98
+"Colorado" "Pueblo" 1.7 88299 98
+"Colorado" "Broomfield" 27 46632 98
+"Colorado" "La Plata" 18 35667 98
+"Colorado" "Garfield" 2 30904 98
+"Colorado" "Eagle" 30 29140 98
+"Colorado" "Fremont" -40 25557 98
+"Colorado" "Montrose" -36 24922 98
+"Colorado" "Delta" -37 19370 98
+"Colorado" "Elbert" -50 18983 98
+"Colorado" "Summit" 40 18479 98
+"Colorado" "Teller" -35 16939 98
+"Colorado" "Routt" 28 16876 98
+"Colorado" "Montezuma" -22 15500 98
+"Colorado" "Morgan" -42 13744 98
+"Colorado" "Chaffee" 7 13717 98
+"Colorado" "Park" -17 12290 98
+"Colorado" "Pitkin" 52 11957 98
+"Colorado" "Gunnison" 31 10887 98
+"Colorado" "Logan" -56 10532 98
+"Colorado" "Grand" -1.8 9870 98
+"Colorado" "Otero" -22 9576 98
+"Colorado" "Archuleta" -16 9144 98
+"Colorado" "Las Animas" -10 7961 98
+"Colorado" "Alamosa" -0.69 7808 98
+"Colorado" "Moffat" -64 7026 98
+"Colorado" "Clear Creek" 13 6548 98
+"Colorado" "Rio Grande" -18 6305 98
+"Colorado" "Prowers" -46 5561 98
+"Colorado" "San Miguel" 54 5147 98
+"Colorado" "Yuma" -67 4981 98
+"Colorado" "Huerfano" -3 4406 98
+"Colorado" "Conejos" -8 4333 98
+"Colorado" "Gilpin" 9 4186 98
+"Colorado" "Ouray" 20 4020 98
+"Colorado" "Lake" 20 3961 98
+"Colorado" "Kit Carson" -64 3871 98
+"Colorado" "Rio Blanco" -68 3691 98
+"Colorado" "Custer" -37 3634 98
+"Colorado" "Saguache" 14 3389 98
+"Colorado" "Washington" -74 3008 98
+"Colorado" "Lincoln" -63 2651 98
+"Colorado" "Phillips" -59 2485 98
+"Colorado" "Bent" -34 2274 98
+"Colorado" "Baca" -70 2225 98
+"Colorado" "Costilla" 27 2094 98
+"Colorado" "Crowley" -48 1750 98
+"Colorado" "Dolores" -52 1449 98
+"Colorado" "Sedgwick" -57 1446 98
+"Colorado" "Cheyenne" -76 1136 98
+"Colorado" "Kiowa" -77 903 98
+"Colorado" "Jackson" -58 876 98
+"Colorado" "Mineral" -15 756 98
+"Colorado" "Hinsdale" -16 632 98
+"Colorado" "San Juan" 25 563 98
+"Connecticut" "Stamford" 37 59412 98
+"Connecticut" "Norwalk" 37 43219 98
+"Connecticut" "Bridgeport" 60 42188 98
+"Connecticut" "New Haven" 70 42102 98
+"Connecticut" "West Hartford" 52 36294 98
+"Connecticut" "Greenwich" 25 36112 98
+"Connecticut" "Waterbury" 21 36107 98
+"Connecticut" "Fairfield" 31 35414 98
+"Connecticut" "Hartford" 74 32687 98
+"Connecticut" "Milford" 11 32062 98
+"Connecticut" "Danbury" 19 32021 98
+"Connecticut" "Bristol" 5 29799 98
+"Connecticut" "Hamden" 50 29104 98
+"Connecticut" "Manchester" 38 28466 98
+"Connecticut" "Stratford" 24 28194 98
+"Connecticut" "Southington" -2 26718 98
+"Connecticut" "Wallingford" 7 25785 98
+"Connecticut" "Meriden" 20 25326 98
+"Connecticut" "New Britain" 35 24071 98
+"Connecticut" "Shelton" -8 23892 98
+"Connecticut" "Middletown" 34 23509 98
+"Connecticut" "West Haven" 27 22605 98
+"Connecticut" "Glastonbury" 27 22374 98
+"Connecticut" "Trumbull" 10 22002 98
+"Connecticut" "Enfield" 9 20929 98
+"Connecticut" "East Hartford" 45 20607 98
+"Connecticut" "Branford" 19 17913 98
+"Connecticut" "Westport" 50 17538 98
+"Connecticut" "Windsor" 52 17514 98
+"Connecticut" "Cheshire" 14 17435 98
+"Connecticut" "Groton" 25 17389 98
+"Connecticut" "Newington" 17 17355 98
+"Connecticut" "Newtown" 14 17269 98
+"Connecticut" "Torrington" -12 16824 98
+"Connecticut" "Wethersfield" 20 16277 98
+"Connecticut" "Ridgefield" 28 16245 98
+"Connecticut" "Simsbury" 29 16174 98
+"Connecticut" "Farmington" 22 16037 98
+"Connecticut" "New Milford" 3 15734 98
+"Connecticut" "South Windsor" 26 15523 98
+"Connecticut" "North Haven" -3 15447 98
+"Connecticut" "Vernon" 22 15400 98
+"Connecticut" "Norwich" 24 15290 98
+"Connecticut" "Naugatuck" -5 14904 98
+"Connecticut" "Guilford" 31 14867 98
+"Connecticut" "East Haven" -6 14501 98
+"Connecticut" "Darien" 23 13018 98
+"Connecticut" "Southbury" 2 12990 98
+"Connecticut" "Berlin" -5 12873 98
+"Connecticut" "Bloomfield" 73 12821 98
+"Connecticut" "Watertown" -26 12754 98
+"Connecticut" "Madison" 24 12437 98
+"Connecticut" "New Canaan" 20 12365 98
+"Connecticut" "Waterford" 15 12316 98
+"Connecticut" "Monroe" -1.3 12002 98
+"Connecticut" "Avon" 24 11987 98
+"Connecticut" "Stonington" 27 11889 98
+"Connecticut" "East Lyme" 26 11756 98
+"Connecticut" "Wilton" 33 11715 98
+"Connecticut" "Bethel" 14 11172 98
+"Connecticut" "Rocky Hill" 13 10940 98
+"Connecticut" "Brookfield" 1.9 10807 98
+"Connecticut" "Wolcott" -32 10002 98
+"Connecticut" "Colchester" 10 9691 98
+"Connecticut" "Plainville" -1.5 9647 98
+"Connecticut" "Ellington" 3 9491 98
+"Connecticut" "Seymour" -13 9392 98
+"Connecticut" "Tolland" 12 9257 98
+"Connecticut" "Orange" 5 9253 98
+"Connecticut" "New London" 53 9123 98
+"Connecticut" "Montville" 1.8 8873 98
+"Connecticut" "Cromwell" 13 8783 98
+"Connecticut" "Suffield" 2 8686 98
+"Connecticut" "North Branford" -12 8631 98
+"Connecticut" "New Fairfield" -3 8558 98
+"Connecticut" "Oxford" -22 8514 98
+"Connecticut" "Ledyard" 10 8427 98
+"Connecticut" "Ansonia" 9 8419 98
+"Connecticut" "Windham" 30 8348 98
+"Connecticut" "Killingly" -15 8283 98
+"Connecticut" "East Hampton" 4 7988 98
+"Connecticut" "Clinton" 14 7804 98
+"Connecticut" "Coventry" 6 7772 98
+"Connecticut" "Mansfield" 52 7485 98
+"Connecticut" "Granby" 12 7373 98
+"Connecticut" "Old Saybrook" 17 7343 98
+"Connecticut" "Plainfield" -17 7086 98
+"Connecticut" "Windsor Locks" 8 7021 98
+"Connecticut" "Canton" 18 6663 98
+"Connecticut" "Plymouth" -23 6593 98
+"Connecticut" "Woodbury" -1.7 6559 98
+"Connecticut" "Weston" 47 6528 98
+"Connecticut" "Stafford" -10 6422 98
+"Connecticut" "Hebron" 10 6266 98
+"Connecticut" "Burlington" 1 6231 98
+"Connecticut" "Prospect" -30 6111 98
+"Connecticut" "Griswold" -12 5981 98
+"Connecticut" "Redding" 30 5975 98
+"Connecticut" "Portland" 9 5888 98
+"Connecticut" "East Haddam" 4 5825 98
+"Connecticut" "Derby" 4 5778 98
+"Connecticut" "Woodbridge" 36 5739 98
+"Connecticut" "Somers" -13 5731 98
+"Connecticut" "East Windsor" 8 5652 98
+"Connecticut" "Haddam" 0.63 5512 98
+"Connecticut" "Old Lyme" 21 5413 98
+"Connecticut" "Litchfield" 2 5342 98
+"Connecticut" "Woodstock" 0.54 5179 98
+"Connecticut" "Thompson" -19 5155 98
+"Connecticut" "Winchester" -10 5133 98
+"Connecticut" "Middlebury" -9 5078 98
+"Connecticut" "Easton" 12 5023 98
+"Connecticut" "Durham" 0.69 4782 98
+"Connecticut" "Essex" 29 4715 98
+"Connecticut" "New Hartford" -6 4577 98
+"Connecticut" "Lebanon" -5 4438 98
+"Connecticut" "Killingworth" 8 4387 98
+"Connecticut" "Thomaston" -28 4374 98
+"Connecticut" "Putnam" -3 4350 98
+"Connecticut" "Westbrook" 8 4311 98
+"Connecticut" "Brooklyn" -9 4222 98
+"Connecticut" "Marlborough" 6 4062 98
+"Connecticut" "Beacon Falls" -17 3803 98
+"Connecticut" "Harwinton" -22 3701 98
+"Connecticut" "Bethany" 5 3698 98
+"Connecticut" "Columbia" 8 3568 98
+"Connecticut" "North Stonington" -3 3375 98
+"Connecticut" "Bolton" 7 3288 98
+"Connecticut" "East Granby" 12 3264 98
+"Connecticut" "Willington" 7 3204 98
+"Connecticut" "Canterbury" -19 3012 98
+"Connecticut" "Deep River" 24 2902 98
+"Connecticut" "Preston" -9 2868 98
+"Connecticut" "Middlefield" 3 2853 98
+"Connecticut" "Salem" -0.23 2623 98
+"Connecticut" "Chester" 33 2596 98
+"Connecticut" "Salisbury" 60 2555 98
+"Connecticut" "Ashford" 7 2544 98
+"Connecticut" "Pomfret" 10 2524 98
+"Connecticut" "Lisbon" -9 2490 98
+"Connecticut" "Barkhamsted" -3 2442 98
+"Connecticut" "Bethlehem" -19 2367 98
+"Connecticut" "Sherman" 7 2336 98
+"Connecticut" "Washington" 30 2268 98
+"Connecticut" "Goshen" -12 2100 98
+"Connecticut" "Andover" 3 2091 98
+"Connecticut" "Sterling" -31 1908 98
+"Connecticut" "Kent" 38 1865 98
+"Connecticut" "Lyme" 33 1772 98
+"Connecticut" "North Canaan" 3 1705 98
+"Connecticut" "Roxbury" 17 1622 98
+"Connecticut" "Morris" -14 1561 98
+"Connecticut" "Sprague" -15 1557 98
+"Connecticut" "Sharon" 33 1555 98
+"Connecticut" "Bozrah" -7 1548 98
+"Connecticut" "Voluntown" -23 1524 98
+"Connecticut" "Hartland" -28 1292 98
+"Connecticut" "Chaplin" -5 1290 98
+"Connecticut" "Franklin" -10 1261 98
+"Connecticut" "Bridgewater" 10 1233 98
+"Connecticut" "Hampton" 1.8 1139 98
+"Connecticut" "Eastford" -10 1067 98
+"Connecticut" "Norfolk" 26 1065 98
+"Connecticut" "Cornwall" 49 1032 98
+"Connecticut" "Colebrook" -16 988 98
+"Connecticut" "Scotland" -14 970 98
+"Connecticut" "Warren" -0.53 945 98
+"Connecticut" "Canaan" 35 655 98
+"Connecticut" "Union" -10 571 98
+"Delaware" "New Castle" 37 287633 98
+"Delaware" "Sussex" -11 129352 98
+"Florida" "Miami-Dade" 7 1156816 98
+"Florida" "Broward" 30 957672 98
+"Florida" "Palm Beach" 13 773158 98
+"Florida" "Hillsborough" 7 712063 98
+"Florida" "Orange" 23 647403 98
+"Florida" "Pinellas" 0.22 559715 98
+"Florida" "Duval" 4 492820 98
+"Florida" "Lee" -19 393899 98
+"Florida" "Brevard" -16 360764 98
+"Florida" "Polk" -14 343256 98
+"Florida" "Volusia" -14 307439 98
+"Florida" "Pasco" -20 301970 98
+"Florida" "Sarasota" -10 270575 98
+"Florida" "Seminole" 3 260815 98
+"Florida" "Manatee" -16 216958 98
+"Florida" "Lake" -20 211314 98
+"Florida" "Collier" -25 207818 98
+"Florida" "Marion" -26 204376 98
+"Florida" "St. Johns" -27 176622 98
+"Florida" "Osceola" 14 172436 98
+"Florida" "St. Lucie" -1.6 172169 98
+"Florida" "Escambia" -15 170372 98
+"Florida" "Leon" 28 162929 98
+"Florida" "Alachua" 27 142604 98
+"Florida" "Clay" -37 124405 98
+"Florida" "Okaloosa" -39 116373 98
+"Florida" "Charlotte" -27 116340 98
+"Florida" "Hernando" -30 108922 98
+"Florida" "Santa Rosa" -47 106928 98
+"Florida" "Martin" -25 98726 98
+"Florida" "Indian River" -22 97484 98
+"Florida" "Citrus" -41 93208 98
+"Florida" "Bay" -44 93024 98
+"Florida" "Sumter" -36 92485 98
+"Florida" "Flagler" -21 71716 98
+"Florida" "Nassau" -46 58811 98
+"Florida" "Highlands" -34 52170 98
+"Florida" "Monroe" -8 48029 98
+"Florida" "Walton" -52 43711 98
+"Florida" "Putnam" -41 36373 98
+"Florida" "Columbia" -45 33042 98
+"Florida" "Gadsden" 37 23762 98
+"Florida" "Levy" -46 23145 98
+"Florida" "Jackson" -39 22419 98
+"Florida" "Suwannee" -57 21057 98
+"Florida" "Wakulla" -41 18404 98
+"Florida" "Okeechobee" -44 15954 98
+"Florida" "Baker" -70 14059 98
+"Florida" "Bradford" -53 13632 98
+"Florida" "Hendry" -23 12940 98
+"Florida" "DeSoto" -32 12659 98
+"Florida" "Washington" -61 12327 98
+"Florida" "Taylor" -54 10127 98
+"Florida" "Gilchrist" -64 9685 98
+"Florida" "Madison" -19 9380 98
+"Florida" "Holmes" -79 9068 98
+"Florida" "Hardee" -45 8485 98
+"Florida" "Jefferson" -7 8451 98
+"Florida" "Dixie" -66 8167 98
+"Florida" "Gulf" -51 8163 98
+"Florida" "Franklin" -37 6849 98
+"Florida" "Calhoun" -62 6526 98
+"Florida" "Union" -65 6245 98
+"Florida" "Hamilton" -32 5830 98
+"Florida" "Glades" -46 5193 98
+"Florida" "Lafayette" -72 3658 98
+"Florida" "Liberty" -60 3561 98
+"Georgia" "Fulton" 46 524659 98
+"Georgia" "Gwinnett" 18 413865 98
+"Georgia" "Cobb" 14 393746 98
+"Georgia" "DeKalb" 67 370804 98
+"Georgia" "Cherokee" -39 144830 98
+"Georgia" "Chatham" 19 133420 98
+"Georgia" "Forsyth" -33 129305 98
+"Georgia" "Henry" 20 122742 98
+"Georgia" "Clayton" 71 112344 98
+"Georgia" "Hall" -43 90523 98
+"Georgia" "Richmond" 37 87016 98
+"Georgia" "Paulding" -29 85385 98
+"Georgia" "Columbia" -26 80579 98
+"Georgia" "Muscogee" 24 80543 98
+"Georgia" "Coweta" -36 76799 98
+"Georgia" "Houston" -12 74823 98
+"Georgia" "Fayette" -7 71993 98
+"Georgia" "Bibb" 24 70802 98
+"Georgia" "Douglas" 25 69097 98
+"Georgia" "Carroll" -39 54474 98
+"Georgia" "Newton" 11 54239 98
+"Georgia" "Clarke" 42 51333 98
+"Georgia" "Walton" -49 51095 98
+"Georgia" "Bartow" -51 50467 98
+"Georgia" "Lowndes" -12 46355 98
+"Georgia" "Rockdale" 41 44686 98
+"Georgia" "Glynn" -23 41984 98
+"Georgia" "Floyd" -41 41648 98
+"Georgia" "Barrow" -43 37921 98
+"Georgia" "Jackson" -58 37670 98
+"Georgia" "Whitfield" -41 36746 98
+"Georgia" "Dougherty" 40 35311 98
+"Georgia" "Catoosa" -56 32651 98
+"Georgia" "Effingham" -50 31570 98
+"Georgia" "Spalding" -21 30116 98
+"Georgia" "Bulloch" -24 30084 98
+"Georgia" "Troup" -22 30049 98
+"Georgia" "Walker" -59 29354 98
+"Georgia" "Oconee" -34 25168 98
+"Georgia" "Gordon" -63 24033 98
+"Georgia" "Camden" -31 23688 98
+"Georgia" "Laurens" -28 22729 98
+"Georgia" "Thomas" -19 21853 98
+"Georgia" "Liberty" 24 21389 98
+"Georgia" "Bryan" -35 21340 98
+"Georgia" "Habersham" -64 20432 98
+"Georgia" "Harris" -44 19991 98
+"Georgia" "Baldwin" 1.3 18251 98
+"Georgia" "Polk" -57 17399 98
+"Georgia" "Pickens" -66 17116 98
+"Georgia" "Lee" -45 16714 98
+"Georgia" "Gilmer" -64 16525 98
+"Georgia" "Tift" -34 16283 98
+"Georgia" "Colquitt" -47 16083 98
+"Georgia" "Dawson" -68 16081 98
+"Georgia" "Monroe" -43 15592 98
+"Georgia" "Union" -63 15560 98
+"Georgia" "Lumpkin" -58 15531 98
+"Georgia" "Murray" -69 15389 98
+"Georgia" "Coffee" -40 15214 98
+"Georgia" "Jones" -34 14966 98
+"Georgia" "Madison" -53 14937 98
+"Georgia" "Fannin" -65 14850 98
+"Georgia" "White" -66 14816 98
+"Georgia" "Haralson" -74 14248 98
+"Georgia" "Ware" -40 14192 98
+"Georgia" "Upson" -34 12905 98
+"Georgia" "Wayne" -57 12778 98
+"Georgia" "Hart" -50 12727 98
+"Georgia" "Peach" -5 12545 98
+"Georgia" "Sumter" 5 12150 98
+"Georgia" "Stephens" -59 11885 98
+"Georgia" "Putnam" -41 11855 98
+"Georgia" "Butts" -44 11786 98
+"Georgia" "Morgan" -42 11707 98
+"Georgia" "Decatur" -17 11627 98
+"Georgia" "Greene" -26 11247 98
+"Georgia" "Toombs" -45 10914 98
+"Georgia" "Meriwether" -21 10877 98
+"Georgia" "Franklin" -69 10765 98
+"Georgia" "Pike" -71 10720 98
+"Georgia" "Grady" -32 10707 98
+"Georgia" "Burke" -1.8 10684 98
+"Georgia" "McDuffie" -19 10455 98
+"Georgia" "Chattooga" -62 10050 98
+"Georgia" "Rabun" -57 9568 98
+"Georgia" "Emanuel" -39 9501 98
+"Georgia" "Washington" 0.71 9459 98
+"Georgia" "Worth" -48 9285 98
+"Georgia" "Elbert" -36 9171 98
+"Georgia" "Pierce" -75 9048 98
+"Georgia" "Lamar" -41 9039 98
+"Georgia" "Mitchell" -10 8963 98
+"Georgia" "Banks" -78 8801 98
+"Georgia" "Appling" -57 8341 98
+"Georgia" "Tattnall" -49 8183 98
+"Georgia" "Oglethorpe" -39 8131 98
+"Georgia" "Dodge" -46 8070 98
+"Georgia" "Crisp" -25 8050 98
+"Georgia" "Towns" -61 7979 98
+"Georgia" "Brantley" -81 7746 98
+"Georgia" "Berrien" -67 7743 98
+"Georgia" "Jasper" -53 7644 98
+"Georgia" "Jefferson" 7 7642 98
+"Georgia" "Dade" -65 7434 98
+"Georgia" "Brooks" -21 7100 98
+"Georgia" "Cook" -40 7035 98
+"Georgia" "McIntosh" -21 6696 98
+"Georgia" "Screven" -19 6628 98
+"Georgia" "Ben Hill" -26 6560 98
+"Georgia" "Crawford" -46 6102 98
+"Georgia" "Jeff Davis" -64 5771 98
+"Georgia" "Bleckley" -53 5706 98
+"Georgia" "Long" -26 5656 98
+"Georgia" "Heard" -68 5391 98
+"Georgia" "Early" -5 5187 98
+"Georgia" "Wilkes" -13 5029 98
+"Georgia" "Wilkinson" -12 4770 98
+"Georgia" "Bacon" -73 4668 98
+"Georgia" "Macon" 23 4662 98
+"Georgia" "Lincoln" -38 4650 98
+"Georgia" "Charlton" -51 4566 98
+"Georgia" "Twiggs" -7 4444 98
+"Georgia" "Candler" -42 4431 98
+"Georgia" "Terrell" 8 4416 98
+"Georgia" "Telfair" -31 4333 98
+"Georgia" "Evans" -37 4247 98
+"Georgia" "Irwin" -51 4168 98
+"Georgia" "Hancock" 44 4165 98
+"Georgia" "Dooly" -6 4105 98
+"Georgia" "Johnson" -40 4100 98
+"Georgia" "Pulaski" -39 4059 98
+"Georgia" "Montgomery" -50 3966 98
+"Georgia" "Seminole" -35 3884 98
+"Georgia" "Taylor" -27 3839 98
+"Georgia" "Turner" -25 3792 98
+"Georgia" "Marion" -27 3624 98
+"Georgia" "Lanier" -42 3576 98
+"Georgia" "Talbot" 20 3522 98
+"Georgia" "Jenkins" -26 3455 98
+"Georgia" "Wilcox" -47 3281 98
+"Georgia" "Atkinson" -47 3155 98
+"Georgia" "Treutlen" -37 3077 98
+"Georgia" "Randolph" 9 3074 98
+"Georgia" "Clinch" -47 2864 98
+"Georgia" "Miller" -46 2835 98
+"Georgia" "Warren" 11 2651 98
+"Georgia" "Wheeler" -39 2285 98
+"Georgia" "Schley" -59 2275 98
+"Georgia" "Calhoun" 15 2194 98
+"Georgia" "Stewart" 19 1990 98
+"Georgia" "Chattahoochee" -13 1582 98
+"Georgia" "Glascock" -80 1566 98
+"Georgia" "Baker" -16 1555 98
+"Georgia" "Echols" -76 1441 98
+"Georgia" "Clay" 11 1434 98
+"Georgia" "Webster" -8 1390 98
+"Georgia" "Quitman" -10 1106 98
+"Georgia" "Taliaferro" 22 928 98
+"Hawaii" "Honolulu" 27 382114 98
+"Hawaii" "Hawaii" 36 87814 98
+"Hawaii" "Maui" 35 71044 98
+"Hawaii" "Kauai" 29 33497 98
+"Idaho" "Lincoln" -54 1940 90
+"Idaho" "Clark" -72 311 92
+"Idaho" "Custer" -54 2739 93
+"Idaho" "Butte" -72 1415 93
+"Idaho" "Jerome" -49 7812 94
+"Idaho" "Gooding" -56 6050 94
+"Idaho" "Cassia" -67 9629 95
+"Idaho" "Lemhi" -54 4738 95
+"Idaho" "Idaho County" -65 9602 96
+"Idaho" "Clearwater" -58 4419 96
+"Idaho" "Madison" -64 17112 97
+"Idaho" "Elmore" -46 10205 97
+"Idaho" "Shoshone" -42 6049 97
+"Idaho" "Washington" -58 5344 97
+"Idaho" "Power" -41 3086 97
+"Idaho" "Lewis" -61 1870 97
+"Idaho" "Benewah" -58 4973 98
+"Idaho" "Owyhee" -63 4742 98
+"Idaho" "Adams" -52 2586 98
+"Idaho" "Ada" -4 259389 98
+"Idaho" "Canyon" -40 90438 98
+"Idaho" "Kootenai" -43 89878 98
+"Idaho" "Bonneville" -44 53995 98
+"Idaho" "Bannock" -22 39553 98
+"Idaho" "Twin Falls" -45 36680 98
+"Idaho" "Bonner" -37 27352 98
+"Idaho" "Nez Perce" -34 20967 98
+"Idaho" "Latah" 4 20570 98
+"Idaho" "Bingham" -56 20094 98
+"Idaho" "Jefferson" -74 14173 98
+"Idaho" "Blaine" 37 13288 98
+"Idaho" "Payette" -59 11293 98
+"Idaho" "Gem" -62 9958 98
+"Idaho" "Minidoka" -59 7993 98
+"Idaho" "Valley" -14 7063 98
+"Idaho" "Fremont" -68 6719 98
+"Idaho" "Franklin" -78 6664 98
+"Idaho" "Teton" 7 6347 98
+"Idaho" "Boundary" -59 6313 98
+"Idaho" "Boise" -47 4820 98
+"Idaho" "Caribou" -72 3416 98
+"Idaho" "Bear Lake" -77 3315 98
+"Idaho" "Oneida" -77 2451 98
+"Idaho" "Camas" -47 754 98
+"Illinois" "Hancock" -64 6565 72
+"Illinois" "Pulaski" -31 2631 81
+"Illinois" "Jackson" 1.2 22575 83
+"Illinois" "Alexander" -14 2625 87
+"Illinois" "Saline" -48 11079 89
+"Illinois" "Knox" -6 22716 90
+"Illinois" "Franklin" -48 18488 90
+"Illinois" "Gallatin" -52 2673 90
+"Illinois" "Pope" -59 2172 91
+"Illinois" "Marion" -47 17214 92
+"Illinois" "White" -57 7428 92
+"Illinois" "Edwards" -70 3368 92
+"Illinois" "Jefferson" -45 17409 93
+"Illinois" "Perry" -47 10060 93
+"Illinois" "Wayne" -71 8492 93
+"Illinois" "Wabash" -53 5592 93
+"Illinois" "Champaign" 23 94911 94
+"Illinois" "Vermilion" -33 31617 94
+"Illinois" "Morgan" -32 15229 94
+"Illinois" "McDonough" -17 12290 94
+"Illinois" "Mercer" -24 8750 94
+"Illinois" "Edgar" -53 8152 94
+"Illinois" "Hamilton" -60 4316 94
+"Illinois" "Henderson" -33 3652 94
+"Illinois" "Bureau" -22 17182 95
+"Illinois" "Christian" -45 16094 95
+"Illinois" "Lawrence" -54 6379 95
+"Illinois" "Cass" -38 5325 95
+"Illinois" "Scott" -56 2730 95
+"Illinois" "Cook" 50 2321399 96
+"Illinois" "Sangamon" -4 104751 96
+"Illinois" "LaSalle" -15 52053 96
+"Illinois" "Fulton" -21 16517 96
+"Illinois" "Randolph" -50 14896 96
+"Illinois" "Montgomery" -41 13701 96
+"Illinois" "Clark" -51 8340 96
+"Illinois" "Cumberland" -59 5843 96
+"Illinois" "Stark" -41 2881 96
+"Illinois" "McLean" 4 87013 97
+"Illinois" "Macoupin" -37 23919 97
+"Illinois" "Lee" -20 16351 97
+"Illinois" "Washington" -56 7914 97
+"Illinois" "Ford" -48 6809 97
+"Illinois" "Moultrie" -49 6698 97
+"Illinois" "Marshall" -35 6343 97
+"Illinois" "Brown" -57 2523 97
+"Illinois" "Whiteside" -8 27254 98
+"Illinois" "Iroquois" -57 14011 98
+"Illinois" "Crawford" -51 9419 98
+"Illinois" "Douglas" -45 8746 98
+"Illinois" "Calhoun" -49 2767 98
+"Illinois" "DuPage" 18 485064 98
+"Illinois" "Will" 8 346141 98
+"Illinois" "Lake" 24 334156 98
+"Illinois" "Kane" 14 231876 98
+"Illinois" "McHenry" -2 164574 98
+"Illinois" "Madison" -13 137558 98
+"Illinois" "Winnebago" 3 127710 98
+"Illinois" "St. Clair" 9 125220 98
+"Illinois" "Peoria" 6 82264 98
+"Illinois" "Tazewell" -26 68358 98
+"Illinois" "Rock Island" 12 66750 98
+"Illinois" "Kendall" 6 64205 98
+"Illinois" "Kankakee" -17 49729 98
+"Illinois" "Macon" -18 48934 98
+"Illinois" "DeKalb" 6 47989 98
+"Illinois" "Williamson" -38 33503 98
+"Illinois" "Adams" -47 33434 98
+"Illinois" "Grundy" -26 26400 98
+"Illinois" "Ogle" -26 26040 98
+"Illinois" "Henry" -21 25624 98
+"Illinois" "Boone" -14 24672 98
+"Illinois" "Coles" -27 22470 98
+"Illinois" "Stephenson" -16 21446 98
+"Illinois" "Woodford" -41 21079 98
+"Illinois" "Monroe" -36 21024 98
+"Illinois" "Clinton" -51 19139 98
+"Illinois" "Effingham" -59 19041 98
+"Illinois" "Livingston" -44 17049 98
+"Illinois" "Logan" -40 13117 98
+"Illinois" "JoDaviess" -17 12477 98
+"Illinois" "Shelby" -57 12049 98
+"Illinois" "Jersey" -48 11942 98
+"Illinois" "Fayette" -62 10033 98
+"Illinois" "Piatt" -30 9791 98
+"Illinois" "Richland" -71 9343 98
+"Illinois" "Union" -40 8896 98
+"Illinois" "Bond" -41 8109 98
+"Illinois" "Carroll" -29 8006 98
+"Illinois" "DeWitt" -43 7994 98
+"Illinois" "Warren" -20 7916 98
+"Illinois" "Pike" -61 7836 98
+"Illinois" "Menard" -39 6954 98
+"Illinois" "Clay" -65 6896 98
+"Illinois" "Massac" -48 6803 98
+"Illinois" "Mason" -39 6756 98
+"Illinois" "Johnson" -59 6442 98
+"Illinois" "Greene" -55 6224 98
+"Illinois" "Jasper" -62 5582 98
+"Illinois" "Schuyler" -44 3908 98
+"Illinois" "Putnam" -20 3345 98
+"Indiana" "Marion" 29 389619 98
+"Indiana" "Lake" 15 219956 98
+"Indiana" "Hamilton" -7 193999 98
+"Indiana" "Allen" -11 169082 98
+"Indiana" "St. Joseph" 6 115238 98
+"Indiana" "Hendricks" -24 88505 98
+"Indiana" "Porter" -6 86509 98
+"Indiana" "Vanderburgh" -10 77662 98
+"Indiana" "Johnson" -34 77618 98
+"Indiana" "Elkhart" -28 74387 98
+"Indiana" "Tippecanoe" 0.61 71448 98
+"Indiana" "Monroe" 28 63151 98
+"Indiana" "Clark" -18 57869 98
+"Indiana" "Madison" -23 51793 98
+"Indiana" "LaPorte" -7 49392 98
+"Indiana" "Delaware" -13 48191 98
+"Indiana" "Vigo" -15 43594 98
+"Indiana" "Hancock" -38 42911 98
+"Indiana" "Floyd" -14 41802 98
+"Indiana" "Howard" -32 40630 98
+"Indiana" "Boone" -18 38520 98
+"Indiana" "Bartholomew" -26 36235 98
+"Indiana" "Morgan" -55 36159 98
+"Indiana" "Kosciusko" -51 35787 98
+"Indiana" "Warrick" -28 33829 98
+"Indiana" "Wayne" -29 27679 98
+"Indiana" "Grant" -39 27159 98
+"Indiana" "Dearborn" -55 25383 98
+"Indiana" "Dubois" -40 21770 98
+"Indiana" "Henry" -45 21030 98
+"Indiana" "Lawrence" -51 21025 98
+"Indiana" "Harrison" -46 20236 98
+"Indiana" "Shelby" -48 19991 98
+"Indiana" "Marshall" -41 19927 98
+"Indiana" "DeKalb" -47 19628 98
+"Indiana" "Jackson" -53 19238 98
+"Indiana" "Noble" -50 19190 98
+"Indiana" "Huntington" -50 17829 98
+"Indiana" "Whitley" -49 17556 98
+"Indiana" "Montgomery" -49 17198 98
+"Indiana" "Putnam" -50 16597 98
+"Indiana" "Steuben" -42 16162 98
+"Indiana" "Gibson" -48 16161 98
+"Indiana" "Knox" -47 16011 98
+"Indiana" "Jasper" -49 15475 98
+"Indiana" "Cass" -41 15198 98
+"Indiana" "Greene" -52 14784 98
+"Indiana" "Jefferson" -34 14697 98
+"Indiana" "Wabash" -50 14573 98
+"Indiana" "Miami" -53 14473 98
+"Indiana" "Ripley" -59 14271 98
+"Indiana" "Adams" -52 14209 98
+"Indiana" "Wells" -56 14050 98
+"Indiana" "Posey" -41 13236 98
+"Indiana" "Clinton" -46 12949 98
+"Indiana" "Decatur" -58 12287 98
+"Indiana" "Clay" -57 12267 98
+"Indiana" "Jennings" -57 12251 98
+"Indiana" "Washington" -52 12139 98
+"Indiana" "Franklin" -63 12000 98
+"Indiana" "Daviess" -62 11954 98
+"Indiana" "White" -44 11166 98
+"Indiana" "Randolph" -52 11070 98
+"Indiana" "Spencer" -38 10769 98
+"Indiana" "LaGrange" -54 10633 98
+"Indiana" "Starke" -47 10290 98
+"Indiana" "Scott" -46 10161 98
+"Indiana" "Fayette" -54 10136 98
+"Indiana" "Owen" -49 9904 98
+"Indiana" "Carroll" -51 9495 98
+"Indiana" "Fulton" -48 9147 98
+"Indiana" "Sullivan" -50 8994 98
+"Indiana" "Brown" -31 8981 98
+"Indiana" "Orange" -48 8832 98
+"Indiana" "Perry" -25 8722 98
+"Indiana" "Jay" -52 8461 98
+"Indiana" "Tipton" -53 8116 98
+"Indiana" "Fountain" -57 7986 98
+"Indiana" "Rush" -54 7932 98
+"Indiana" "Vermillion" -41 7481 98
+"Indiana" "Parke" -56 7011 98
+"Indiana" "Newton" -52 6591 98
+"Indiana" "Pike" -53 6220 98
+"Indiana" "Pulaski" -48 5806 98
+"Indiana" "Blackford" -46 5350 98
+"Indiana" "Martin" -59 5144 98
+"Indiana" "Crawford" -43 4944 98
+"Indiana" "Warren" -54 4472 98
+"Indiana" "Switzerland" -52 4154 98
+"Indiana" "Benton" -49 4114 98
+"Indiana" "Union" -56 3483 98
+"Indiana" "Ohio" -52 3164 98
+"Iowa" "Black Hawk" 9 66549 86
+"Iowa" "Lee" -19 16721 86
+"Iowa" "Scott" 3 92639 89
+"Iowa" "Marshall" -8 18122 91
+"Iowa" "Winneshiek" -5 12036 91
+"Iowa" "Jefferson" -1.4 8952 91
+"Iowa" "Dubuque" -3 53924 92
+"Iowa" "Pocahontas" -50 3821 92
+"Iowa" "Linn" 14 127078 93
+"Iowa" "Des Moines" -9 19947 93
+"Iowa" "Webster" -24 17802 93
+"Iowa" "Bremer" -16 14534 93
+"Iowa" "Dickinson" -34 11230 93
+"Iowa" "Buena Vista" -26 8149 93
+"Iowa" "Floyd" -19 8026 93
+"Iowa" "Johnson" 43 83570 94
+"Iowa" "Clinton" -10 24669 94
+"Iowa" "Cerro Gordo" -6 23794 95
+"Iowa" "Ringgold" -46 2709 95
+"Iowa" "Polk" 15 257991 96
+"Iowa" "Woodbury" -16 45172 96
+"Iowa" "Wapello" -24 15613 96
+"Iowa" "Hardin" -32 8975 96
+"Iowa" "Calhoun" -42 5249 96
+"Iowa" "Franklin" -35 5119 96
+"Iowa" "Audubon" -36 3416 96
+"Iowa" "Poweshiek" -13 10124 97
+"Iowa" "O'Brien" -57 7541 97
+"Iowa" "Cherokee" -39 6503 97
+"Iowa" "Wright" -34 6242 97
+"Iowa" "Palo Alto" -37 4950 97
+"Iowa" "Emmet" -36 4850 97
+"Iowa" "Monona" -39 4714 97
+"Iowa" "Warren" -17 30955 98
+"Iowa" "Jasper" -22 20181 98
+"Iowa" "Buchanan" -21 10764 98
+"Iowa" "Henry" -32 9964 98
+"Iowa" "Dallas" -2 55847 98
+"Iowa" "Story" 17 50837 98
+"Iowa" "Pottawattamie" -17 45733 98
+"Iowa" "Muscatine" -7 20629 98
+"Iowa" "Marion" -34 19217 98
+"Iowa" "Sioux" -67 18956 98
+"Iowa" "Boone" -16 15306 98
+"Iowa" "Benton" -28 14627 98
+"Iowa" "Plymouth" -49 14165 98
+"Iowa" "Washington" -20 11757 98
+"Iowa" "Mahaska" -47 11381 98
+"Iowa" "Carroll" -38 11306 98
+"Iowa" "Jackson" -26 11118 98
+"Iowa" "Jones" -22 10965 98
+"Iowa" "Cedar" -17 10703 98
+"Iowa" "Fayette" -23 10184 98
+"Iowa" "Delaware" -35 9981 98
+"Iowa" "Madison" -34 9806 98
+"Iowa" "Iowa" -25 9716 98
+"Iowa" "Clayton" -29 9581 98
+"Iowa" "Kossuth" -39 9077 98
+"Iowa" "Tama" -19 9026 98
+"Iowa" "Clay" -39 8948 98
+"Iowa" "Hamilton" -25 8516 98
+"Iowa" "Mills" -37 8247 98
+"Iowa" "Harrison" -38 8144 98
+"Iowa" "Butler" -39 8084 98
+"Iowa" "Page" -43 7519 98
+"Iowa" "Allamakee" -29 7459 98
+"Iowa" "Cass" -38 7266 98
+"Iowa" "Grundy" -38 7260 98
+"Iowa" "Crawford" -37 7146 98
+"Iowa" "Lyon" -68 6852 98
+"Iowa" "Shelby" -40 6781 98
+"Iowa" "Chickasaw" -31 6617 98
+"Iowa" "Appanoose" -40 6506 98
+"Iowa" "Guthrie" -36 6369 98
+"Iowa" "Union" -32 6171 98
+"Iowa" "Hancock" -44 6161 98
+"Iowa" "Winnebago" -26 5951 98
+"Iowa" "Mitchell" -28 5815 98
+"Iowa" "Sac" -48 5527 98
+"Iowa" "Louisa" -33 5326 98
+"Iowa" "Humboldt" -45 5321 98
+"Iowa" "Montgomery" -39 5320 98
+"Iowa" "Keokuk" -45 5291 98
+"Iowa" "Greene" -29 5054 98
+"Iowa" "Howard" -27 4952 98
+"Iowa" "Clarke" -36 4666 98
+"Iowa" "Lucas" -43 4630 98
+"Iowa" "Worth" -26 4414 98
+"Iowa" "Adair" -41 4183 98
+"Iowa" "Davis" -49 4099 98
+"Iowa" "Monroe" -46 4085 98
+"Iowa" "Fremont" -42 3855 98
+"Iowa" "Ida" -51 3845 98
+"Iowa" "Decatur" -39 3801 98
+"Iowa" "Van Buren" -52 3788 98
+"Iowa" "Osceola" -63 3325 98
+"Iowa" "Taylor" -53 3242 98
+"Iowa" "Wayne" -52 3103 98
+"Iowa" "Adams" -43 2158 98
+"Kansas" "Pottawatomie" -47 12815 69
+"Kansas" "Allen" -44 5842 79
+"Kansas" "Greeley" -73 629 83
+"Kansas" "Phillips" -75 2752 84
+"Kansas" "Decatur" -70 1458 84
+"Kansas" "Morton" -74 1163 84
+"Kansas" "Graham" -64 1302 85
+"Kansas" "Cheyenne" -67 1400 86
+"Kansas" "Hodgeman" -69 1033 86
+"Kansas" "Rooks" -74 2661 87
+"Kansas" "Republic" -66 2643 87
+"Kansas" "Kiowa" -71 1139 88
+"Kansas" "Lane" -72 888 88
+"Kansas" "Hamilton" -66 837 88
+"Kansas" "Trego" -69 1603 89
+"Kansas" "Rawlins" -69 1496 89
+"Kansas" "Mitchell" -63 3039 90
+"Kansas" "Wichita" -68 961 90
+"Kansas" "Comanche" -68 904 90
+"Kansas" "Wallace" -88 817 90
+"Kansas" "Seward" -30 5099 91
+"Kansas" "Cloud" -55 4174 91
+"Kansas" "Stevens" -75 1997 91
+"Kansas" "Osborne" -69 1899 91
+"Kansas" "Gove" -76 1433 91
+"Kansas" "Haskell" -61 1383 91
+"Kansas" "Elk" -70 1347 91
+"Kansas" "Clark" -71 1048 91
+"Kansas" "Barber" -74 2313 92
+"Kansas" "Chautauqua" -73 1634 92
+"Kansas" "Lincoln" -64 1570 93
+"Kansas" "Stanton" -60 767 93
+"Kansas" "Neosho" -46 6629 94
+"Kansas" "Pawnee" -51 2712 94
+"Kansas" "Sherman" -69 2673 94
+"Kansas" "Harper" -64 2626 94
+"Kansas" "Smith" -67 2092 94
+"Kansas" "Stafford" -63 2017 94
+"Kansas" "Edwards" -61 1413 94
+"Kansas" "Kearny" -62 1413 94
+"Kansas" "Sheridan" -78 1397 94
+"Kansas" "Clay" -54 4134 95
+"Kansas" "Ottawa" -66 3159 95
+"Kansas" "Ellsworth" -52 2806 95
+"Kansas" "Grant" -58 2452 95
+"Kansas" "McPherson" -40 13868 96
+"Kansas" "Labette" -36 8414 96
+"Kansas" "Wyandotte" 31 55107 97
+"Kansas" "Bourbon" -52 6550 97
+"Kansas" "Wilson" -62 3899 97
+"Kansas" "Meade" -69 1807 97
+"Kansas" "Shawnee" 3 84061 98
+"Kansas" "Lyon" -11 13622 98
+"Kansas" "Montgomery" -50 13177 98
+"Kansas" "Ford" -32 8850 98
+"Kansas" "Greenwood" -61 3030 98
+"Kansas" "Rush" -65 1748 98
+"Kansas" "Logan" -73 1437 98
+"Kansas" "Johnson" 8 336277 98
+"Kansas" "Sedgwick" -13 213552 98
+"Kansas" "Douglas" 39 57540 98
+"Kansas" "Leavenworth" -21 36115 98
+"Kansas" "Butler" -41 31946 98
+"Kansas" "Reno" -34 27245 98
+"Kansas" "Saline" -30 23911 98
+"Kansas" "Riley" 3 23855 98
+"Kansas" "Miami" -40 17624 98
+"Kansas" "Harvey" -20 17034 98
+"Kansas" "Crawford" -23 16125 98
+"Kansas" "Cowley" -38 13911 98
+"Kansas" "Ellis" -44 13501 98
+"Kansas" "Franklin" -38 12247 98
+"Kansas" "Finney" -26 11466 98
+"Kansas" "Barton" -56 10961 98
+"Kansas" "Sumner" -51 10779 98
+"Kansas" "Jefferson" -32 9581 98
+"Kansas" "Geary" -15 9311 98
+"Kansas" "Dickinson" -54 9246 98
+"Kansas" "Cherokee" -50 8945 98
+"Kansas" "Osage" -44 7893 98
+"Kansas" "Atchison" -34 7312 98
+"Kansas" "Jackson" -40 6468 98
+"Kansas" "Marion" -49 5969 98
+"Kansas" "Nemaha" -66 5625 98
+"Kansas" "Marshall" -48 5023 98
+"Kansas" "Linn" -63 4903 98
+"Kansas" "Coffey" -56 4448 98
+"Kansas" "Brown" -48 4396 98
+"Kansas" "Rice" -53 4230 98
+"Kansas" "Pratt" -53 4107 98
+"Kansas" "Kingman" -60 3929 98
+"Kansas" "Wabaunsee" -48 3861 98
+"Kansas" "Thomas" -65 3794 98
+"Kansas" "Anderson" -57 3720 98
+"Kansas" "Doniphan" -62 3674 98
+"Kansas" "Russell" -63 3429 98
+"Kansas" "Morris" -48 2849 98
+"Kansas" "Washington" -66 2843 98
+"Kansas" "Norton" -68 2390 98
+"Kansas" "Scott" -73 2322 98
+"Kansas" "Gray" -68 2240 98
+"Kansas" "Jewell" -72 1608 98
+"Kansas" "Woodson" -61 1495 98
+"Kansas" "Ness" -79 1487 98
+"Kansas" "Chase" -52 1478 98
+"Kentucky" "Casey" -73 7171 98
+"Kentucky" "Jefferson" 20 386629 98
+"Kentucky" "Fayette" 21 152912 98
+"Kentucky" "Kenton" -19 82198 98
+"Kentucky" "Boone" -36 66998 98
+"Kentucky" "Warren" -17 55401 98
+"Kentucky" "Daviess" -28 49287 98
+"Kentucky" "Hardin" -24 48941 98
+"Kentucky" "Campbell" -19 48878 98
+"Kentucky" "Madison" -27 43957 98
+"Kentucky" "Bullitt" -48 41998 98
+"Kentucky" "Oldham" -21 37976 98
+"Kentucky" "McCracken" -32 33549 98
+"Kentucky" "Pulaski" -63 31557 98
+"Kentucky" "Scott" -25 28969 98
+"Kentucky" "Laurel" -67 28111 98
+"Kentucky" "Jessamine" -32 26280 98
+"Kentucky" "Franklin" -0.95 26072 98
+"Kentucky" "Pike" -61 25395 98
+"Kentucky" "Christian" -28 23863 98
+"Kentucky" "Shelby" -30 23550 98
+"Kentucky" "Nelson" -37 23256 98
+"Kentucky" "Boyd" -33 21751 98
+"Kentucky" "Hopkins" -48 21512 98
+"Kentucky" "Henderson" -25 20697 98
+"Kentucky" "Barren" -47 20064 98
+"Kentucky" "Greenup" -45 18176 98
+"Kentucky" "Clark" -32 18139 98
+"Kentucky" "Marshall" -52 17603 98
+"Kentucky" "Calloway" -32 17457 98
+"Kentucky" "Graves" -57 17019 98
+"Kentucky" "Floyd" -51 16353 98
+"Kentucky" "Whitley" -65 15356 98
+"Kentucky" "Woodford" -12 15211 98
+"Kentucky" "Boyle" -25 14478 98
+"Kentucky" "Muhlenberg" -49 14235 98
+"Kentucky" "Meade" -46 14113 98
+"Kentucky" "Knox" -67 13273 98
+"Kentucky" "Anderson" -48 13254 98
+"Kentucky" "Montgomery" -42 12842 98
+"Kentucky" "Taylor" -51 12517 98
+"Kentucky" "Logan" -48 12350 98
+"Kentucky" "Grayson" -59 11985 98
+"Kentucky" "Mercer" -47 11735 98
+"Kentucky" "Carter" -53 11586 98
+"Kentucky" "Spencer" -54 11433 98
+"Kentucky" "Ohio" -56 11129 98
+"Kentucky" "Grant" -59 11108 98
+"Kentucky" "Harlan" -72 10971 98
+"Kentucky" "Lincoln" -57 10914 98
+"Kentucky" "Perry" -54 10626 98
+"Kentucky" "Breckinridge" -52 10201 98
+"Kentucky" "Johnson" -67 10192 98
+"Kentucky" "Rowan" -21 10065 98
+"Kentucky" "Bell" -63 10044 98
+"Kentucky" "Bourbon" -30 9648 98
+"Kentucky" "Allen" -63 9364 98
+"Kentucky" "Wayne" -62 9240 98
+"Kentucky" "Letcher" -59 9135 98
+"Kentucky" "Russell" -69 8955 98
+"Kentucky" "Marion" -38 8928 98
+"Kentucky" "Harrison" -44 8859 98
+"Kentucky" "Adair" -67 8768 98
+"Kentucky" "Simpson" -37 8732 98
+"Kentucky" "Garrard" -57 8706 98
+"Kentucky" "Hart" -53 8370 98
+"Kentucky" "Henry" -46 8110 98
+"Kentucky" "Mason" -39 7958 98
+"Kentucky" "Rockcastle" -70 7784 98
+"Kentucky" "Clay" -77 7591 98
+"Kentucky" "Trigg" -50 7376 98
+"Kentucky" "LaRue" -57 7301 98
+"Kentucky" "Fleming" -57 7068 98
+"Kentucky" "Lawrence" -63 6955 98
+"Kentucky" "Pendleton" -61 6925 98
+"Kentucky" "Union" -52 6577 98
+"Kentucky" "Estill" -57 6540 98
+"Kentucky" "McCreary" -77 6438 98
+"Kentucky" "Caldwell" -54 6434 98
+"Kentucky" "Knott" -54 6252 98
+"Kentucky" "Washington" -46 6225 98
+"Kentucky" "Edmonson" -59 6132 98
+"Kentucky" "Butler" -63 6125 98
+"Kentucky" "Jackson" -79 6113 98
+"Kentucky" "Webster" -52 5993 98
+"Kentucky" "Lewis" -71 5883 98
+"Kentucky" "Green" -67 5812 98
+"Kentucky" "Breathitt" -52 5661 98
+"Kentucky" "Bath" -43 5627 98
+"Kentucky" "Morgan" -56 5544 98
+"Kentucky" "Powell" -49 5505 98
+"Kentucky" "Owen" -59 5458 98
+"Kentucky" "Magoffin" -54 5447 98
+"Kentucky" "Todd" -53 5363 98
+"Kentucky" "Monroe" -75 5330 98
+"Kentucky" "Metcalfe" -60 5012 98
+"Kentucky" "Livingston" -61 5004 98
+"Kentucky" "Clinton" -75 4932 98
+"Kentucky" "Leslie" -81 4813 98
+"Kentucky" "McLean" -54 4782 98
+"Kentucky" "Hancock" -39 4587 98
+"Kentucky" "Trimble" -51 4320 98
+"Kentucky" "Bracken" -61 4246 98
+"Kentucky" "Crittenden" -64 4242 98
+"Kentucky" "Lyon" -47 4228 98
+"Kentucky" "Ballard" -60 4225 98
+"Kentucky" "Carroll" -44 4136 98
+"Kentucky" "Martin" -79 3936 98
+"Kentucky" "Gallatin" -55 3849 98
+"Kentucky" "Nicholas" -43 3396 98
+"Kentucky" "Cumberland" -68 3309 98
+"Kentucky" "Menifee" -50 3102 98
+"Kentucky" "Elliott" -51 2995 98
+"Kentucky" "Wolfe" -42 2979 98
+"Kentucky" "Lee" -64 2801 98
+"Kentucky" "Carlisle" -64 2638 98
+"Kentucky" "Fulton" -33 2426 98
+"Kentucky" "Hickman" -57 2199 98
+"Kentucky" "Owsley" -77 1896 98
+"Kentucky" "Robertson" -55 1146 98
+"Louisiana" "East Baton Rouge" 13 208182 98
+"Louisiana" "Jefferson" -11 193733 98
+"Louisiana" "Orleans" 68 177819 98
+"Louisiana" "St. Tammany" -44 140110 98
+"Louisiana" "Lafayette" -29 114521 98
+"Louisiana" "Caddo" 7 104912 98
+"Louisiana" "Calcasieu" -35 82663 98
+"Louisiana" "Ouachita" -24 69166 98
+"Louisiana" "Livingston" -70 65230 98
+"Louisiana" "Ascension" -33 62325 98
+"Louisiana" "Rapides" -32 58865 98
+"Louisiana" "Tangipahoa" -33 57661 98
+"Louisiana" "Bossier" -41 54655 98
+"Louisiana" "Terrebonne" -50 46240 98
+"Louisiana" "Lafourche" -60 45388 98
+"Louisiana" "St. Landry" -14 41154 98
+"Louisiana" "Iberia" -31 32713 98
+"Louisiana" "St. Charles" -30 28517 98
+"Louisiana" "Acadia" -60 28425 98
+"Louisiana" "Vermilion" -62 27324 98
+"Louisiana" "St. Martin" -36 27038 98
+"Louisiana" "St. Mary" -29 23186 98
+"Louisiana" "St. John the Baptist" 28 21432 98
+"Louisiana" "Washington" -38 19513 98
+"Louisiana" "Lincoln" -19 19275 98
+"Louisiana" "Webster" -31 18216 98
+"Louisiana" "St. Bernard" -28 17650 98
+"Louisiana" "Avoyelles" -41 17292 98
+"Louisiana" "Vernon" -65 17268 98
+"Louisiana" "Iberville" 4 16719 98
+"Louisiana" "Natchitoches" -15 16554 98
+"Louisiana" "Beauregard" -67 16357 98
+"Louisiana" "Evangeline" -45 15412 98
+"Louisiana" "Jeff Davis" -55 14841 98
+"Louisiana" "DeSoto" -25 14736 98
+"Louisiana" "West Baton Rouge" -11 14097 98
+"Louisiana" "St. James" 4 12590 98
+"Louisiana" "Pointe Coupee" -23 12371 98
+"Louisiana" "Morehouse" -14 11574 98
+"Louisiana" "Assumption" -31 11235 98
+"Louisiana" "Union" -51 11201 98
+"Louisiana" "Plaquemines" -36 11014 98
+"Louisiana" "Sabine" -66 10596 98
+"Louisiana" "East Feliciana" -17 10509 98
+"Louisiana" "Richland" -34 9940 98
+"Louisiana" "Allen" -56 9810 98
+"Louisiana" "Franklin" -44 9720 98
+"Louisiana" "Grant" -74 9392 98
+"Louisiana" "Concordia" -27 8828 98
+"Louisiana" "Jackson" -43 7632 98
+"Louisiana" "LaSalle" -81 7077 98
+"Louisiana" "Bienville" -12 7050 98
+"Louisiana" "Claiborne" -16 6580 98
+"Louisiana" "West Feliciana" -25 6268 98
+"Louisiana" "Winn" -49 6225 98
+"Louisiana" "St. Helena" 10 6158 98
+"Louisiana" "West Carroll" -71 5052 98
+"Louisiana" "Catahoula" -47 4858 98
+"Louisiana" "Caldwell" -68 4762 98
+"Louisiana" "Madison" 16 4670 98
+"Louisiana" "Red River" -19 4132 98
+"Louisiana" "Cameron" -83 4039 98
+"Louisiana" "East Carroll" 27 3036 98
+"Louisiana" "Tensas" 5 2554 98
+"Maine" "Glenwood Plt." -100 1 14
+"Maine" "Piscataquis County Townshps" -40 87 42
+"Maine" "New Canada" -20 159 54
+"Maine" "Frye Island" 33 57 64
+"Maine" "Cooper" -28 96 65
+"Maine" "Oxbow Plt." -26 35 67
+"Maine" "Frenchboro" -23 31 67
+"Maine" "Drew Plt." -42 19 68
+"Maine" "Masardis" -42 122 73
+"Maine" "Talmadge" -16 32 74
+"Maine" "Hudson" -60 611 75
+"Maine" "Lakeville" -13 69 75
+"Maine" "The Forks Plt." 0 38 75
+"Maine" "Waite" -29 51 76
+"Maine" "Vanceboro" -40 93 77
+"Maine" "Cranberry Isles" 43 138 79
+"Maine" "Limestone" -13 765 80
+"Maine" "Castine" 42 501 80
+"Maine" "New Sweden" -13 322 80
+"Maine" "Shirley" -47 133 80
+"Maine" "Winterville Plt." -18 125 80
+"Maine" "Crawford" -41 66 80
+"Maine" "Magalloway Plt." -25 16 80
+"Maine" "Springfield" -68 161 81
+"Maine" "Rangeley Plt." -20 145 81
+"Maine" "Baring Plt." -23 112 81
+"Maine" "Carroll Plt." -68 87 81
+"Maine" "Macwahoc Plt." -42 43 81
+"Maine" "Hammond" -50 46 82
+"Maine" "Dallas Plt." -3 209 83
+"Maine" "Long Island" 42 191 83
+"Maine" "Atkinson" -42 173 83
+"Maine" "Caswell" -10 134 83
+"Maine" "Wellington" -14 119 83
+"Maine" "Matinicus Isle Plt." 44 50 83
+"Maine" "Eastbrook" -37 222 84
+"Maine" "Orient" -51 90 84
+"Maine" "Princeton" -47 468 85
+"Maine" "Bridgewater" -47 292 85
+"Maine" "Cambridge" -41 252 85
+"Maine" "Sorrento" -3 189 85
+"Maine" "Grand Lake Stream Plt" -23 98 85
+"Maine" "Wesley" -24 76 85
+"Maine" "Aurora" -18 72 85
+"Maine" "Peru" -26 909 86
+"Maine" "Howland" -26 643 86
+"Maine" "Stacyville" -63 209 86
+"Maine" "Dennistown Plt." -58 24 86
+"Maine" "Millinocket" -11 2397 87
+"Maine" "Wilton" -6 2186 87
+"Maine" "Van Buren" 6 898 87
+"Maine" "Machias" -7 893 87
+"Maine" "Mars Hill" -39 742 87
+"Maine" "Burnham" -24 644 87
+"Maine" "Pleasant Point Voting Dist." 69 235 87
+"Maine" "Wade" -18 142 87
+"Maine" "Reed Plt." -43 81 87
+"Maine" "Livermore Falls" -19 1393 88
+"Maine" "Mexico" -9 1271 88
+"Maine" "West Paris" -19 957 88
+"Maine" "Baileyville" -27 673 88
+"Maine" "Pembroke" -12 482 88
+"Maine" "Weston" -38 182 88
+"Maine" "Frenchville" -21 603 89
+"Maine" "Lee" -41 508 89
+"Maine" "Eagle Lake" -13 460 89
+"Maine" "LaGrange" -41 358 89
+"Maine" "Dyer Brook" -44 150 89
+"Maine" "Merrill" -35 136 89
+"Maine" "Brighton Plt." -27 49 89
+"Maine" "Presque Isle" -10 4239 90
+"Maine" "Eastport" 16 835 90
+"Maine" "Washburn" -29 820 90
+"Maine" "Woodland" -26 662 90
+"Maine" "Mattawamkeag" -35 388 90
+"Maine" "Chester" -61 326 90
+"Maine" "Wallagrass" 7 291 90
+"Maine" "Chapman" -29 279 90
+"Maine" "Westfield" -31 267 90
+"Maine" "Roxbury" -24 246 90
+"Maine" "Topsfield" -61 124 90
+"Maine" "Byron" -29 92 90
+"Maine" "Pleasant Ridge Plt." -53 53 90
+"Maine" "Bangor" 21 16173 91
+"Maine" "Newport" -31 1741 91
+"Maine" "Alexander" -49 308 91
+"Maine" "St. Francis" 0 253 91
+"Maine" "Grand Isle" -5 232 91
+"Maine" "Perham" -39 214 91
+"Maine" "Stockholm" -10 160 91
+"Maine" "Woodville" -71 136 91
+"Maine" "Amity" -56 124 91
+"Maine" "Meddybemps" -41 103 91
+"Maine" "Great Pond" -16 43 91
+"Maine" "Deblois" -75 40 91
+"Maine" "Portland" 66 41544 92
+"Maine" "Auburn" 9 12285 92
+"Maine" "Rumford" -8 2863 92
+"Maine" "Calais" -15 1516 92
+"Maine" "Buckfield" -18 1098 92
+"Maine" "Dixmont" -25 731 92
+"Maine" "Ashland" -24 615 92
+"Maine" "Andover" -13 538 92
+"Maine" "Jackman" -45 535 92
+"Maine" "Parkman" -38 491 92
+"Maine" "Alton" -26 476 92
+"Maine" "Perry" -11 470 92
+"Maine" "Blaine" -50 400 92
+"Maine" "Chebeague Island" 57 330 92
+"Maine" "Indian Township Voting Dist." 46 263 92
+"Maine" "St. John Plt." -24 171 92
+"Maine" "Allagash" -12 169 92
+"Maine" "Gilead" -15 123 92
+"Maine" "Mount Chase" -34 122 92
+"Maine" "Isle Au Haut" 68 66 92
+"Maine" "Fort Fairfield" -18 1701 93
+"Maine" "Orland" -0.14 1424 93
+"Maine" "Mapleton" -28 1159 93
+"Maine" "Greenville" -14 1158 93
+"Maine" "Canaan" -32 1155 93
+"Maine" "Hartland" -38 899 93
+"Maine" "Medway" -47 758 93
+"Maine" "Smithfield" -12 627 93
+"Maine" "Harmony" -36 488 93
+"Maine" "Weld" 1.7 299 93
+"Maine" "Castle Hill" -14 230 93
+"Maine" "Winn" -41 207 93
+"Maine" "Hanover" 5 198 93
+"Maine" "Stoneham" -10 185 93
+"Maine" "Willimantic" -56 90 93
+"Maine" "Upton" -48 64 93
+"Maine" "Winthrop" 8 3737 94
+"Maine" "Fairfield" -12 3399 94
+"Maine" "Sabattus" -25 2878 94
+"Maine" "Dexter" -30 1841 94
+"Maine" "Boothbay Harbor" 19 1396 94
+"Maine" "Randolph" -6 1029 94
+"Maine" "East Millinocket" -21 957 94
+"Maine" "Greenbush" -43 717 94
+"Maine" "Frankfort" -33 680 94
+"Maine" "Sumner" -21 553 94
+"Maine" "Patten" -41 520 94
+"Maine" "Thorndike" 4 446 94
+"Maine" "Prospect" -17 423 94
+"Maine" "Temple" 5 336 94
+"Maine" "Passadumkeag" -49 224 94
+"Maine" "Smyrna" -41 157 94
+"Maine" "Moose River" -76 124 94
+"Maine" "Hamlin" -12 109 94
+"Maine" "Monhegan Plt." 71 62 94
+"Maine" "Osborn" -48 44 94
+"Maine" "Moro Plt." -86 29 94
+"Maine" "Skowhegan" -8 4197 95
+"Maine" "Jay" -6 2688 95
+"Maine" "Norridgewock" -23 1889 95
+"Maine" "Farmingdale" 8 1738 95
+"Maine" "Manchester" 1.3 1690 95
+"Maine" "Corinth" -48 1574 95
+"Maine" "Milo" -30 1231 95
+"Maine" "St. Albans" -43 1192 95
+"Maine" "Southwest Harbor" 31 1137 95
+"Maine" "New Sharon" -14 956 95
+"Maine" "Wales" -37 915 95
+"Maine" "Rangeley" -20 761 95
+"Maine" "Sangerville" -30 753 95
+"Maine" "Bradford" -43 694 95
+"Maine" "Sherman" -51 665 95
+"Maine" "Montville" 12 658 95
+"Maine" "Phillips" -20 656 95
+"Maine" "Solon" -20 623 95
+"Maine" "Exeter" -31 571 95
+"Maine" "Clifton" -26 532 95
+"Maine" "Abbot" -40 417 95
+"Maine" "Somerville" -23 357 95
+"Maine" "Jackson" -17 338 95
+"Maine" "Beals" -32 293 95
+"Maine" "Portage Lake" -23 265 95
+"Maine" "Burlington" -43 206 95
+"Maine" "Roque Bluffs" 11 183 95
+"Maine" "Haynesville" -60 63 95
+"Maine" "Cyr Plt." -7 56 95
+"Maine" "Garfield Plt." -55 56 95
+"Maine" "West Forks Plt." -17 53 95
+"Maine" "Lincoln" -35 2596 96
+"Maine" "China" -11 2590 96
+"Maine" "Vassalboro" -12 2553 96
+"Maine" "Wiscasset" 0.09 2313 96
+"Maine" "Searsport" 8 1608 96
+"Maine" "Chelsea" -20 1563 96
+"Maine" "Windsor" -29 1438 96
+"Maine" "Anson" -33 1223 96
+"Maine" "Albion" -34 1219 96
+"Maine" "Parsonsfield" -9 1066 96
+"Maine" "Owl's Head" 12 1065 96
+"Maine" "Newburgh" -23 994 96
+"Maine" "Hebron" -13 778 96
+"Maine" "Easton" -32 715 96
+"Maine" "Brooksville" 34 686 96
+"Maine" "Stonington" 29 646 96
+"Maine" "Brooks" -12 602 96
+"Maine" "Troy" -18 593 96
+"Maine" "Athens" -32 510 96
+"Maine" "Island Falls" -39 450 96
+"Maine" "Monticello" -55 434 96
+"Maine" "Vienna" -5 405 96
+"Maine" "Jonesboro" -25 346 96
+"Maine" "Medford" -40 164 96
+"Maine" "Brunswick" 43 13892 97
+"Maine" "Gardiner" 7 3278 97
+"Maine" "Waldoboro" -9 2934 97
+"Maine" "Madison" -20 2382 97
+"Maine" "Fort Kent" -3 2266 97
+"Maine" "Leeds" -23 1362 97
+"Maine" "Palmyra" -41 1155 97
+"Maine" "Washington" -13 988 97
+"Maine" "Appleton" 8 915 97
+"Maine" "Fayette" -4 830 97
+"Maine" "Friendship" -21 799 97
+"Maine" "Stetson" -40 765 97
+"Maine" "Jonesport" -29 712 97
+"Maine" "Steuben" -25 668 97
+"Maine" "Belmont" -10 598 97
+"Maine" "Embden" -34 565 97
+"Maine" "Canton" -40 544 97
+"Maine" "Littleton" -45 531 97
+"Maine" "Monson" -24 475 97
+"Maine" "Islesboro" 42 445 97
+"Maine" "Detroit" -29 436 97
+"Maine" "Oakfield" -43 408 97
+"Maine" "Whiting" -16 361 97
+"Maine" "Swan's Island" 1.1 266 97
+"Maine" "Amherst" -27 189 97
+"Maine" "Sandy River Plt." 28 102 97
+"Maine" "Lincoln Plt." -25 32 97
+"Maine" "Paris" -7 2884 98
+"Maine" "Orrington" -12 2562 98
+"Maine" "Boothbay" 14 2208 98
+"Maine" "Minot" -20 1789 98
+"Maine" "Pittston" -19 1778 98
+"Maine" "Jefferson" -16 1691 98
+"Maine" "Benton" -23 1632 98
+"Maine" "Harrison" -3 1574 98
+"Maine" "Livermore" -15 1394 98
+"Maine" "Stockton Springs" 2 1065 98
+"Maine" "Strong" -32 816 98
+"Maine" "Cornville" -24 776 98
+"Maine" "Liberty" -7 591 98
+"Maine" "Linneus" -63 508 98
+"Maine" "New Vineyard" -30 463 98
+"Maine" "Mariaville" -25 310 98
+"Maine" "Columbia" -39 228 98
+"Maine" "Crystal" -49 164 98
+"Maine" "Westmanland" 11 55 98
+"Maine" "Lewiston" 14 17388 98
+"Maine" "South Portland" 51 16366 98
+"Maine" "Scarborough" 28 15057 98
+"Maine" "Saco" 26 12656 98
+"Maine" "Windham" 4 11442 98
+"Maine" "Westbrook" 33 11246 98
+"Maine" "Gorham" 20 11115 98
+"Maine" "Biddeford" 30 11066 98
+"Maine" "Sanford" 1.9 10974 98
+"Maine" "Augusta" 11 9738 98
+"Maine" "York" 29 9658 98
+"Maine" "Falmouth" 38 9090 98
+"Maine" "Kennebunk" 32 8280 98
+"Maine" "Wells" 14 7975 98
+"Maine" "Waterville" 30 7905 98
+"Maine" "Cape Elizabeth" 55 7009 98
+"Maine" "Topsham" 24 6552 98
+"Maine" "Kittery" 41 6412 98
+"Maine" "Yarmouth" 53 6358 98
+"Maine" "Old Orchrd Bch" 22 6215 98
+"Maine" "Standish" -4 6207 98
+"Maine" "Freeport" 43 6184 98
+"Maine" "Cumberland" 38 6002 98
+"Maine" "Gray" 1.8 5390 98
+"Maine" "Lisbon" -13 5298 98
+"Maine" "Buxton" -5 5279 98
+"Maine" "Brewer" -0.66 5278 98
+"Maine" "Orono" 48 5268 98
+"Maine" "Bath" 37 5142 98
+"Maine" "Hampden" 4 4930 98
+"Maine" "Ellsworth" -1.8 4851 98
+"Maine" "Eliot" 22 4728 98
+"Maine" "Winslow" -4 4679 98
+"Maine" "South Berwick" 22 4663 98
+"Maine" "Waterboro" -14 4478 98
+"Maine" "Berwick" -5 4371 98
+"Maine" "Old Town" 16 4259 98
+"Maine" "Belfast" 37 4237 98
+"Maine" "Caribou" -14 4061 98
+"Maine" "Farmington" 17 3966 98
+"Maine" "Hermon" -25 3965 98
+"Maine" "Rockland" 28 3965 98
+"Maine" "Harpswell" 25 3884 98
+"Maine" "Camden" 55 3837 98
+"Maine" "Oakland" -5 3628 98
+"Maine" "New Gloucester" -1 3599 98
+"Maine" "Bar Harbor" 52 3576 98
+"Maine" "Lebanon" -27 3529 98
+"Maine" "Poland" -11 3519 98
+"Maine" "Turner" -22 3428 98
+"Maine" "Bridgton" 4 3268 98
+"Maine" "Raymond" 4 3142 98
+"Maine" "North Berwick" -3 3111 98
+"Maine" "Sidney" -17 2962 98
+"Maine" "North Yarmouth" 29 2960 98
+"Maine" "Lyman" -8 2944 98
+"Maine" "Hollis" -9 2895 98
+"Maine" "Bucksport" -7 2855 98
+"Maine" "Norway" 1.3 2854 98
+"Maine" "Arundel" 2 2825 98
+"Maine" "Glenburn" -18 2815 98
+"Maine" "Durham" 1 2790 98
+"Maine" "Kennebunkport" 31 2781 98
+"Maine" "Houlton" -22 2740 98
+"Maine" "Greene" -28 2640 98
+"Maine" "Monmouth" -12 2578 98
+"Maine" "Rockport" 36 2530 98
+"Maine" "Naples" -14 2495 98
+"Maine" "West Gardiner" -13 2380 98
+"Maine" "Dover-Foxcroft" -19 2335 98
+"Maine" "Winterport" -9 2335 98
+"Maine" "Oxford" -28 2325 98
+"Maine" "Aroostook County Townships" -3 2306 98
+"Maine" "Limington" -22 2298 98
+"Maine" "Casco" -6 2296 98
+"Maine" "Warren" -15 2244 98
+"Maine" "Belgrade" -8 2216 98
+"Maine" "Litchfield" -19 2177 98
+"Maine" "Woolwich" -1.3 2150 98
+"Maine" "Holden" -15 2125 98
+"Maine" "Bristol" 22 2124 98
+"Maine" "Madawaska" 10 2112 98
+"Maine" "Richmond" -6 2076 98
+"Maine" "Bowdoinham" 13 2067 98
+"Maine" "Pittsfield" -17 2042 98
+"Maine" "Alfred" 1.8 1995 98
+"Maine" "Blue Hill" 35 1977 98
+"Maine" "Fryeburg" 13 1937 98
+"Maine" "Bowdoin" -17 1877 98
+"Maine" "Milford" -3 1851 98
+"Maine" "Limerick" -7 1849 98
+"Maine" "Bethel" 14 1830 98
+"Maine" "Readfield" 7 1820 98
+"Maine" "St. George" 25 1814 98
+"Maine" "Clinton" -25 1799 98
+"Maine" "Hallowell" 46 1797 98
+"Maine" "Shapleigh" -18 1788 98
+"Maine" "Carmel" -35 1782 98
+"Maine" "Mechanic Falls" -20 1712 98
+"Maine" "Levant" -40 1678 98
+"Maine" "Thomaston" 18 1668 98
+"Maine" "Lincolnville" 31 1654 98
+"Maine" "Acton" -17 1636 98
+"Maine" "Phippsburg" 3 1570 98
+"Maine" "Union" -4 1561 98
+"Maine" "Mount Desert" 46 1490 98
+"Maine" "Hancock" -8 1486 98
+"Maine" "Whitefield" -4 1483 98
+"Maine" "Damariscotta" 35 1476 98
+"Maine" "Eddington" -27 1473 98
+"Maine" "West Bath" 8 1392 98
+"Maine" "Dayton" -13 1381 98
+"Maine" "Newcastle" 38 1377 98
+"Maine" "Deer Isle" 23 1323 98
+"Maine" "Nobleboro" 13 1310 98
+"Maine" "Dixfield" -26 1302 98
+"Maine" "Sebago" -15 1277 98
+"Maine" "Corinna" -39 1244 98
+"Maine" "Veazie" 10 1223 98
+"Maine" "Lamoine" 3 1211 98
+"Maine" "Pownal" 16 1206 98
+"Maine" "Otisfield" -6 1171 98
+"Maine" "Dedham" -3 1166 98
+"Maine" "Dresden" -3 1159 98
+"Maine" "Mount Vernon" 1.4 1158 98
+"Maine" "Gouldsboro" -12 1121 98
+"Maine" "Hope" 19 1117 98
+"Maine" "Northport" 24 1109 98
+"Maine" "Surry" 12 1091 98
+"Maine" "Ogunquit" 40 1058 98
+"Maine" "Tremont" 16 1043 98
+"Maine" "Waterford" -10 1038 98
+"Maine" "Knox" -12 1003 98
+"Maine" "Baldwin" -27 999 98
+"Maine" "South Thomaston" 17 997 98
+"Maine" "Trenton" 6 987 98
+"Maine" "Brownfield" 0.21 967 98
+"Maine" "Newfield" -22 963 98
+"Maine" "Cushing" -10 960 98
+"Maine" "Unity" -1.2 950 98
+"Maine" "Woodstock" -18 945 98
+"Maine" "Cornish" -5 944 98
+"Maine" "Palermo" -17 939 98
+"Maine" "Searsmont" -5 937 98
+"Maine" "Hiram" -17 928 98
+"Maine" "Bradley" -12 892 98
+"Maine" "Edgecomb" 18 889 98
+"Maine" "Kingfield" -4 888 98
+"Maine" "Lubec" 6 883 98
+"Maine" "Enfield" -35 879 98
+"Maine" "Porter" -22 875 98
+"Maine" "Wayne" 19 869 98
+"Maine" "Franklin" -9 861 98
+"Maine" "Penobscot" 24 851 98
+"Maine" "Sedgwick" 23 843 98
+"Maine" "Georgetown" 28 839 98
+"Maine" "Vinalhaven" 29 837 98
+"Maine" "Denmark" 1.5 827 98
+"Maine" "Swanville" -14 826 98
+"Maine" "East Machias" -32 814 98
+"Maine" "Hodgdon" -53 812 98
+"Maine" "Chesterville" -18 799 98
+"Maine" "Brownville" -24 780 98
+"Maine" "Kenduskeag" -35 770 98
+"Maine" "Lovell" 6 766 98
+"Maine" "Charleston" -55 753 98
+"Maine" "Plymouth" -37 745 98
+"Maine" "Guilford" -30 734 98
+"Maine" "Sullivan" 0.82 733 98
+"Maine" "Milbridge" -9 731 98
+"Maine" "Etna" -38 726 98
+"Maine" "Hartford" -21 724 98
+"Maine" "South Bristol" 23 716 98
+"Maine" "Rome" -1.4 713 98
+"Maine" "Addison" -31 706 98
+"Maine" "Cherryfield" -32 645 98
+"Maine" "Saint Agatha" -7 637 98
+"Maine" "Brooklin" 38 624 98
+"Maine" "Morrill" -18 611 98
+"Maine" "Garland" -38 605 98
+"Maine" "Monroe" 7 602 98
+"Maine" "Waldo" -12 593 98
+"Maine" "Bingham" -23 580 98
+"Maine" "Machiasport" -21 566 98
+"Maine" "Bremen" 32 563 98
+"Maine" "Westport" 13 551 98
+"Maine" "Harrington" -36 538 98
+"Maine" "Greenwood" 7 533 98
+"Maine" "Carrabassett Valley" 35 527 98
+"Maine" "Alna" 28 517 98
+"Maine" "Industry" -4 504 98
+"Maine" "Southport" 27 491 98
+"Maine" "Otis" -35 484 98
+"Maine" "Mercer" -21 481 98
+"Maine" "New Portland" -17 481 98
+"Maine" "Freedom" -7 469 98
+"Maine" "Eustis" -18 447 98
+"Maine" "Sebec" -44 428 98
+"Maine" "Danforth" -51 421 98
+"Maine" "Starks" -26 381 98
+"Maine" "New Limerick" -37 374 98
+"Maine" "Arrowsic" 42 373 98
+"Maine" "Dennysville" -22 357 98
+"Maine" "Robbinston" -26 353 98
+"Maine" "Verona" -7 350 98
+"Maine" "Columbia Falls" -25 335 98
+"Maine" "Winter Harbor" -10 329 98
+"Maine" "North Haven" 42 321 98
+"Maine" "Marshfield" -34 316 98
+"Maine" "Cutler" -42 315 98
+"Maine" "Carthage" -40 312 98
+"Maine" "Penobscot Nation Vot Dst" 61 302 98
+"Maine" "Ripley" -31 302 98
+"Maine" "Newry" 15 296 98
+"Maine" "Sweden" 20 283 98
+"Maine" "Moscow" -45 279 98
+"Maine" "Avon" -26 263 98
+"Maine" "Lowell" -54 255 98
+"Maine" "Ludlow" -36 255 98
+"Maine" "Stow" 2 253 98
+"Maine" "Waltham" -40 230 98
+"Maine" "Charlotte" -36 216 98
+"Maine" "Northfield" -33 130 98
+"Maine" "Whitneyville" -12 130 98
+"Maine" "Beaver Cove" -0.84 119 98
+"Maine" "Bowerbank" -30 117 98
+"Maine" "Highland Plt." -25 116 98
+"Maine" "Lake View Plt." -27 114 98
+"Maine" "Coplin Plt." 14 110 98
+"Maine" "Edinburg" -29 105 98
+"Maine" "Maxfield" -45 69 98
+"Maine" "Caratunk" -20 61 98
+"Maine" "Beddington" -45 51 98
+"Maine" "Hersey" -60 42 98
+"Maine" "Webster Plt." -57 42 98
+"Maine" "Seboeis Plt." 7 41 98
+"Maine" "Nashville Plt." -39 23 98
+"Maryland" "Baltimore City" 77 236189 84
+"Maryland" "Somerset" -15 10117 88
+"Maryland" "Allegany" -38 30511 89
+"Maryland" "Washington" -21 67510 91
+"Maryland" "Calvert" -6 48832 92
+"Maryland" "Cecil" -27 47273 93
+"Maryland" "Dorchester" -12 15934 93
+"Maryland" "Baltimore" 27 411906 94
+"Maryland" "Wicomico" -1.9 45975 96
+"Maryland" "Kent" 1.2 10740 96
+"Maryland" "Carroll" -24 99408 97
+"Maryland" "Talbot" 0.52 22400 97
+"Maryland" "Harford" -12 147221 98
+"Maryland" "Montgomery" 60 529569 98
+"Maryland" "Prince George's" 81 422851 98
+"Maryland" "Anne Arundel" 15 306924 98
+"Maryland" "Howard" 45 181324 98
+"Maryland" "Frederick" 10 144568 98
+"Maryland" "Charles" 41 89063 98
+"Maryland" "St. Mary's" -14 55339 98
+"Maryland" "Worcester" -19 31567 98
+"Maryland" "Queen Anne's" -27 30079 98
+"Maryland" "Caroline" -33 15729 98
+"Maryland" "Garrett" -56 15579 98
+"Massachusetts" "Amherst" 83 11871 73
+"Massachusetts" "West Stockbridge" 64 971 81
+"Massachusetts" "Lawrence" 48 23208 86
+"Massachusetts" "New Ashford" 33 151 86
+"Massachusetts" "Gosnold" 41 82 86
+"Massachusetts" "West Newbury" 32 3270 87
+"Massachusetts" "New Salem" 27 681 87
+"Massachusetts" "Holyoke" 39 16313 89
+"Massachusetts" "Northfield" 33 1855 89
+"Massachusetts" "North Brookfield" -10 2715 90
+"Massachusetts" "Springfield" 47 54373 91
+"Massachusetts" "Shelburne" 61 1174 91
+"Massachusetts" "New Marlborough" 43 959 91
+"Massachusetts" "Cambridge" 85 54795 92
+"Massachusetts" "West Tisbury" 69 2295 92
+"Massachusetts" "Somerville" 78 42200 93
+"Massachusetts" "Watertown" 58 19227 93
+"Massachusetts" "Williamstown" 72 3757 93
+"Massachusetts" "Leyden" 35 502 93
+"Massachusetts" "Medford" 50 31713 94
+"Massachusetts" "Revere" 29 20890 94
+"Massachusetts" "Everett" 43 14817 94
+"Massachusetts" "Rockland" 11 9994 94
+"Massachusetts" "North Adams" 44 5932 94
+"Massachusetts" "Huntington" -0.66 1217 94
+"Massachusetts" "Westhampton" 27 1195 94
+"Massachusetts" "Pelham" 79 925 94
+"Massachusetts" "Monroe" -5 60 94
+"Massachusetts" "Lowell" 34 38681 95
+"Massachusetts" "New Bedford" 24 34877 95
+"Massachusetts" "Fall River" 12 31616 95
+"Massachusetts" "Arlington" 68 28551 95
+"Massachusetts" "Wakefield" 25 16623 95
+"Massachusetts" "Belmont" 59 15356 95
+"Massachusetts" "Winthrop" 25 10252 95
+"Massachusetts" "Northbridge" 5 9228 95
+"Massachusetts" "Orleans" 38 4842 95
+"Massachusetts" "Oak Bluffs" 53 3209 95
+"Massachusetts" "Granville" -16 990 95
+"Massachusetts" "Gill" 41 987 95
+"Massachusetts" "Peru" 16 533 95
+"Massachusetts" "Savoy" 16 399 95
+"Massachusetts" "Boston" 67 293796 96
+"Massachusetts" "Newton" 65 50295 96
+"Massachusetts" "Brockton" 54 38712 96
+"Massachusetts" "Lynn" 40 35777 96
+"Massachusetts" "Braintree" 18 21795 96
+"Massachusetts" "Marlborough" 34 19143 96
+"Massachusetts" "Southbridge" 15 7261 96
+"Massachusetts" "Weston" 48 7085 96
+"Massachusetts" "Townsend" 1.2 5476 96
+"Massachusetts" "Topsfield" 21 4144 96
+"Massachusetts" "Eastham" 42 4100 96
+"Massachusetts" "Nahant" 31 2524 96
+"Massachusetts" "Cheshire" 18 1946 96
+"Massachusetts" "Shutesbury" 76 1330 96
+"Massachusetts" "Wendell" 62 614 96
+"Massachusetts" "Heath" 29 468 96
+"Massachusetts" "Florida" 1.4 418 96
+"Massachusetts" "Waltham" 44 28896 97
+"Massachusetts" "Fitchburg" 22 16509 97
+"Massachusetts" "Milford" 22 14580 97
+"Massachusetts" "Winchester" 44 13870 97
+"Massachusetts" "Hudson" 31 11583 97
+"Massachusetts" "Whitman" 7 8629 97
+"Massachusetts" "Palmer" -2 6503 97
+"Massachusetts" "Holbrook" 21 6213 97
+"Massachusetts" "Acushnet" -10 6068 97
+"Massachusetts" "Halifax" -0.9 4874 97
+"Massachusetts" "Tisbury" 59 2835 97
+"Massachusetts" "Ashby" -3 2023 97
+"Massachusetts" "Plympton" 3 1918 97
+"Massachusetts" "Stockbridge" 63 1363 97
+"Massachusetts" "Charlemont" 35 743 97
+"Massachusetts" "Cummington" 42 591 97
+"Massachusetts" "Barnstable" 18 28427 98
+"Massachusetts" "Salem" 52 24018 98
+"Massachusetts" "Woburn" 23 22418 98
+"Massachusetts" "Falmouth" 31 21890 98
+"Massachusetts" "Melrose" 47 18241 98
+"Massachusetts" "Dartmouth" 11 17884 98
+"Massachusetts" "Milton" 48 17654 98
+"Massachusetts" "Saugus" 3 15797 98
+"Massachusetts" "Yarmouth" 20 15452 98
+"Massachusetts" "Swampscott" 45 9572 98
+"Massachusetts" "Medfield" 40 8211 98
+"Massachusetts" "Pepperell" 9 7307 98
+"Massachusetts" "Groton" 38 7285 98
+"Massachusetts" "Hull" 29 7080 98
+"Massachusetts" "Freetown" -8 5506 98
+"Massachusetts" "Southampton" 10 4194 98
+"Massachusetts" "Shirley" 16 3700 98
+"Massachusetts" "Hadley" 44 3493 98
+"Massachusetts" "Avon" 21 2697 98
+"Massachusetts" "Provincetown" 85 2613 98
+"Massachusetts" "Dunstable" 17 2173 98
+"Massachusetts" "Sunderland" 59 2050 98
+"Massachusetts" "Williamsburg" 61 1822 98
+"Massachusetts" "Conway" 55 1303 98
+"Massachusetts" "Wales" -17 1087 98
+"Massachusetts" "Richmond" 58 1057 98
+"Massachusetts" "Petersham" 24 872 98
+"Massachusetts" "Goshen" 28 672 98
+"Massachusetts" "Montgomery" -12 564 98
+"Massachusetts" "Sandisfield" 21 515 98
+"Massachusetts" "Tyringham" 52 314 98
+"Massachusetts" "Worcester" 38 71370 98
+"Massachusetts" "Quincy" 35 45793 98
+"Massachusetts" "Plymouth" 16 37336 98
+"Massachusetts" "Weymouth" 22 32827 98
+"Massachusetts" "Haverhill" 20 32401 98
+"Massachusetts" "Framingham" 50 32048 98
+"Massachusetts" "Brookline" 76 31084 98
+"Massachusetts" "Peabody" 14 30090 98
+"Massachusetts" "Taunton" 14 26773 98
+"Massachusetts" "Methuen" 12 25919 98
+"Massachusetts" "Chicopee" 15 25795 98
+"Massachusetts" "Malden" 51 25623 98
+"Massachusetts" "Billerica" 11 24644 98
+"Massachusetts" "Beverly" 39 24450 98
+"Massachusetts" "Attleboro" 19 23555 98
+"Massachusetts" "Chelmsford" 27 22349 98
+"Massachusetts" "Pittsfield" 52 21942 98
+"Massachusetts" "Natick" 52 21776 98
+"Massachusetts" "Andover" 36 21743 98
+"Massachusetts" "Leominster" 17 21525 98
+"Massachusetts" "Shrewsbury" 31 21131 98
+"Massachusetts" "Westfield" 1.7 20685 98
+"Massachusetts" "Franklin" 25 20346 98
+"Massachusetts" "Needham" 57 20113 98
+"Massachusetts" "Lexington" 65 20048 98
+"Massachusetts" "Tewksbury" 6 19137 98
+"Massachusetts" "Gloucester" 36 18159 98
+"Massachusetts" "North Andover" 25 18012 98
+"Massachusetts" "Northampton" 77 17925 98
+"Massachusetts" "Dracut" -0.59 17845 98
+"Massachusetts" "Marshfield" 12 17482 98
+"Massachusetts" "Randolph" 58 17455 98
+"Massachusetts" "Norwood" 31 17453 98
+"Massachusetts" "North Attleborough" 16 17191 98
+"Massachusetts" "Reading" 34 16952 98
+"Massachusetts" "Danvers" 18 16907 98
+"Massachusetts" "Wellesley" 57 16342 98
+"Massachusetts" "Hingham" 36 16229 98
+"Massachusetts" "Agawam" -1.7 16185 98
+"Massachusetts" "Walpole" 20 16166 98
+"Massachusetts" "Dedham" 38 15867 98
+"Massachusetts" "Stoughton" 33 15623 98
+"Massachusetts" "Burlington" 25 15346 98
+"Massachusetts" "Westford" 36 15298 98
+"Massachusetts" "Wilmington" 11 14806 98
+"Massachusetts" "Bridgewater" 8 14616 98
+"Massachusetts" "Mansfield" 27 14537 98
+"Massachusetts" "Easton" 22 14519 98
+"Massachusetts" "Canton" 29 14485 98
+"Massachusetts" "Stoneham" 23 14322 98
+"Massachusetts" "Marblehead" 45 14234 98
+"Massachusetts" "Sandwich" 12 14061 98
+"Massachusetts" "Acton" 62 13927 98
+"Massachusetts" "Middleborough" -6 13857 98
+"Massachusetts" "Scituate" 30 13530 98
+"Massachusetts" "West Springfield" 8 13513 98
+"Massachusetts" "Wareham" 11 12726 98
+"Massachusetts" "Newburyport" 47 12708 98
+"Massachusetts" "Holden" 18 12654 98
+"Massachusetts" "Sudbury" 54 12354 98
+"Massachusetts" "Concord" 65 12311 98
+"Massachusetts" "Bourne" 10 12119 98
+"Massachusetts" "Pembroke" 8 11753 98
+"Massachusetts" "Sharon" 53 11617 98
+"Massachusetts" "Grafton" 27 11453 98
+"Massachusetts" "Ludlow" -2 11384 98
+"Massachusetts" "Foxborough" 21 11346 98
+"Massachusetts" "Duxbury" 26 11219 98
+"Massachusetts" "Somerset" 6 11122 98
+"Massachusetts" "Norton" 11 10974 98
+"Massachusetts" "Westborough" 45 10636 98
+"Massachusetts" "Easthampton" 50 10592 98
+"Massachusetts" "Westport" 3 10546 98
+"Massachusetts" "Westwood" 32 10545 98
+"Massachusetts" "Chelsea" 56 10524 98
+"Massachusetts" "Ashland" 42 10444 98
+"Massachusetts" "Amesbury" 33 10395 98
+"Massachusetts" "Longmeadow" 31 10395 98
+"Massachusetts" "Dennis" 22 10321 98
+"Massachusetts" "Hopkinton" 39 10296 98
+"Massachusetts" "Mashpee" 18 10263 98
+"Massachusetts" "Auburn" 13 10201 98
+"Massachusetts" "East Longmeadow" 7 10122 98
+"Massachusetts" "South Hadley" 33 10059 98
+"Massachusetts" "Swansea" -4 10034 98
+"Massachusetts" "North Reading" 15 9930 98
+"Massachusetts" "Bellingham" 8 9889 98
+"Massachusetts" "Northborough" 37 9687 98
+"Massachusetts" "Abington" 10 9660 98
+"Massachusetts" "Hanover" 4 9652 98
+"Massachusetts" "Holliston" 44 9617 98
+"Massachusetts" "Ipswich" 33 9614 98
+"Massachusetts" "Belchertown" 25 9609 98
+"Massachusetts" "Fairhaven" 9 9557 98
+"Massachusetts" "Harwich" 26 9448 98
+"Massachusetts" "Gardner" 13 9444 98
+"Massachusetts" "Greenfield" 49 9409 98
+"Massachusetts" "Wilbraham" 7 9397 98
+"Massachusetts" "Wayland" 61 9302 98
+"Massachusetts" "Seekonk" 9 8955 98
+"Massachusetts" "Bedford" 48 8859 98
+"Massachusetts" "Raynham" 1.5 8811 98
+"Massachusetts" "East Bridgewater" -2 8767 98
+"Massachusetts" "Uxbridge" 3 8727 98
+"Massachusetts" "Kingston" 9 8520 98
+"Massachusetts" "Medway" 26 8416 98
+"Massachusetts" "Lynnfield" 3 8345 98
+"Massachusetts" "Webster" 0.08 8298 98
+"Massachusetts" "Millbury" 6 8162 98
+"Massachusetts" "Charlton" -5 8122 98
+"Massachusetts" "Rehoboth" -5 7917 98
+"Massachusetts" "Clinton" 23 7826 98
+"Massachusetts" "Wrentham" 12 7807 98
+"Massachusetts" "Oxford" -2 7574 98
+"Massachusetts" "Tyngsborough" 9 7545 98
+"Massachusetts" "Brewster" 35 7436 98
+"Massachusetts" "Norwell" 19 7386 98
+"Massachusetts" "Lakeville" -6 7323 98
+"Massachusetts" "Nantucket" 46 7306 98
+"Massachusetts" "Lunenburg" 15 7192 98
+"Massachusetts" "Carver" -3 6961 98
+"Massachusetts" "Norfolk" 22 6853 98
+"Massachusetts" "Maynard" 48 6786 98
+"Massachusetts" "Hanson" -1 6741 98
+"Massachusetts" "Littleton" 37 6691 98
+"Massachusetts" "Southborough" 42 6665 98
+"Massachusetts" "Leicester" -0.7 6415 98
+"Massachusetts" "Spencer" -5 6412 98
+"Massachusetts" "Sutton" 0.16 6318 98
+"Massachusetts" "Sturbridge" 15 6093 98
+"Massachusetts" "Dudley" -7 6092 98
+"Massachusetts" "Middleton" -3 5858 98
+"Massachusetts" "Plainville" 12 5823 98
+"Massachusetts" "Southwick" -15 5732 98
+"Massachusetts" "Rutland" 3 5675 98
+"Massachusetts" "Cohasset" 39 5669 98
+"Massachusetts" "Millis" 27 5639 98
+"Massachusetts" "Georgetown" 12 5585 98
+"Massachusetts" "Salisbury" 4 5556 98
+"Massachusetts" "Boxford" 15 5543 98
+"Massachusetts" "Douglas" -9 5534 98
+"Massachusetts" "Athol" 2 5502 98
+"Massachusetts" "Sterling" 7 5451 98
+"Massachusetts" "Upton" 22 5300 98
+"Massachusetts" "Westminster" 4 5294 98
+"Massachusetts" "Rockport" 48 5275 98
+"Massachusetts" "Monson" -3 5175 98
+"Massachusetts" "Winchendon" -7 5152 98
+"Massachusetts" "Blackstone" -2 5135 98
+"Massachusetts" "Chatham" 25 5075 98
+"Massachusetts" "Newbury" 28 5025 98
+"Massachusetts" "Hamilton" 38 4988 98
+"Massachusetts" "Stow" 46 4964 98
+"Massachusetts" "Ware" -1.8 4951 98
+"Massachusetts" "Montague" 47 4898 98
+"Massachusetts" "West Boylston" 19 4802 98
+"Massachusetts" "Dighton" -7 4724 98
+"Massachusetts" "Mattapoisett" 18 4697 98
+"Massachusetts" "Ayer" 30 4625 98
+"Massachusetts" "West Bridgewater" -1 4625 98
+"Massachusetts" "Groveland" 10 4536 98
+"Massachusetts" "Templeton" -5 4495 98
+"Massachusetts" "Adams" 33 4441 98
+"Massachusetts" "Merrimac" 19 4391 98
+"Massachusetts" "Lancaster" 16 4354 98
+"Massachusetts" "Lincoln" 66 4271 98
+"Massachusetts" "Rowley" 6 4227 98
+"Massachusetts" "Harvard" 51 4129 98
+"Massachusetts" "Berkley" -12 4113 98
+"Massachusetts" "Great Barrington" 66 4112 98
+"Massachusetts" "Dover" 40 4023 98
+"Massachusetts" "Granby" 6 3956 98
+"Massachusetts" "Mendon" 7 3944 98
+"Massachusetts" "Rochester" -6 3833 98
+"Massachusetts" "Ashburnham" 9 3827 98
+"Massachusetts" "Dalton" 43 3821 98
+"Massachusetts" "Manchester" 44 3819 98
+"Massachusetts" "Orange" 8 3800 98
+"Massachusetts" "Hopedale" 24 3775 98
+"Massachusetts" "Bolton" 37 3762 98
+"Massachusetts" "Marion" 30 3696 98
+"Massachusetts" "Carlisle" 55 3638 98
+"Massachusetts" "Lee" 41 3489 98
+"Massachusetts" "Boxborough" 51 3402 98
+"Massachusetts" "Lenox" 62 3368 98
+"Massachusetts" "Deerfield" 47 3350 98
+"Massachusetts" "Hampden" -5 3339 98
+"Massachusetts" "Boylston" 17 3304 98
+"Massachusetts" "Barre" 0.38 3157 98
+"Massachusetts" "Edgartown" 43 3101 98
+"Massachusetts" "Sherborn" 57 2963 98
+"Massachusetts" "Paxton" 12 2962 98
+"Massachusetts" "Hubbardston" -1.8 2927 98
+"Massachusetts" "Wenham" 38 2608 98
+"Massachusetts" "Warren" -9 2599 98
+"Massachusetts" "Princeton" 21 2575 98
+"Massachusetts" "Wellfleet" 59 2516 98
+"Massachusetts" "Essex" 34 2512 98
+"Massachusetts" "West Brookfield" 0.43 2327 98
+"Massachusetts" "Brimfield" -6 2314 98
+"Massachusetts" "Hatfield" 39 2313 98
+"Massachusetts" "Berlin" 25 2265 98
+"Massachusetts" "Sheffield" 45 2162 98
+"Massachusetts" "Brookfield" -5 2054 98
+"Massachusetts" "Lanesborough" 33 1891 98
+"Massachusetts" "Millville" -8 1848 98
+"Massachusetts" "Truro" 59 1762 98
+"Massachusetts" "Holland" -6 1545 98
+"Massachusetts" "Hardwick" 1 1529 98
+"Massachusetts" "Leverett" 74 1386 98
+"Massachusetts" "Bernardston" 36 1375 98
+"Massachusetts" "East Brookfield" -11 1365 98
+"Massachusetts" "Oakham" -9 1257 98
+"Massachusetts" "Ashfield" 67 1218 98
+"Massachusetts" "Hinsdale" 30 1210 98
+"Massachusetts" "Becket" 29 1195 98
+"Massachusetts" "Buckland" 52 1191 98
+"Massachusetts" "Whately" 37 1107 98
+"Massachusetts" "Phillipston" -13 1094 98
+"Massachusetts" "Otis" 11 1014 98
+"Massachusetts" "Colrain" 36 1007 98
+"Massachusetts" "Clarksburg" 19 990 98
+"Massachusetts" "Egremont" 63 973 98
+"Massachusetts" "Erving" 21 929 98
+"Massachusetts" "Chilmark" 74 921 98
+"Massachusetts" "Russell" -16 919 98
+"Massachusetts" "Worthington" 34 870 98
+"Massachusetts" "Chesterfield" 27 822 98
+"Massachusetts" "Royalston" 6 787 98
+"Massachusetts" "Blandford" -19 775 98
+"Massachusetts" "Chester" -14 744 98
+"Massachusetts" "New Braintree" -3 671 98
+"Massachusetts" "Monterey" 64 592 98
+"Massachusetts" "Windsor" 29 579 98
+"Massachusetts" "Warwick" 35 523 98
+"Massachusetts" "Hancock" 10 478 98
+"Massachusetts" "Plainfield" 45 443 98
+"Massachusetts" "Aquinnah" 78 355 98
+"Massachusetts" "Washington" 38 353 98
+"Massachusetts" "Middlefield" 22 334 98
+"Massachusetts" "Tolland" -15 328 98
+"Massachusetts" "Alford" 68 325 98
+"Massachusetts" "Rowe" 15 267 98
+"Massachusetts" "Hawley" 37 231 98
+"Massachusetts" "Mount Washington" 69 125 98
+"Michigan" "Wayne" 38 872469 98
+"Michigan" "Oakland" 14 770351 98
+"Michigan" "Macomb" -8 494256 98
+"Michigan" "Kent" 6 361048 98
+"Michigan" "Genesee" 9 221360 98
+"Michigan" "Washtenaw" 47 216418 98
+"Michigan" "Ottawa" -21 168713 98
+"Michigan" "Ingham" 32 144550 98
+"Michigan" "Kalamazoo" 19 143414 98
+"Michigan" "Livingston" -23 127197 98
+"Michigan" "Saginaw" 0.29 103349 98
+"Michigan" "Muskegon" 0.55 92444 98
+"Michigan" "St. Clair" -30 92064 98
+"Michigan" "Monroe" -23 87148 98
+"Michigan" "Berrien" -7 82391 98
+"Michigan" "Jackson" -19 80861 98
+"Michigan" "Allegan" -25 67094 98
+"Michigan" "Calhoun" -11 66281 98
+"Michigan" "Eaton" -0.78 64327 98
+"Michigan" "Bay" -12 60255 98
+"Michigan" "Grand Traverse" -3 60236 98
+"Michigan" "Lenawee" -20 53375 98
+"Michigan" "Lapeer" -36 52650 98
+"Michigan" "Midland" -15 49088 98
+"Michigan" "Clinton" -7 47927 98
+"Michigan" "Shiawassee" -20 39224 98
+"Michigan" "Van Buren" -12 39066 98
+"Michigan" "Marquette" 11 37462 98
+"Michigan" "Barry" -33 35905 98
+"Michigan" "Ionia" -30 32209 98
+"Michigan" "Montcalm" -38 32100 98
+"Michigan" "Tuscola" -39 29445 98
+"Michigan" "Isabella" -3 29421 98
+"Michigan" "St. Joseph" -32 27936 98
+"Michigan" "Newaygo" -40 27161 98
+"Michigan" "Cass" -29 26216 98
+"Michigan" "Hillsdale" -48 23302 98
+"Michigan" "Sanilac" -46 22446 98
+"Michigan" "Emmet" -11 22177 98
+"Michigan" "Delta" -26 21151 98
+"Michigan" "Mecosta" -28 21049 98
+"Michigan" "Branch" -38 20536 98
+"Michigan" "Gratiot" -28 19127 98
+"Michigan" "Houghton" -14 18501 98
+"Michigan" "Huron" -39 18437 98
+"Michigan" "Wexford" -34 18265 98
+"Michigan" "Chippewa" -23 17642 98
+"Michigan" "Mason" -20 17254 98
+"Michigan" "Charlevoix" -17 17000 98
+"Michigan" "Alpena" -28 16969 98
+"Michigan" "Leelanau" 5 16900 98
+"Michigan" "Clare" -35 16281 98
+"Michigan" "Antrim" -24 15949 98
+"Michigan" "Cheboygan" -30 15868 98
+"Michigan" "Iosco" -29 15363 98
+"Michigan" "Roscommon" -30 15018 98
+"Michigan" "Otsego" -34 14757 98
+"Michigan" "Manistee" -15 14655 98
+"Michigan" "Gladwin" -37 14603 98
+"Michigan" "Dickinson" -33 14589 98
+"Michigan" "Oceana" -28 14062 98
+"Michigan" "Menominee" -30 12607 98
+"Michigan" "Osceola" -46 12329 98
+"Michigan" "Benzie" -9 12262 98
+"Michigan" "Ogemaw" -40 11907 98
+"Michigan" "Kalkaska" -42 10631 98
+"Michigan" "Arenac" -36 8831 98
+"Michigan" "Missaukee" -53 8755 98
+"Michigan" "Presque Isle" -29 8344 98
+"Michigan" "Gogebic" -12 8266 98
+"Michigan" "Crawford" -31 7861 98
+"Michigan" "Alcona" -38 7064 98
+"Michigan" "Mackinac" -24 7015 98
+"Michigan" "Iron" -25 6789 98
+"Michigan" "Lake" -26 6323 98
+"Michigan" "Montmorency" -43 5859 98
+"Michigan" "Alger" -19 5128 98
+"Michigan" "Oscoda" -44 4874 98
+"Michigan" "Schoolcraft" -32 4745 98
+"Michigan" "Baraga" -26 4038 98
+"Michigan" "Ontonagon" -25 3804 98
+"Michigan" "Luce" -42 3001 98
+"Michigan" "Keweenaw" -12 1557 98
+"Minnesota" "Winona" 0.39 27173 86
+"Minnesota" "St. Louis" 16 119531 90
+"Minnesota" "Nicollet" 3 19125 90
+"Minnesota" "Blue Earth" 4 36051 91
+"Minnesota" "Lake" 4 7202 91
+"Minnesota" "Ramsey" 45 295977 92
+"Minnesota" "Stearns" -22 84835 92
+"Minnesota" "Lincoln" -38 3115 93
+"Minnesota" "Freeborn" -16 16818 94
+"Minnesota" "Martin" -38 11009 94
+"Minnesota" "Traverse" -27 1864 94
+"Minnesota" "Rice" -0.17 35686 95
+"Minnesota" "Clay" 4 32239 95
+"Minnesota" "Beltrami" -3 24189 95
+"Minnesota" "Steele" -22 21128 95
+"Minnesota" "Mower" -6 19345 95
+"Minnesota" "Cottonwood" -38 6107 95
+"Minnesota" "Watonwan" -21 5201 95
+"Minnesota" "Swift" -30 5193 95
+"Minnesota" "Lac Qui Parle" -27 4040 95
+"Minnesota" "Hennepin" 43 755969 96
+"Minnesota" "Goodhue" -15 28636 96
+"Minnesota" "Douglas" -33 24165 96
+"Minnesota" "Polk" -28 15594 96
+"Minnesota" "Faribault" -34 7914 96
+"Minnesota" "Jackson" -38 5819 96
+"Minnesota" "Yellow Medicine" -37 5528 96
+"Minnesota" "Murray" -39 4896 96
+"Minnesota" "Otter Tail" -33 36399 97
+"Minnesota" "Kandiyohi" -26 23367 97
+"Minnesota" "Hubbard" -29 12965 97
+"Minnesota" "Wilkin" -38 3430 97
+"Minnesota" "Dakota" 14 262259 98
+"Minnesota" "Olmsted" 11 91385 98
+"Minnesota" "Houston" -13 11440 98
+"Minnesota" "Grant" -27 3654 98
+"Minnesota" "Norman" -16 3441 98
+"Minnesota" "Anoka" -1.9 211132 98
+"Minnesota" "Washington" 9 166786 98
+"Minnesota" "Scott" -7 87965 98
+"Minnesota" "Wright" -29 82426 98
+"Minnesota" "Carver" -5 66361 98
+"Minnesota" "Sherburne" -33 55612 98
+"Minnesota" "Crow Wing" -30 40173 98
+"Minnesota" "Chisago" -29 34570 98
+"Minnesota" "Itasca" -17 26561 98
+"Minnesota" "Isanti" -39 24235 98
+"Minnesota" "Benton" -32 22260 98
+"Minnesota" "McLeod" -36 20933 98
+"Minnesota" "Carlton" 1.5 20369 98
+"Minnesota" "Morrison" -53 19558 98
+"Minnesota" "Becker" -30 19401 98
+"Minnesota" "Cass" -29 18289 98
+"Minnesota" "Le Sueur" -30 16818 98
+"Minnesota" "Pine" -30 16001 98
+"Minnesota" "Mille Lacs" -38 14689 98
+"Minnesota" "Brown" -33 14635 98
+"Minnesota" "Meeker" -41 13529 98
+"Minnesota" "Todd" -49 13257 98
+"Minnesota" "Wabasha" -26 13123 98
+"Minnesota" "Lyon" -26 12893 98
+"Minnesota" "Dodge" -30 12187 98
+"Minnesota" "Fillmore" -23 12141 98
+"Minnesota" "Waseca" -30 10389 98
+"Minnesota" "Aitkin" -26 10025 98
+"Minnesota" "Kanabec" -38 9242 98
+"Minnesota" "Nobles" -31 8715 98
+"Minnesota" "Sibley" -41 8452 98
+"Minnesota" "Roseau" -46 8421 98
+"Minnesota" "Redwood" -41 8284 98
+"Minnesota" "Renville" -37 8128 98
+"Minnesota" "Wadena" -46 7677 98
+"Minnesota" "Pennington" -27 7277 98
+"Minnesota" "Pope" -28 7022 98
+"Minnesota" "Koochiching" -21 6922 98
+"Minnesota" "Chippewa" -31 6611 98
+"Minnesota" "Rock" -39 5240 98
+"Minnesota" "Marshall" -47 5113 98
+"Minnesota" "Stevens" -22 5085 98
+"Minnesota" "Pipestone" -45 4940 98
+"Minnesota" "Clearwater" -45 4708 98
+"Minnesota" "Cook" 34 3806 98
+"Minnesota" "Big Stone" -27 2974 98
+"Minnesota" "Kittson" -20 2639 98
+"Minnesota" "Lake of the Woods" -43 2408 98
+"Minnesota" "Mahnomen" -1.3 2304 98
+"Minnesota" "Red Lake" -35 2196 98
+"Mississippi" "Hinds" 48 100191 86
+"Mississippi" "Lee" -32 37003 95
+"Mississippi" "Walthall" -19 7122 96
+"Mississippi" "Carroll" -38 5705 97
+"Mississippi" "Grenada" -12 10919 98
+"Mississippi" "DeSoto" -24 76248 98
+"Mississippi" "Harrison" -25 75865 98
+"Mississippi" "Rankin" -45 70655 98
+"Mississippi" "Madison" -12 56335 98
+"Mississippi" "Jackson" -35 54623 98
+"Mississippi" "Forrest" -11 31725 98
+"Mississippi" "Lauderdale" -16 31266 98
+"Mississippi" "Jones" -42 30091 98
+"Mississippi" "Lamar" -47 28526 98
+"Mississippi" "Lowndes" -3 27273 98
+"Mississippi" "Pearl River" -64 24056 98
+"Mississippi" "Lafayette" -12 23481 98
+"Mississippi" "Warren" 0.37 21056 98
+"Mississippi" "Hancock" -55 20957 98
+"Mississippi" "Oktibbeha" 7 19812 98
+"Mississippi" "Washington" 40 18025 98
+"Mississippi" "Pike" 0.96 17360 98
+"Mississippi" "Monroe" -31 17279 98
+"Mississippi" "Lincoln" -39 16818 98
+"Mississippi" "Marshall" 3 15830 98
+"Mississippi" "Alcorn" -63 15811 98
+"Mississippi" "Panola" -4 15635 98
+"Mississippi" "Pontotoc" -62 14377 98
+"Mississippi" "Adams" 16 13759 98
+"Mississippi" "Bolivar" 31 13755 98
+"Mississippi" "Tate" -35 13101 98
+"Mississippi" "Copiah" 1.7 12897 98
+"Mississippi" "Union" -65 12683 98
+"Mississippi" "Marion" -37 12194 98
+"Mississippi" "Simpson" -30 11820 98
+"Mississippi" "Neshoba" -43 11720 98
+"Mississippi" "George" -77 11064 98
+"Mississippi" "Leflore" 41 10893 98
+"Mississippi" "Itawamba" -76 10826 98
+"Mississippi" "Scott" -18 10744 98
+"Mississippi" "Prentiss" -58 10588 98
+"Mississippi" "Yazoo" 6 10441 98
+"Mississippi" "Clay" 16 10206 98
+"Mississippi" "Newton" -38 10189 98
+"Mississippi" "Tippah" -61 10102 98
+"Mississippi" "Wayne" -27 10065 98
+"Mississippi" "Sunflower" 41 9683 98
+"Mississippi" "Covington" -26 9371 98
+"Mississippi" "Winston" -12 9244 98
+"Mississippi" "Leake" -14 9204 98
+"Mississippi" "Tishomingo" -75 9147 98
+"Mississippi" "Attala" -19 8832 98
+"Mississippi" "Jasper" 0.45 8742 98
+"Mississippi" "Coahoma" 43 8642 98
+"Mississippi" "Clarke" -31 8347 98
+"Mississippi" "Smith" -56 8327 98
+"Mississippi" "Chickasaw" -4 8148 98
+"Mississippi" "Holmes" 64 8115 98
+"Mississippi" "Stone" -53 7878 98
+"Mississippi" "Amite" -26 7207 98
+"Mississippi" "Lawrence" -31 6617 98
+"Mississippi" "Calhoun" -41 6595 98
+"Mississippi" "Yalobusha" -14 6538 98
+"Mississippi" "Jeff Davis" 17 6213 98
+"Mississippi" "Perry" -53 5922 98
+"Mississippi" "Greene" -66 5816 98
+"Mississippi" "Tallahatchie" 11 5691 98
+"Mississippi" "Webster" -60 5402 98
+"Mississippi" "Noxubee" 52 5341 98
+"Mississippi" "Montgomery" -16 5078 98
+"Mississippi" "Kemper" 23 4732 98
+"Mississippi" "Franklin" -32 4464 98
+"Mississippi" "Claiborne" 71 4453 98
+"Mississippi" "Benton" -21 4292 98
+"Mississippi" "Choctaw" -43 4225 98
+"Mississippi" "Humphreys" 45 4189 98
+"Mississippi" "Wilkinson" 35 4130 98
+"Mississippi" "Jefferson" 71 3911 98
+"Mississippi" "Tunica" 46 3565 98
+"Mississippi" "Quitman" 35 3229 98
+"Mississippi" "Sharkey" 36 2183 98
+"Mississippi" "Issaquena" 7 676 98
+"Missouri" "Pemiscot" -45 5727 86
+"Missouri" "Sullivan" -61 2471 91
+"Missouri" "St. Louis County" 24 536446 92
+"Missouri" "Dunklin" -57 10419 93
+"Missouri" "New Madrid" -51 7248 94
+"Missouri" "Buchanan" -25 36713 95
+"Missouri" "Holt" -70 2344 95
+"Missouri" "Cole" -34 39486 96
+"Missouri" "Stoddard" -72 13410 96
+"Missouri" "St. Clair" -59 4972 96
+"Missouri" "Grundy" -63 4437 96
+"Missouri" "Shannon" -63 3908 96
+"Missouri" "Putnam" -69 2361 96
+"Missouri" "Jackson" 22 334055 97
+"Missouri" "Phelps" -40 19495 97
+"Missouri" "Nodaway" -41 9874 97
+"Missouri" "Wayne" -70 5874 97
+"Missouri" "Linn" -54 5700 97
+"Missouri" "Oregon" -64 4742 97
+"Missouri" "Mercer" -74 1779 97
+"Missouri" "Pulaski" -46 14405 98
+"Missouri" "Reynolds" -67 3298 98
+"Missouri" "St. Charles" -17 222175 98
+"Missouri" "Greene" -20 142272 98
+"Missouri" "St. Louis City" 66 134372 98
+"Missouri" "Clay" -4 126618 98
+"Missouri" "Jefferson" -34 116629 98
+"Missouri" "Boone" 13 91326 98
+"Missouri" "Platte" -1.9 58523 98
+"Missouri" "Cass" -32 57524 98
+"Missouri" "Franklin" -44 53750 98
+"Missouri" "Jasper" -46 52515 98
+"Missouri" "Christian" -51 46904 98
+"Missouri" "Cape Girardeau" -45 40252 98
+"Missouri" "Lincoln" -53 28814 98
+"Missouri" "Newton" -57 28396 98
+"Missouri" "St. Francois" -48 27996 98
+"Missouri" "Taney" -58 26240 98
+"Missouri" "Camden" -53 24774 98
+"Missouri" "Johnson" -37 23134 98
+"Missouri" "Callaway" -42 21178 98
+"Missouri" "Pettis" -48 19069 98
+"Missouri" "Webster" -60 18776 98
+"Missouri" "Howell" -64 18637 98
+"Missouri" "Stone" -61 18520 98
+"Missouri" "Warren" -46 18373 98
+"Missouri" "Butler" -62 18165 98
+"Missouri" "Lawrence" -63 17930 98
+"Missouri" "Scott" -56 17748 98
+"Missouri" "Lafayette" -46 17083 98
+"Missouri" "LaClede" -65 16819 98
+"Missouri" "Barry" -61 15598 98
+"Missouri" "Polk" -60 15059 98
+"Missouri" "Marion" -50 13370 98
+"Missouri" "Miller" -66 12379 98
+"Missouri" "Ray" -45 11654 98
+"Missouri" "Texas" -68 11332 98
+"Missouri" "Crawford" -60 10973 98
+"Missouri" "Clinton" -45 10894 98
+"Missouri" "Henry" -50 10776 98
+"Missouri" "Randolph" -52 10742 98
+"Missouri" "Audrain" -47 10660 98
+"Missouri" "Benton" -57 10478 98
+"Missouri" "Adair" -26 10337 98
+"Missouri" "Washington" -63 9971 98
+"Missouri" "Andrew" -50 9775 98
+"Missouri" "Saline" -37 9528 98
+"Missouri" "Ste. Genevieve" -41 9495 98
+"Missouri" "Morgan" -58 9484 98
+"Missouri" "Perry" -63 9429 98
+"Missouri" "Vernon" -57 9164 98
+"Missouri" "McDonald" -67 9050 98
+"Missouri" "Wright" -72 8737 98
+"Missouri" "Cooper" -46 8710 98
+"Missouri" "Bates" -58 8435 98
+"Missouri" "Dallas" -65 8122 98
+"Missouri" "Gasconade" -58 7934 98
+"Missouri" "Macon" -56 7834 98
+"Missouri" "Pike" -54 7686 98
+"Missouri" "Osage" -71 7449 98
+"Missouri" "Moniteau" -62 7150 98
+"Missouri" "Dent" -69 7142 98
+"Missouri" "Cedar" -66 7039 98
+"Missouri" "Douglas" -70 6994 98
+"Missouri" "Livingston" -57 6755 98
+"Missouri" "Barton" -71 6077 98
+"Missouri" "Bollinger" -74 5981 98
+"Missouri" "Montgomery" -56 5770 98
+"Missouri" "Ripley" -70 5743 98
+"Missouri" "Madison" -63 5671 98
+"Missouri" "Ralls" -56 5662 98
+"Missouri" "Howard" -42 5089 98
+"Missouri" "Hickory" -57 5080 98
+"Missouri" "Ozark" -68 4870 98
+"Missouri" "DeKalb" -60 4842 98
+"Missouri" "Maries" -64 4774 98
+"Missouri" "Mississippi" -50 4756 98
+"Missouri" "Caldwell" -60 4696 98
+"Missouri" "Lewis" -56 4607 98
+"Missouri" "Iron" -58 4592 98
+"Missouri" "Carroll" -64 4531 98
+"Missouri" "Monroe" -57 4467 98
+"Missouri" "Dade" -67 4123 98
+"Missouri" "Chariton" -54 4074 98
+"Missouri" "Daviess" -60 3884 98
+"Missouri" "Harrison" -68 3825 98
+"Missouri" "Clark" -59 3394 98
+"Missouri" "Shelby" -63 3355 98
+"Missouri" "Gentry" -61 3239 98
+"Missouri" "Carter" -70 2906 98
+"Missouri" "Atchison" -58 2814 98
+"Missouri" "Schuyler" -61 2005 98
+"Missouri" "Scotland" -59 1985 98
+"Missouri" "Knox" -62 1856 98
+"Missouri" "Worth" -60 1107 98
+"Montana" "Daniels" -60 1014 98
+"Montana" "Yellowstone" -24 83821 98
+"Montana" "Missoula" 24 71986 98
+"Montana" "Gallatin" 7 71507 98
+"Montana" "Flathead" -30 60258 98
+"Montana" "Lewis and Clark" -4 42485 98
+"Montana" "Cascade" -20 39885 98
+"Montana" "Ravalli" -36 28507 98
+"Montana" "Silver Bow" 14 18827 98
+"Montana" "Lake" -14 16626 98
+"Montana" "Lincoln" -50 11747 98
+"Montana" "Park" -6 11618 98
+"Montana" "Jefferson" -33 8191 98
+"Montana" "Sanders" -50 7652 98
+"Montana" "Hill" -14 7182 98
+"Montana" "Carbon" -29 7101 98
+"Montana" "Fergus" -52 6531 98
+"Montana" "Madison" -40 6113 98
+"Montana" "Custer" -46 5883 98
+"Montana" "Richland" -68 5798 98
+"Montana" "Stillwater" -58 5741 98
+"Montana" "Beaverhead" -41 5661 98
+"Montana" "Glacier" 31 5639 98
+"Montana" "Deer Lodge" 8 4891 98
+"Montana" "Dawson" -58 4837 98
+"Montana" "Big Horn" 6 4784 98
+"Montana" "Valley" -49 4272 98
+"Montana" "Broadwater" -57 4097 98
+"Montana" "Roosevelt" -2 4028 98
+"Montana" "Rosebud" -34 3784 98
+"Montana" "Teton" -43 3695 98
+"Montana" "Powell" -50 3195 98
+"Montana" "Blaine" 4 3117 98
+"Montana" "Pondera" -38 2995 98
+"Montana" "Chouteau" -30 2974 98
+"Montana" "Musselshell" -70 2881 98
+"Montana" "Mineral" -45 2563 98
+"Montana" "Sweet Grass" -53 2446 98
+"Montana" "Phillips" -64 2386 98
+"Montana" "Toole" -53 2123 98
+"Montana" "Granite" -37 2102 98
+"Montana" "Sheridan" -41 2030 98
+"Montana" "Fallon" -76 1575 98
+"Montana" "Judith Basin" -57 1344 98
+"Montana" "Powder River" -72 1136 98
+"Montana" "McCone" -71 1128 98
+"Montana" "Meagher" -52 1110 98
+"Montana" "Liberty" -53 1083 98
+"Montana" "Wheatland" -56 1068 98
+"Montana" "Carter" -81 864 98
+"Montana" "Garfield" -89 813 98
+"Montana" "Prairie" -64 744 98
+"Montana" "Wibaux" -73 598 98
+"Montana" "Golden Valley" -67 503 98
+"Montana" "Treasure" -64 460 98
+"Montana" "Petroleum" -74 351 98
+"Nebraska" "Hitchcock" -74 1469 88
+"Nebraska" "Sioux" -78 729 88
+"Nebraska" "Hayes" -86 534 88
+"Nebraska" "Boyd" -76 1153 89
+"Nebraska" "Logan" -82 450 89
+"Nebraska" "Grant" -88 402 89
+"Nebraska" "Blaine" -77 317 89
+"Nebraska" "Cheyenne" -62 4765 90
+"Nebraska" "Banner" -78 410 90
+"Nebraska" "Sheridan" -73 2672 91
+"Nebraska" "Deuel" -71 1032 91
+"Nebraska" "Dundy" -78 999 91
+"Nebraska" "Keya Paha" -81 529 91
+"Nebraska" "Franklin" -67 1724 92
+"Nebraska" "Cherry" -76 3265 93
+"Nebraska" "Nuckolls" -63 2303 93
+"Nebraska" "Thomas" -78 427 93
+"Nebraska" "Arthur" -84 284 93
+"Nebraska" "Red Willow" -68 5452 94
+"Nebraska" "Box Butte" -57 5181 94
+"Nebraska" "Burt" -41 3731 94
+"Nebraska" "Thurston" -2 2325 94
+"Nebraska" "Chase" -76 1993 94
+"Nebraska" "Harlan" -69 1928 94
+"Nebraska" "Brown" -76 1679 94
+"Nebraska" "Rock" -78 841 94
+"Nebraska" "Lincoln" -55 17107 95
+"Nebraska" "Dawson" -44 9178 95
+"Nebraska" "Custer" -72 5993 95
+"Nebraska" "Phelps" -68 5009 95
+"Nebraska" "Jefferson" -43 3716 95
+"Nebraska" "Nemaha" -44 3423 95
+"Nebraska" "Fillmore" -53 3134 95
+"Nebraska" "Valley" -64 2340 95
+"Nebraska" "Johnson" -39 2229 95
+"Nebraska" "Perkins" -73 1544 95
+"Nebraska" "Pawnee" -52 1429 95
+"Nebraska" "Greeley" -63 1258 95
+"Nebraska" "Hooker" -72 442 95
+"Nebraska" "Scotts Bluff" -44 15469 96
+"Nebraska" "Adams" -40 14602 96
+"Nebraska" "Keith" -64 4364 96
+"Nebraska" "Webster" -63 1876 96
+"Nebraska" "Sherman" -58 1698 96
+"Nebraska" "Wheeler" -75 502 96
+"Nebraska" "Dodge" -32 16876 97
+"Nebraska" "Platte" -57 15673 97
+"Nebraska" "Dakota" -17 6794 97
+"Nebraska" "Holt" -74 5537 97
+"Nebraska" "Richardson" -50 4126 97
+"Nebraska" "Antelope" -74 3583 97
+"Nebraska" "Frontier" -72 1440 97
+"Nebraska" "Gage" -37 11068 98
+"Nebraska" "Cuming" -59 4451 98
+"Nebraska" "Kearney" -59 3604 98
+"Nebraska" "Garden" -72 1195 98
+"Nebraska" "Garfield" -74 1075 98
+"Nebraska" "Douglas" 11 274951 98
+"Nebraska" "Lancaster" 8 156091 98
+"Nebraska" "Sarpy" -11 96193 98
+"Nebraska" "Hall" -35 24374 98
+"Nebraska" "Buffalo" -44 23589 98
+"Nebraska" "Madison" -54 15765 98
+"Nebraska" "Cass" -35 15284 98
+"Nebraska" "Saunders" -45 12735 98
+"Nebraska" "Washington" -41 12413 98
+"Nebraska" "Seward" -44 9142 98
+"Nebraska" "Otoe" -38 8315 98
+"Nebraska" "York" -52 7143 98
+"Nebraska" "Saline" -29 5770 98
+"Nebraska" "Hamilton" -58 5533 98
+"Nebraska" "Cedar" -69 4996 98
+"Nebraska" "Knox" -60 4697 98
+"Nebraska" "Butler" -59 4498 98
+"Nebraska" "Merrick" -62 4282 98
+"Nebraska" "Wayne" -48 4200 98
+"Nebraska" "Dawes" -45 4121 98
+"Nebraska" "Pierce" -74 4006 98
+"Nebraska" "Colfax" -43 3726 98
+"Nebraska" "Clay" -62 3558 98
+"Nebraska" "Howard" -61 3501 98
+"Nebraska" "Boone" -67 3217 98
+"Nebraska" "Stanton" -64 3165 98
+"Nebraska" "Dixon" -55 3083 98
+"Nebraska" "Thayer" -57 2980 98
+"Nebraska" "Polk" -61 2879 98
+"Nebraska" "Furnas" -68 2601 98
+"Nebraska" "Morrill" -68 2558 98
+"Nebraska" "Kimball" -69 1874 98
+"Nebraska" "Nance" -59 1828 98
+"Nebraska" "Gosper" -61 1118 98
+"Nebraska" "Loup" -65 454 98
+"Nebraska" "McPherson" -85 302 98
+"Nevada" "Clark" 9 972510 98
+"Nevada" "Washoe" 5 252142 98
+"Nevada" "Douglas" -29 34125 98
+"Nevada" "Lyon" -41 30238 98
+"Nevada" "Carson City" -11 29739 98
+"Nevada" "Nye" -40 25378 98
+"Nevada" "Elko" -55 21967 98
+"Nevada" "Churchill" -49 12890 98
+"Nevada" "Humboldt" -54 7771 98
+"Nevada" "White Pine" -58 4369 98
+"Nevada" "Storey" -35 2877 98
+"Nevada" "Lander" -62 2765 98
+"Nevada" "Lincoln" -71 2446 98
+"Nevada" "Mineral" -25 2335 98
+"Nevada" "Pershing" -51 2320 98
+"Nevada" "Eureka" -78 1017 98
+"Nevada" "Esmeralda" -67 487 98
+"New Hampshire" "Wentworth's Location" -50 18 90
+"New Hampshire" "Stoddard" -1.3 849 92
+"New Hampshire" "Seabrook" -13 4639 95
+"New Hampshire" "Millsfield" -52 21 95
+"New Hampshire" "Columbia" -34 351 96
+"New Hampshire" "Cornish" 24 1109 97
+"New Hampshire" "New Castle" 37 904 98
+"New Hampshire" "Manchester" 14 52606 98
+"New Hampshire" "Nashua" 20 45281 98
+"New Hampshire" "Concord" 32 23875 98
+"New Hampshire" "Dover" 32 19229 98
+"New Hampshire" "Derry" -7 17894 98
+"New Hampshire" "Salem" -13 17841 98
+"New Hampshire" "Rochester" -1.4 16907 98
+"New Hampshire" "Merrimack" 6 16697 98
+"New Hampshire" "Londonderry" -1.1 15873 98
+"New Hampshire" "Bedford" 3 14739 98
+"New Hampshire" "Portsmouth" 46 14701 98
+"New Hampshire" "Hudson" -8 14641 98
+"New Hampshire" "Keene" 40 12929 98
+"New Hampshire" "Hampton" 8 11502 98
+"New Hampshire" "Exeter" 34 10336 98
+"New Hampshire" "Goffstown" -0.72 10196 98
+"New Hampshire" "Windham" -6 9900 98
+"New Hampshire" "Milford" 6 8961 98
+"New Hampshire" "Laconia" -6 8955 98
+"New Hampshire" "Pelham" -20 8854 98
+"New Hampshire" "Hooksett" -4 8585 98
+"New Hampshire" "Amherst" 20 8137 98
+"New Hampshire" "Lebanon" 50 7949 98
+"New Hampshire" "Durham" 55 7810 98
+"New Hampshire" "Hanover" 75 7117 98
+"New Hampshire" "Somersworth" 14 6071 98
+"New Hampshire" "Barrington" 7 6004 98
+"New Hampshire" "Newmarket" 34 6004 98
+"New Hampshire" "Raymond" -19 6000 98
+"New Hampshire" "Conway" 16 5966 98
+"New Hampshire" "Hampstead" -14 5897 98
+"New Hampshire" "Hollis" 14 5825 98
+"New Hampshire" "Claremont" 1.8 5813 98
+"New Hampshire" "Weare" -18 5538 98
+"New Hampshire" "Bow" 20 5512 98
+"New Hampshire" "Stratham" 22 5485 98
+"New Hampshire" "Litchfield" -6 5410 98
+"New Hampshire" "Gilford" -5 5313 98
+"New Hampshire" "Atkinson" -11 5104 98
+"New Hampshire" "Wolfeboro" -0.33 4777 98
+"New Hampshire" "Plaistow" -10 4617 98
+"New Hampshire" "Rye" 26 4465 98
+"New Hampshire" "Epping" -6 4437 98
+"New Hampshire" "Meredith" -1.6 4407 98
+"New Hampshire" "Peterborough" 42 4400 98
+"New Hampshire" "Pembroke" 3 4325 98
+"New Hampshire" "Franklin" -11 4178 98
+"New Hampshire" "Hopkinton" 31 4163 98
+"New Hampshire" "Kingston" -14 4102 98
+"New Hampshire" "Berlin" 7 4065 98
+"New Hampshire" "Belmont" -19 4052 98
+"New Hampshire" "Sandown" -16 3975 98
+"New Hampshire" "New Boston" -5 3934 98
+"New Hampshire" "Auburn" -16 3930 98
+"New Hampshire" "Alton" -25 3903 98
+"New Hampshire" "Swanzey" 6 3830 98
+"New Hampshire" "Loudon" -18 3725 98
+"New Hampshire" "Moultonborough" -11 3664 98
+"New Hampshire" "Rindge" -19 3658 98
+"New Hampshire" "Brookline" 7 3628 98
+"New Hampshire" "Nottingham" 4 3496 98
+"New Hampshire" "North Hampton" 15 3484 98
+"New Hampshire" "Chester" -14 3469 98
+"New Hampshire" "Farmington" -18 3433 98
+"New Hampshire" "Plymouth" 32 3415 98
+"New Hampshire" "Hillsborough" -8 3276 98
+"New Hampshire" "Wakefield" -23 3270 98
+"New Hampshire" "Deerfield" -13 3221 98
+"New Hampshire" "New London" 32 3194 98
+"New Hampshire" "Newport" -15 3138 98
+"New Hampshire" "New Ipswich" -36 3123 98
+"New Hampshire" "Littleton" 1.6 3115 98
+"New Hampshire" "Jaffrey" 4 3018 98
+"New Hampshire" "Newton" -13 2994 98
+"New Hampshire" "Lee" 33 2976 98
+"New Hampshire" "Epsom" -18 2927 98
+"New Hampshire" "Barnstead" -19 2922 98
+"New Hampshire" "Greenland" 19 2919 98
+"New Hampshire" "Brentwood" 5 2914 98
+"New Hampshire" "Northwood" -5 2881 98
+"New Hampshire" "Fremont" -17 2839 98
+"New Hampshire" "Danville" -21 2816 98
+"New Hampshire" "Strafford" -3 2802 98
+"New Hampshire" "Candia" -24 2789 98
+"New Hampshire" "Enfield" 31 2765 98
+"New Hampshire" "Henniker" 18 2711 98
+"New Hampshire" "Northfield" -12 2619 98
+"New Hampshire" "Milton" -18 2539 98
+"New Hampshire" "Ossipee" -21 2519 98
+"New Hampshire" "Gilmanton" -16 2500 98
+"New Hampshire" "Charlestown" -2 2481 98
+"New Hampshire" "Wilton" 10 2473 98
+"New Hampshire" "Grantham" 38 2447 98
+"New Hampshire" "Sunapee" 9 2431 98
+"New Hampshire" "Chesterfield" 18 2392 98
+"New Hampshire" "Walpole" 27 2347 98
+"New Hampshire" "Allenstown" -8 2325 98
+"New Hampshire" "Bartlett" 28 2170 98
+"New Hampshire" "Haverhill" -12 2144 98
+"New Hampshire" "Campton" 7 2129 98
+"New Hampshire" "Pittsfield" -20 2095 98
+"New Hampshire" "Canaan" 13 2086 98
+"New Hampshire" "Sanbornton" -13 2045 98
+"New Hampshire" "Boscawen" -7 2040 98
+"New Hampshire" "Dunbarton" -12 2030 98
+"New Hampshire" "Tilton" -5 2025 98
+"New Hampshire" "Winchester" -0.1 2019 98
+"New Hampshire" "Warner" 11 1928 98
+"New Hampshire" "Hinsdale" 11 1915 98
+"New Hampshire" "Tuftonboro" -7 1900 98
+"New Hampshire" "Bristol" -8 1871 98
+"New Hampshire" "New Durham" -20 1868 98
+"New Hampshire" "Mont Vernon" 16 1778 98
+"New Hampshire" "Tamworth" 3 1768 98
+"New Hampshire" "Canterbury" 17 1754 98
+"New Hampshire" "Chichester" -9 1736 98
+"New Hampshire" "Rollinsford" 12 1736 98
+"New Hampshire" "Lancaster" -3 1735 98
+"New Hampshire" "Thornton" 13 1731 98
+"New Hampshire" "Hampton Falls" -1 1720 98
+"New Hampshire" "Madison" 10 1703 98
+"New Hampshire" "East Kingston" -6 1692 98
+"New Hampshire" "Gorham" 9 1686 98
+"New Hampshire" "Plainfield" 36 1685 98
+"New Hampshire" "Bethlehem" 24 1671 98
+"New Hampshire" "Newbury" 11 1667 98
+"New Hampshire" "Andover" 7 1595 98
+"New Hampshire" "Antrim" -1.1 1584 98
+"New Hampshire" "Kensington" 5 1557 98
+"New Hampshire" "New Hampton" -7 1539 98
+"New Hampshire" "Holderness" 22 1481 98
+"New Hampshire" "Fitzwilliam" -1.2 1367 98
+"New Hampshire" "Sutton" 13 1348 98
+"New Hampshire" "Whitefield" -3 1321 98
+"New Hampshire" "Madbury" 28 1312 98
+"New Hampshire" "Lyme" 66 1305 98
+"New Hampshire" "Hancock" 36 1298 98
+"New Hampshire" "Marlborough" 29 1273 98
+"New Hampshire" "Newfields" 16 1255 98
+"New Hampshire" "Webster" -10 1241 98
+"New Hampshire" "Ashland" 6 1218 98
+"New Hampshire" "Alstead" 17 1189 98
+"New Hampshire" "Deering" -18 1158 98
+"New Hampshire" "Francestown" 5 1152 98
+"New Hampshire" "Sandwich" 27 1143 98
+"New Hampshire" "Lyndeborough" 2 1138 98
+"New Hampshire" "Westmoreland" 18 1133 98
+"New Hampshire" "Troy" -7 1117 98
+"New Hampshire" "Dublin" 26 1109 98
+"New Hampshire" "Freedom" 0 1090 98
+"New Hampshire" "Alexandria" -16 1080 98
+"New Hampshire" "Colebrook" -20 1074 98
+"New Hampshire" "Bradford" 8 1073 98
+"New Hampshire" "Northumberland" -18 1056 98
+"New Hampshire" "Greenville" -3 1054 98
+"New Hampshire" "Middleton" -25 1042 98
+"New Hampshire" "Greenfield" 6 1010 98
+"New Hampshire" "Temple" 9 961 98
+"New Hampshire" "Rumney" -12 956 98
+"New Hampshire" "Wilmot" 23 956 98
+"New Hampshire" "Mason" -16 949 98
+"New Hampshire" "Effingham" -15 926 98
+"New Hampshire" "Salisbury" -15 925 98
+"New Hampshire" "Lincoln" 13 923 98
+"New Hampshire" "Unity" -22 892 98
+"New Hampshire" "Springfield" 0.11 889 98
+"New Hampshire" "Woodstock" 14 858 98
+"New Hampshire" "Bridgewater" -13 857 98
+"New Hampshire" "Bennington" -3 837 98
+"New Hampshire" "Orford" 33 823 98
+"New Hampshire" "Franconia" 37 801 98
+"New Hampshire" "Lisbon" -10 797 98
+"New Hampshire" "Washington" -19 797 98
+"New Hampshire" "Milan" -12 794 98
+"New Hampshire" "Center Harbor" -4 792 98
+"New Hampshire" "Jackson" 45 786 98
+"New Hampshire" "Grafton" -10 784 98
+"New Hampshire" "Harrisville" 46 760 98
+"New Hampshire" "Lempster" -23 726 98
+"New Hampshire" "Danbury" -17 725 98
+"New Hampshire" "Richmond" -17 719 98
+"New Hampshire" "Jefferson" -21 662 98
+"New Hampshire" "South Hampton" -3 652 98
+"New Hampshire" "Newington" -3 639 98
+"New Hampshire" "Hill" -28 635 98
+"New Hampshire" "Bath" -15 623 98
+"New Hampshire" "Wentworth" -7 620 98
+"New Hampshire" "Acworth" 4 569 98
+"New Hampshire" "Surry" 10 563 98
+"New Hampshire" "Brookfield" -18 545 98
+"New Hampshire" "Pittsburg" -41 545 98
+"New Hampshire" "Monroe" -15 544 98
+"New Hampshire" "Carroll" -0.19 538 98
+"New Hampshire" "Dalton" -12 528 98
+"New Hampshire" "Hebron" -5 523 98
+"New Hampshire" "Gilsum" -4 516 98
+"New Hampshire" "Croydon" -29 513 98
+"New Hampshire" "Marlow" 14 496 98
+"New Hampshire" "Sugar Hill" 34 485 98
+"New Hampshire" "Goshen" -20 481 98
+"New Hampshire" "Warren" -18 478 98
+"New Hampshire" "Nelson" 25 451 98
+"New Hampshire" "Albany" 13 449 98
+"New Hampshire" "Piermont" 11 440 98
+"New Hampshire" "Stewartstown" -42 413 98
+"New Hampshire" "Langdon" 1.7 412 98
+"New Hampshire" "Sullivan" 7 412 98
+"New Hampshire" "Lyman" -9 385 98
+"New Hampshire" "Groton" -24 380 98
+"New Hampshire" "Waterville" 30 374 98
+"New Hampshire" "Eaton" 23 309 98
+"New Hampshire" "Stratford" 6 300 98
+"New Hampshire" "Stark" -28 295 98
+"New Hampshire" "Landaff" -10 285 98
+"New Hampshire" "Randolph" 37 277 98
+"New Hampshire" "Sharon" 14 273 98
+"New Hampshire" "Shelburne" 4 254 98
+"New Hampshire" "Chatham" -10 244 98
+"New Hampshire" "Benton" -23 235 98
+"New Hampshire" "Easton" 44 234 98
+"New Hampshire" "Dorchester" -8 233 98
+"New Hampshire" "Errol" -33 223 98
+"New Hampshire" "Orange" -15 196 98
+"New Hampshire" "Dummer" -25 184 98
+"New Hampshire" "Clarksville" -20 183 98
+"New Hampshire" "Roxbury" 28 144 98
+"New Hampshire" "Windsor" -45 129 98
+"New Hampshire" "Ellsworth" 17 78 98
+"New Hampshire" "Harts Location" 7 43 98
+"New Hampshire" "Dixville" 100 5 98
+"New Jersey" "Essex" 55 345311 97
+"New Jersey" "Mercer" 40 177223 98
+"New Jersey" "Cumberland" 6 62575 98
+"New Jersey" "Bergen" 16 497460 98
+"New Jersey" "Monmouth" -3 378390 98
+"New Jersey" "Middlesex" 22 375692 98
+"New Jersey" "Ocean" -29 342746 98
+"New Jersey" "Morris" 4 300917 98
+"New Jersey" "Camden" 33 265599 98
+"New Jersey" "Burlington" 20 262650 98
+"New Jersey" "Union" 36 254041 98
+"New Jersey" "Hudson" 46 250458 98
+"New Jersey" "Passaic" 17 224330 98
+"New Jersey" "Somerset" 21 186889 98
+"New Jersey" "Gloucester" 1.9 173453 98
+"New Jersey" "Atlantic" 7 140441 98
+"New Jersey" "Sussex" -19 88148 98
+"New Jersey" "Hunterdon" -4 84673 98
+"New Jersey" "Warren" -16 61057 98
+"New Jersey" "Cape May" -16 57933 98
+"New Jersey" "Salem" -13 34042 98
+"New Mexico" "Bernalillo" 24 317590 98
+"New Mexico" "Dona Ana" 18 82641 98
+"New Mexico" "Santa Fe" 54 82227 98
+"New Mexico" "Sandoval" 8 76562 98
+"New Mexico" "San Juan" -28 52294 98
+"New Mexico" "Valencia" -10 32277 98
+"New Mexico" "McKinley" 39 26486 98
+"New Mexico" "Otero" -26 23571 98
+"New Mexico" "Eddy" -52 23222 98
+"New Mexico" "Chaves" -41 22443 98
+"New Mexico" "Lea" -60 20918 98
+"New Mexico" "Taos" 55 17181 98
+"New Mexico" "Rio Arriba" 34 16628 98
+"New Mexico" "Curry" -41 15101 98
+"New Mexico" "Grant" 7 14435 98
+"New Mexico" "Los Alamos" 27 12293 98
+"New Mexico" "San Miguel" 39 11531 98
+"New Mexico" "Lincoln" -36 10306 98
+"New Mexico" "Cibola" 9 8903 98
+"New Mexico" "Luna" -10 8103 98
+"New Mexico" "Torrance" -33 7281 98
+"New Mexico" "Socorro" 7 7160 98
+"New Mexico" "Roosevelt" -43 6608 98
+"New Mexico" "Colfax" -11 6016 98
+"New Mexico" "Sierra" -21 5945 98
+"New Mexico" "Quay" -38 3873 98
+"New Mexico" "Mora" 31 2686 98
+"New Mexico" "Catron" -47 2326 98
+"New Mexico" "Guadalupe" 14 2189 98
+"New Mexico" "Hidalgo" -15 1974 98
+"New Mexico" "Union" -56 1789 98
+"New Mexico" "DeBaca" -47 901 98
+"New Mexico" "Harding" -28 505 98
+"New York" "Westchester" 27 350749 56
+"New York" "Suffolk" -12 601261 79
+"New York" "Sullivan" -17 26931 80
+"New York" "Ulster" 12 77667 81
+"New York" "Orange" -10 139956 82
+"New York" "Ontario" -10 47830 82
+"New York" "Steuben" -40 38797 82
+"New York" "Queens" 45 787860 83
+"New York" "Oneida" -25 84273 83
+"New York" "Wayne" -29 37425 84
+"New York" "Herkimer" -39 24766 84
+"New York" "Montgomery" -33 17615 88
+"New York" "Manhattan" 75 694904 93
+"New York" "Livingston" -18 31401 93
+"New York" "Bronx" 68 425715 95
+"New York" "Onondaga" 18 221325 95
+"New York" "Yates" -19 10741 95
+"New York" "Broome" 3 92853 96
+"New York" "Tompkins" 49 45735 96
+"New York" "Cortland" -1.9 21675 96
+"New York" "Hamilton" -30 3460 96
+"New York" "Chemung" -13 39410 97
+"New York" "Monroe" 21 380983 98
+"New York" "Albany" 31 154101 98
+"New York" "Chautauqua" -20 59304 98
+"New York" "Cayuga" -9 36451 98
+"New York" "Otsego" -5 28075 98
+"New York" "Brooklyn" 55 913246 98
+"New York" "Nassau" 10 732756 98
+"New York" "Erie" 15 473021 98
+"New York" "Staten Island" -15 216153 98
+"New York" "Dutchess" 10 151122 98
+"New York" "Rockland" 1.7 150685 98
+"New York" "Saratoga" 5 132655 98
+"New York" "Niagara" -10 104080 98
+"New York" "Rensselaer" 6 79409 98
+"New York" "Schenectady" 16 74826 98
+"New York" "Putnam" -8 55110 98
+"New York" "Oswego" -20 53787 98
+"New York" "Saint Lawrence" -12 44907 98
+"New York" "Jefferson" -19 43848 98
+"New York" "Warren" -0.16 36131 98
+"New York" "Clinton" 5 35437 98
+"New York" "Columbia" 16 35363 98
+"New York" "Cattaraugus" -29 34845 98
+"New York" "Madison" -11 34038 98
+"New York" "Genesee" -32 29204 98
+"New York" "Washington" -16 28138 98
+"New York" "Greene" -16 25194 98
+"New York" "Tioga" -21 25044 98
+"New York" "Fulton" -31 23744 98
+"New York" "Delaware" -18 23025 98
+"New York" "Chenango" -23 22269 98
+"New York" "Allegany" -39 20782 98
+"New York" "Wyoming" -45 19431 98
+"New York" "Franklin" -2 19268 98
+"New York" "Essex" 5 19259 98
+"New York" "Orleans" -36 18154 98
+"New York" "Schoharie" -29 15710 98
+"New York" "Seneca" -9 15630 98
+"New York" "Lewis" -39 12964 98
+"New York" "Schuyler" -18 9766 98
+"North Carolina" "Hoke" 11 21639 98
+"North Carolina" "Wake" 26 631830 98
+"North Carolina" "Mecklenburg" 35 567053 98
+"North Carolina" "Guilford" 23 284486 98
+"North Carolina" "Forsyth" 14 201270 98
+"North Carolina" "Durham" 62 179914 98
+"North Carolina" "Buncombe" 21 161569 98
+"North Carolina" "Cumberland" 17 147150 98
+"North Carolina" "New Hanover" 2 131830 98
+"North Carolina" "Union" -24 131011 98
+"North Carolina" "Cabarrus" -9 117227 98
+"North Carolina" "Gaston" -28 115498 98
+"North Carolina" "Johnston" -24 111357 98
+"North Carolina" "Iredell" -32 102371 98
+"North Carolina" "Brunswick" -25 90175 98
+"North Carolina" "Davidson" -47 88514 98
+"North Carolina" "Pitt" 9 87573 98
+"North Carolina" "Alamance" -8 86091 98
+"North Carolina" "Orange" 51 84997 98
+"North Carolina" "Catawba" -37 83425 98
+"North Carolina" "Rowan" -36 73408 98
+"North Carolina" "Randolph" -56 73316 98
+"North Carolina" "Onslow" -30 72235 98
+"North Carolina" "Henderson" -19 68371 98
+"North Carolina" "Moore" -27 58339 98
+"North Carolina" "Harnett" -22 58293 98
+"North Carolina" "Wayne" -12 55537 98
+"North Carolina" "Craven" -19 53065 98
+"North Carolina" "Nash" 0.23 52271 98
+"North Carolina" "Cleveland" -33 51308 98
+"North Carolina" "Lincoln" -46 50217 98
+"North Carolina" "Chatham" 12 48599 98
+"North Carolina" "Rockingham" -32 47809 98
+"North Carolina" "Robeson" -19 47188 98
+"North Carolina" "Burke" -40 44602 98
+"North Carolina" "Caldwell" -51 42829 98
+"North Carolina" "Carteret" -42 42695 98
+"North Carolina" "Wilson" 3 40735 98
+"North Carolina" "Franklin" -13 37351 98
+"North Carolina" "Surry" -51 36638 98
+"North Carolina" "Haywood" -27 36542 98
+"North Carolina" "Wilkes" -57 35466 98
+"North Carolina" "Rutherford" -46 34429 98
+"North Carolina" "Pender" -30 34169 98
+"North Carolina" "Stanly" -51 33939 98
+"North Carolina" "Watauga" 8 32220 98
+"North Carolina" "Granville" -7 31598 98
+"North Carolina" "Lee" -15 29008 98
+"North Carolina" "Sampson" -23 28618 98
+"North Carolina" "Lenoir" -3 28409 98
+"North Carolina" "Columbus" -28 26446 98
+"North Carolina" "Beaufort" -26 26315 98
+"North Carolina" "Halifax" 21 25759 98
+"North Carolina" "Stokes" -58 25701 98
+"North Carolina" "Edgecombe" 27 25477 98
+"North Carolina" "Davie" -45 25311 98
+"North Carolina" "Dare" -17 24232 98
+"North Carolina" "McDowell" -48 23003 98
+"North Carolina" "Duplin" -22 22715 98
+"North Carolina" "Person" -22 21894 98
+"North Carolina" "Jackson" -8 21428 98
+"North Carolina" "Vance" 19 20999 98
+"North Carolina" "Richmond" -15 20763 98
+"North Carolina" "Macon" -38 20743 98
+"North Carolina" "Transylvania" -16 20404 98
+"North Carolina" "Alexander" -58 20236 98
+"North Carolina" "Yadkin" -61 19923 98
+"North Carolina" "Pasquotank" 0.31 19897 98
+"North Carolina" "Bladen" -14 17125 98
+"North Carolina" "Cherokee" -55 16423 98
+"North Carolina" "Currituck" -46 16147 98
+"North Carolina" "Ashe" -46 15814 98
+"North Carolina" "Scotland" -1.9 14775 98
+"North Carolina" "Madison" -24 13076 98
+"North Carolina" "Montgomery" -32 12849 98
+"North Carolina" "Martin" -5 12540 98
+"North Carolina" "Polk" -26 12358 98
+"North Carolina" "Caswell" -18 12051 98
+"North Carolina" "Yancey" -34 11352 98
+"North Carolina" "Anson" 4 11194 98
+"North Carolina" "Hertford" 34 10634 98
+"North Carolina" "Warren" 26 10293 98
+"North Carolina" "Northampton" 21 10109 98
+"North Carolina" "Bertie" 22 9815 98
+"North Carolina" "Avery" -53 9458 98
+"North Carolina" "Mitchell" -58 9041 98
+"North Carolina" "Greene" -12 8753 98
+"North Carolina" "Chowan" -16 7784 98
+"North Carolina" "Pamlico" -28 7631 98
+"North Carolina" "Perquimans" -32 7484 98
+"North Carolina" "Swain" -20 7068 98
+"North Carolina" "Clay" -50 6893 98
+"North Carolina" "Washington" 10 6205 98
+"North Carolina" "Alleghany" -50 6076 98
+"North Carolina" "Gates" -14 5971 98
+"North Carolina" "Camden" -47 5953 98
+"North Carolina" "Jones" -20 5525 98
+"North Carolina" "Graham" -60 4665 98
+"North Carolina" "Hyde" -15 2492 98
+"North Carolina" "Tyrrell" -16 1817 98
+"North Dakota" "Cass" -3 86053 98
+"North Dakota" "Burleigh" -40 50753 98
+"North Dakota" "Grand Forks" -13 30970 98
+"North Dakota" "Ward" -45 28246 98
+"North Dakota" "Morton" -50 16619 98
+"North Dakota" "Stark" -64 15050 98
+"North Dakota" "Williams" -67 14334 98
+"North Dakota" "Stutsman" -43 9959 98
+"North Dakota" "Richland" -33 7812 98
+"North Dakota" "Barnes" -31 5565 98
+"North Dakota" "McLean" -54 5536 98
+"North Dakota" "McKenzie" -68 5419 98
+"North Dakota" "Ramsey" -36 5372 98
+"North Dakota" "Walsh" -42 4783 98
+"North Dakota" "Mercer" -67 4675 98
+"North Dakota" "Mountrail" -38 4165 98
+"North Dakota" "Traill" -25 4136 98
+"North Dakota" "Rolette" 32 3804 98
+"North Dakota" "Bottineau" -51 3471 98
+"North Dakota" "Pembina" -50 3331 98
+"North Dakota" "McHenry" -60 3003 98
+"North Dakota" "Ransom" -19 2454 98
+"North Dakota" "Dickey" -47 2424 98
+"North Dakota" "Wells" -61 2374 98
+"North Dakota" "Dunn" -69 2338 98
+"North Dakota" "LaMoure" -50 2219 98
+"North Dakota" "Pierce" -51 2128 98
+"North Dakota" "Sargent" -26 2070 98
+"North Dakota" "Cavalier" -51 2020 98
+"North Dakota" "Emmons" -75 2009 98
+"North Dakota" "Benson" -14 1961 98
+"North Dakota" "Foster" -56 1778 98
+"North Dakota" "Nelson" -31 1777 98
+"North Dakota" "Bowman" -70 1657 98
+"North Dakota" "Kidder" -68 1460 98
+"North Dakota" "McIntosh" -61 1455 98
+"North Dakota" "Grant" -68 1381 98
+"North Dakota" "Renville" -64 1319 98
+"North Dakota" "Hettinger" -68 1312 98
+"North Dakota" "Adams" -57 1269 98
+"North Dakota" "Eddy" -37 1261 98
+"North Dakota" "Griggs" -48 1250 98
+"North Dakota" "Divide" -53 1202 98
+"North Dakota" "Sioux" 46 1186 98
+"North Dakota" "Towner" -44 1174 98
+"North Dakota" "Burke" -74 1155 98
+"North Dakota" "Steele" -24 1088 98
+"North Dakota" "Logan" -75 1076 98
+"North Dakota" "Oliver" -74 1066 98
+"North Dakota" "Golden Valley" -72 1026 98
+"North Dakota" "Sheridan" -72 812 98
+"North Dakota" "Billings" -74 635 98
+"North Dakota" "Slope" -79 427 98
+"Ohio" "Franklin" 31 630577 98
+"Ohio" "Cuyahoga" 34 625670 98
+"Ohio" "Hamilton" 16 430929 98
+"Ohio" "Summit" 10 280473 98
+"Ohio" "Montgomery" 2 268505 98
+"Ohio" "Lucas" 17 200623 98
+"Ohio" "Stark" -19 189879 98
+"Ohio" "Butler" -24 186737 98
+"Ohio" "Lorain" -2 157437 98
+"Ohio" "Warren" -31 136100 98
+"Ohio" "Lake" -14 130509 98
+"Ohio" "Delaware" -7 126070 98
+"Ohio" "Mahoning" -1.9 118966 98
+"Ohio" "Clermont" -37 110480 98
+"Ohio" "Medina" -23 105825 98
+"Ohio" "Trumbull" -11 101001 98
+"Ohio" "Licking" -28 94210 98
+"Ohio" "Greene" -19 88643 98
+"Ohio" "Fairfield" -23 83311 98
+"Ohio" "Portage" -12 82872 98
+"Ohio" "Wood" -8 67597 98
+"Ohio" "Clark" -23 64212 98
+"Ohio" "Richland" -40 59975 98
+"Ohio" "Miami" -44 57972 98
+"Ohio" "Geauga" -23 56021 98
+"Ohio" "Wayne" -37 54283 98
+"Ohio" "Columbiana" -45 49860 98
+"Ohio" "Allen" -40 48006 98
+"Ohio" "Ashtabula" -24 44147 98
+"Ohio" "Tuscarawas" -40 44015 98
+"Ohio" "Muskingum" -39 40465 98
+"Ohio" "Erie" -12 40335 98
+"Ohio" "Hancock" -38 38771 98
+"Ohio" "Union" -31 33445 98
+"Ohio" "Jefferson" -38 33362 98
+"Ohio" "Ross" -35 33299 98
+"Ohio" "Belmont" -44 33088 98
+"Ohio" "Scioto" -42 32047 98
+"Ohio" "Washington" -41 32031 98
+"Ohio" "Knox" -44 31398 98
+"Ohio" "Sandusky" -28 30074 98
+"Ohio" "Pickaway" -47 28271 98
+"Ohio" "Lawrence" -46 28127 98
+"Ohio" "Marion" -39 27818 98
+"Ohio" "Huron" -41 27190 98
+"Ohio" "Darke" -64 27134 98
+"Ohio" "Ashland" -49 26405 98
+"Ohio" "Athens" 15 26059 98
+"Ohio" "Seneca" -34 25810 98
+"Ohio" "Auglaize" -63 25777 98
+"Ohio" "Shelby" -63 25258 98
+"Ohio" "Ottawa" -23 24007 98
+"Ohio" "Mercer" -65 23761 98
+"Ohio" "Logan" -55 23368 98
+"Ohio" "Fulton" -40 22770 98
+"Ohio" "Preble" -57 21809 98
+"Ohio" "Brown" -57 21096 98
+"Ohio" "Crawford" -51 20686 98
+"Ohio" "Clinton" -53 20527 98
+"Ohio" "Champaign" -48 19972 98
+"Ohio" "Putnam" -66 19921 98
+"Ohio" "Madison" -41 19855 98
+"Ohio" "Highland" -60 19676 98
+"Ohio" "Defiance" -36 19381 98
+"Ohio" "Williams" -46 18651 98
+"Ohio" "Morrow" -54 18457 98
+"Ohio" "Guernsey" -48 18230 98
+"Ohio" "Coshocton" -49 16739 98
+"Ohio" "Perry" -50 16675 98
+"Ohio" "Van Wert" -57 14965 98
+"Ohio" "Jackson" -54 14794 98
+"Ohio" "Henry" -43 14764 98
+"Ohio" "Carroll" -53 14212 98
+"Ohio" "Hocking" -42 13824 98
+"Ohio" "Gallia" -55 13799 98
+"Ohio" "Hardin" -52 13247 98
+"Ohio" "Holmes" -68 12947 98
+"Ohio" "Fayette" -52 12612 98
+"Ohio" "Pike" -49 12412 98
+"Ohio" "Adams" -64 12145 98
+"Ohio" "Wyandot" -50 11390 98
+"Ohio" "Meigs" -53 10951 98
+"Ohio" "Paulding" -51 9467 98
+"Ohio" "Harrison" -53 7655 98
+"Ohio" "Monroe" -54 7148 98
+"Ohio" "Morgan" -48 6847 98
+"Ohio" "Noble" -63 6343 98
+"Ohio" "Vinton" -55 6030 98
+"Oklahoma" "Oklahoma" -1.1 294740 98
+"Oklahoma" "Tulsa" -16 266678 98
+"Oklahoma" "Cleveland" -14 119778 98
+"Oklahoma" "Canadian" -43 61940 98
+"Oklahoma" "Rogers" -55 44553 98
+"Oklahoma" "Comanche" -20 35631 98
+"Oklahoma" "Wagoner" -50 35338 98
+"Oklahoma" "Creek" -55 30505 98
+"Oklahoma" "Payne" -23 29643 98
+"Oklahoma" "Pottawatomie" -46 28185 98
+"Oklahoma" "Muskogee" -34 25081 98
+"Oklahoma" "Washington" -48 23501 98
+"Oklahoma" "Grady" -62 23101 98
+"Oklahoma" "Garfield" -54 22430 98
+"Oklahoma" "Logan" -47 21574 98
+"Oklahoma" "Osage" -40 20538 98
+"Oklahoma" "Carter" -53 19479 98
+"Oklahoma" "McClain" -61 19236 98
+"Oklahoma" "Stephens" -65 19057 98
+"Oklahoma" "LeFlore" -63 18805 98
+"Oklahoma" "Pittsburg" -56 17924 98
+"Oklahoma" "Cherokee" -29 17714 98
+"Oklahoma" "Kay" -51 17249 98
+"Oklahoma" "Delaware" -58 17245 98
+"Oklahoma" "Mayes" -55 16626 98
+"Oklahoma" "Bryan" -56 15976 98
+"Oklahoma" "Sequoyah" -59 15386 98
+"Oklahoma" "Pontotoc" -44 15320 98
+"Oklahoma" "Lincoln" -63 14888 98
+"Oklahoma" "Okmulgee" -37 14313 98
+"Oklahoma" "McCurtain" -67 11467 98
+"Oklahoma" "Ottawa" -51 11438 98
+"Oklahoma" "Garvin" -64 10922 98
+"Oklahoma" "Custer" -53 10691 98
+"Oklahoma" "Caddo" -44 9859 98
+"Oklahoma" "Seminole" -46 8337 98
+"Oklahoma" "McIntosh" -50 8335 98
+"Oklahoma" "Jackson" -58 8221 98
+"Oklahoma" "Beckham" -72 7948 98
+"Oklahoma" "Woodward" -72 7785 98
+"Oklahoma" "Adair" -59 7108 98
+"Oklahoma" "Pawnee" -58 6786 98
+"Oklahoma" "Kingfisher" -72 6465 98
+"Oklahoma" "Marshall" -63 6064 98
+"Oklahoma" "Craig" -58 6032 98
+"Oklahoma" "Murray" -59 5894 98
+"Oklahoma" "Choctaw" -62 5832 98
+"Oklahoma" "Texas" -65 5521 98
+"Oklahoma" "Atoka" -70 5389 98
+"Oklahoma" "Haskell" -67 5014 98
+"Oklahoma" "Noble" -57 4938 98
+"Oklahoma" "Hughes" -61 4857 98
+"Oklahoma" "Washita" -73 4777 98
+"Oklahoma" "Pushmataha" -71 4739 98
+"Oklahoma" "Nowata" -66 4391 98
+"Oklahoma" "Johnston" -64 4251 98
+"Oklahoma" "Latimer" -63 4249 98
+"Oklahoma" "Love" -64 4076 98
+"Oklahoma" "Okfuskee" -54 4038 98
+"Oklahoma" "Blaine" -63 3901 98
+"Oklahoma" "Woods" -65 3678 98
+"Oklahoma" "Major" -80 3467 98
+"Oklahoma" "Kiowa" -58 3427 98
+"Oklahoma" "Tillman" -55 2708 98
+"Oklahoma" "Cotton" -67 2572 98
+"Oklahoma" "Coal" -68 2524 98
+"Oklahoma" "Jefferson" -72 2385 98
+"Oklahoma" "Dewey" -81 2359 98
+"Oklahoma" "Alfalfa" -77 2262 98
+"Oklahoma" "Grant" -73 2226 98
+"Oklahoma" "Beaver" -82 2178 98
+"Oklahoma" "Greer" -65 1973 98
+"Oklahoma" "Ellis" -81 1873 98
+"Oklahoma" "Roger Mills" -80 1834 98
+"Oklahoma" "Harper" -80 1487 98
+"Oklahoma" "Cimarron" -85 1054 98
+"Oklahoma" "Harmon" -61 933 98
+"Oregon" "Multnomah" 61 463659 98
+"Oregon" "Washington" 35 320194 98
+"Oregon" "Clackamas" 11 255728 98
+"Oregon" "Lane" 24 222253 98
+"Oregon" "Marion" 1.1 165534 98
+"Oregon" "Jackson" -3 126421 98
+"Oregon" "Deschutes" 8 125234 98
+"Oregon" "Linn" -23 72640 98
+"Oregon" "Douglas" -38 64349 98
+"Oregon" "Yamhill" -4 58923 98
+"Oregon" "Benton" 40 52799 98
+"Oregon" "Josephine" -26 51641 98
+"Oregon" "Polk" -1.7 48291 98
+"Oregon" "Coos" -20 37075 98
+"Oregon" "Klamath" -41 36556 98
+"Oregon" "Umatilla" -32 33038 98
+"Oregon" "Columbia" -10 32221 98
+"Oregon" "Lincoln" 16 30726 98
+"Oregon" "Clatsop" 11 23764 98
+"Oregon" "Tillamook" -1.7 16888 98
+"Oregon" "Crook" -48 15448 98
+"Oregon" "Union" -40 14944 98
+"Oregon" "Curry" -16 14925 98
+"Oregon" "Wasco" -3 14130 98
+"Oregon" "Hood River" 37 13090 98
+"Oregon" "Jefferson" -23 11913 98
+"Oregon" "Malheur" -42 11804 98
+"Oregon" "Baker" -50 9932 98
+"Oregon" "Wallowa" -35 5149 98
+"Oregon" "Morrow" -43 5118 98
+"Oregon" "Grant" -57 4596 98
+"Oregon" "Harney" -58 4481 98
+"Oregon" "Lake" -61 4364 98
+"Oregon" "Sherman" -55 1208 98
+"Oregon" "Gilliam" -43 1178 98
+"Oregon" "Wheeler" -51 965 98
+"Pennsylvania" "Washington" -23 118478 98
+"Pennsylvania" "Philadelphia" 64 741377 98
+"Pennsylvania" "Allegheny" 20 724800 98
+"Pennsylvania" "Montgomery" 26 510157 98
+"Pennsylvania" "Bucks" 4 396234 98
+"Pennsylvania" "Delaware" 27 327931 98
+"Pennsylvania" "Chester" 17 315753 98
+"Pennsylvania" "Lancaster" -16 281375 98
+"Pennsylvania" "York" -25 238471 98
+"Pennsylvania" "Berks" -8 205540 98
+"Pennsylvania" "Westmoreland" -28 205330 98
+"Pennsylvania" "Lehigh" 8 184713 98
+"Pennsylvania" "Northampton" 0.72 171399 98
+"Pennsylvania" "Luzerne" -14 153321 98
+"Pennsylvania" "Dauphin" 9 147368 98
+"Pennsylvania" "Cumberland" -11 141595 98
+"Pennsylvania" "Erie" 1 137083 98
+"Pennsylvania" "Lackawanna" 8 115410 98
+"Pennsylvania" "Butler" -33 113305 98
+"Pennsylvania" "Beaver" -18 94122 98
+"Pennsylvania" "Monroe" 6 83831 98
+"Pennsylvania" "Franklin" -43 80783 98
+"Pennsylvania" "Centre" 5 77493 98
+"Pennsylvania" "Lebanon" -32 71858 98
+"Pennsylvania" "Schuylkill" -40 70603 98
+"Pennsylvania" "Cambria" -37 70574 98
+"Pennsylvania" "Blair" -44 63595 98
+"Pennsylvania" "Fayette" -33 62167 98
+"Pennsylvania" "Lycoming" -41 59254 98
+"Pennsylvania" "Mercer" -26 57954 98
+"Pennsylvania" "Adams" -34 56540 98
+"Pennsylvania" "Lawrence" -30 46076 98
+"Pennsylvania" "Northumberland" -38 42283 98
+"Pennsylvania" "Crawford" -37 42004 98
+"Pennsylvania" "Indiana" -38 41198 98
+"Pennsylvania" "Somerset" -56 40543 98
+"Pennsylvania" "Clearfield" -49 39496 98
+"Pennsylvania" "Armstrong" -52 36370 98
+"Pennsylvania" "Carbon" -32 33629 98
+"Pennsylvania" "Pike" -19 32554 98
+"Pennsylvania" "Columbia" -31 31171 98
+"Pennsylvania" "Bradford" -45 30159 98
+"Pennsylvania" "Wayne" -34 28089 98
+"Pennsylvania" "Bedford" -68 27574 98
+"Pennsylvania" "Venango" -41 26528 98
+"Pennsylvania" "Perry" -50 24652 98
+"Pennsylvania" "Jefferson" -59 22824 98
+"Pennsylvania" "Huntingdon" -51 22792 98
+"Pennsylvania" "Susquehanna" -41 21752 98
+"Pennsylvania" "Mifflin" -56 21502 98
+"Pennsylvania" "Tioga" -51 21075 98
+"Pennsylvania" "Warren" -40 20650 98
+"Pennsylvania" "Union" -24 20115 98
+"Pennsylvania" "Clarion" -51 19493 98
+"Pennsylvania" "McKean" -46 19466 98
+"Pennsylvania" "Snyder" -47 19140 98
+"Pennsylvania" "Greene" -43 17669 98
+"Pennsylvania" "Clinton" -36 17625 98
+"Pennsylvania" "Elk" -45 16906 98
+"Pennsylvania" "Wyoming" -35 14858 98
+"Pennsylvania" "Juniata" -61 12043 98
+"Pennsylvania" "Montour" -21 9817 98
+"Pennsylvania" "Potter" -61 9064 98
+"Pennsylvania" "Fulton" -72 7977 98
+"Pennsylvania" "Sullivan" -47 3595 98
+"Pennsylvania" "Forest" -44 2646 98
+"Pennsylvania" "Cameron" -47 2434 98
+"Rhode Island" "New Shoreham" 58 948 87
+"Rhode Island" "Central Falls" 46 4256 90
+"Rhode Island" "Providence" 63 56853 91
+"Rhode Island" "Pawtucket" 42 25667 97
+"Rhode Island" "North Providence" 14 16785 97
+"Rhode Island" "Woonsocket" 7 13791 97
+"Rhode Island" "Bristol" 19 11597 97
+"Rhode Island" "Johnston" -9 15205 98
+"Rhode Island" "Barrington" 45 10754 98
+"Rhode Island" "Newport" 49 10651 98
+"Rhode Island" "Tiverton" 12 9260 98
+"Rhode Island" "Warwick" 14 46170 98
+"Rhode Island" "Cranston" 14 40851 98
+"Rhode Island" "East Providence" 30 23021 98
+"Rhode Island" "Coventry" -7 19915 98
+"Rhode Island" "Cumberland" 13 19576 98
+"Rhode Island" "North Kingstown" 22 17453 98
+"Rhode Island" "South Kingstown" 38 16567 98
+"Rhode Island" "West Warwick" 5 13928 98
+"Rhode Island" "Westerly" 13 12790 98
+"Rhode Island" "Lincoln" 7 12600 98
+"Rhode Island" "Smithfield" -1.6 11472 98
+"Rhode Island" "Portsmouth" 24 10844 98
+"Rhode Island" "Narragansett" 20 8968 98
+"Rhode Island" "East Greenwich" 23 8574 98
+"Rhode Island" "Middletown" 31 8564 98
+"Rhode Island" "Burrillville" -17 8501 98
+"Rhode Island" "North Smithfield" -0.6 7172 98
+"Rhode Island" "Scituate" -16 6645 98
+"Rhode Island" "Glocester" -12 6075 98
+"Rhode Island" "Warren" 21 5888 98
+"Rhode Island" "Charlestown" 14 5193 98
+"Rhode Island" "Hopkinton" -3 4822 98
+"Rhode Island" "Richmond" 0.06 4787 98
+"Rhode Island" "Jamestown" 39 4065 98
+"Rhode Island" "Exeter" -0.86 4059 98
+"Rhode Island" "West Greenwich" -14 3987 98
+"Rhode Island" "Foster" -13 2856 98
+"Rhode Island" "Little Compton" 23 2517 98
+"South Carolina" "Greenville" -18 258155 98
+"South Carolina" "Charleston" 13 218857 98
+"South Carolina" "Richland" 38 193822 98
+"South Carolina" "Horry" -33 179744 98
+"South Carolina" "Spartanburg" -27 148655 98
+"South Carolina" "Lexington" -30 144568 98
+"South Carolina" "York" -16 144050 98
+"South Carolina" "Berkeley" -12 104458 98
+"South Carolina" "Beaufort" -10 97835 98
+"South Carolina" "Anderson" -42 96093 98
+"South Carolina" "Aiken" -23 85185 98
+"South Carolina" "Dorchester" -10 77278 98
+"South Carolina" "Florence" -2 64510 98
+"South Carolina" "Pickens" -51 57546 98
+"South Carolina" "Lancaster" -23 49868 98
+"South Carolina" "Sumter" 13 48920 98
+"South Carolina" "Orangeburg" 33 41205 98
+"South Carolina" "Oconee" -47 40668 98
+"South Carolina" "Georgetown" -13 36668 98
+"South Carolina" "Kershaw" -23 33629 98
+"South Carolina" "Darlington" -5 32417 98
+"South Carolina" "Greenwood" -23 32006 98
+"South Carolina" "Laurens" -32 30488 98
+"South Carolina" "Cherokee" -44 25270 98
+"South Carolina" "Colleton" -10 19283 98
+"South Carolina" "Chesterfield" -20 18876 98
+"South Carolina" "Newberry" -24 18631 98
+"South Carolina" "Clarendon" -0.66 16733 98
+"South Carolina" "Williamsburg" 30 15985 98
+"South Carolina" "Chester" -11 15757 98
+"South Carolina" "Marion" 21 14704 98
+"South Carolina" "Jasper" 0.74 14394 98
+"South Carolina" "Edgefield" -24 13304 98
+"South Carolina" "Union" -25 13257 98
+"South Carolina" "Dillon" -1.1 13101 98
+"South Carolina" "Abbeville" -33 12433 98
+"South Carolina" "Fairfield" 23 12136 98
+"South Carolina" "Marlboro" 11 11446 98
+"South Carolina" "Barnwell" -7 10321 98
+"South Carolina" "Hampton" 15 9305 98
+"South Carolina" "Saluda" -35 9274 98
+"South Carolina" "Lee" 28 8431 98
+"South Carolina" "Calhoun" -5 8291 98
+"South Carolina" "Bamberg" 25 6482 98
+"South Carolina" "McCormick" -5 5697 98
+"South Carolina" "Allendale" 52 3593 98
+"South Dakota" "Minnehaha" -9 92326 98
+"South Dakota" "Pennington" -25 57518 98
+"South Dakota" "Lincoln" -24 32396 98
+"South Dakota" "Brown" -23 17547 98
+"South Dakota" "Brookings" -13 14567 98
+"South Dakota" "Lawrence" -30 13828 98
+"South Dakota" "Meade" -48 13670 98
+"South Dakota" "Codington" -39 13161 98
+"South Dakota" "Yankton" -24 10900 98
+"South Dakota" "Union" -36 8855 98
+"South Dakota" "Hughes" -29 8723 98
+"South Dakota" "Davison" -35 8454 98
+"South Dakota" "Beadle" -38 7081 98
+"South Dakota" "Lake" -27 5873 98
+"South Dakota" "Clay" 11 5698 98
+"South Dakota" "Custer" -42 5494 98
+"South Dakota" "Butte" -58 4802 98
+"South Dakota" "Turner" -47 4548 98
+"South Dakota" "Roberts" -13 4307 98
+"South Dakota" "Fall River" -45 4042 98
+"South Dakota" "Charles Mix" -36 3783 98
+"South Dakota" "Hutchinson" -58 3767 98
+"South Dakota" "Grant" -42 3745 98
+"South Dakota" "Moody" -24 3206 98
+"South Dakota" "Oglala Lakota" 79 3200 98
+"South Dakota" "Spink" -35 3163 98
+"South Dakota" "Hamlin" -56 3083 98
+"South Dakota" "Bon Homme" -50 3001 98
+"South Dakota" "Day" -28 2964 98
+"South Dakota" "McCook" -45 2900 98
+"South Dakota" "Kingsbury" -39 2779 98
+"South Dakota" "Tripp" -62 2696 98
+"South Dakota" "Walworth" -54 2580 98
+"South Dakota" "Todd" 56 2539 98
+"South Dakota" "Brule" -43 2490 98
+"South Dakota" "Hanson" -52 2388 98
+"South Dakota" "Deuel" -46 2350 98
+"South Dakota" "Gregory" -58 2258 98
+"South Dakota" "Marshall" -20 2178 98
+"South Dakota" "Edmunds" -56 1985 98
+"South Dakota" "Dewey" 17 1966 98
+"South Dakota" "Clark" -51 1850 98
+"South Dakota" "Hand" -58 1836 98
+"South Dakota" "Douglas" -73 1707 98
+"South Dakota" "Perkins" -70 1669 98
+"South Dakota" "Stanley" -47 1652 98
+"South Dakota" "Lyman" -32 1597 98
+"South Dakota" "Aurora" -52 1405 98
+"South Dakota" "Potter" -66 1380 98
+"South Dakota" "McPherson" -64 1324 98
+"South Dakota" "Corson" -1.9 1283 98
+"South Dakota" "Sanborn" -55 1185 98
+"South Dakota" "Bennett" -19 1183 98
+"South Dakota" "Faulk" -65 1182 98
+"South Dakota" "Miner" -41 1138 98
+"South Dakota" "Haakon" -81 1137 98
+"South Dakota" "Jackson" -34 1115 98
+"South Dakota" "Jerauld" -45 1006 98
+"South Dakota" "Sully" -58 930 98
+"South Dakota" "Ziebach" 8 906 98
+"South Dakota" "Campbell" -72 873 98
+"South Dakota" "Harding" -86 813 98
+"South Dakota" "Mellette" -20 769 98
+"South Dakota" "Hyde" -60 710 98
+"South Dakota" "Jones" -68 599 98
+"South Dakota" "Buffalo" 31 549 98
+"Tennessee" "Hardeman" -16 10063 83
+"Tennessee" "Lake" -47 2034 84
+"Tennessee" "Haywood" 9 7439 85
+"Tennessee" "Lauderdale" -28 8963 89
+"Tennessee" "Weakley" -54 13710 90
+"Tennessee" "Madison" -13 42847 91
+"Tennessee" "Dyer" -57 15079 91
+"Tennessee" "Obion" -61 13521 91
+"Tennessee" "Carroll" -56 11905 91
+"Tennessee" "Tipton" -48 27291 94
+"Tennessee" "Fayette" -38 22984 95
+"Tennessee" "Hardin" -67 11538 95
+"Tennessee" "Sullivan" -52 74206 96
+"Tennessee" "Anderson" -32 35570 96
+"Tennessee" "Unicoi" -60 8294 96
+"Tennessee" "Crockett" -54 6114 96
+"Tennessee" "Pickett" -63 2922 96
+"Tennessee" "Lincoln" -60 15575 97
+"Tennessee" "Henry" -51 15034 97
+"Tennessee" "McNairy" -63 11267 97
+"Tennessee" "Chester" -60 7584 97
+"Tennessee" "Moore" -65 3539 97
+"Tennessee" "Carter" -61 24492 98
+"Tennessee" "Wayne" -75 6667 98
+"Tennessee" "Decatur" -63 5241 98
+"Tennessee" "Shelby" 30 381858 98
+"Tennessee" "Davidson" 32 309658 98
+"Tennessee" "Knox" -15 219869 98
+"Tennessee" "Hamilton" -10 171113 98
+"Tennessee" "Rutherford" -15 143931 98
+"Tennessee" "Williamson" -26 138932 98
+"Tennessee" "Sumner" -39 92529 98
+"Tennessee" "Montgomery" -13 76678 98
+"Tennessee" "Wilson" -38 74092 98
+"Tennessee" "Blount" -44 66609 98
+"Tennessee" "Washington" -37 59430 98
+"Tennessee" "Maury" -37 46561 98
+"Tennessee" "Bradley" -55 45865 98
+"Tennessee" "Sevier" -57 43574 98
+"Tennessee" "Robertson" -47 33712 98
+"Tennessee" "Putnam" -43 33481 98
+"Tennessee" "Cumberland" -57 32279 98
+"Tennessee" "Loudon" -50 29375 98
+"Tennessee" "Greene" -61 28087 98
+"Tennessee" "Roane" -51 25914 98
+"Tennessee" "Hawkins" -66 24824 98
+"Tennessee" "Hamblen" -54 24631 98
+"Tennessee" "Dickson" -47 24323 98
+"Tennessee" "Coffee" -50 24282 98
+"Tennessee" "Jefferson" -59 23562 98
+"Tennessee" "McMinn" -61 22815 98
+"Tennessee" "Gibson" -47 22335 98
+"Tennessee" "Monroe" -63 20749 98
+"Tennessee" "Cheatham" -44 20260 98
+"Tennessee" "Franklin" -48 19132 98
+"Tennessee" "Bedford" -52 19088 98
+"Tennessee" "Lawrence" -65 18718 98
+"Tennessee" "Warren" -49 16692 98
+"Tennessee" "Campbell" -66 14933 98
+"Tennessee" "Marshall" -50 14862 98
+"Tennessee" "Cocke" -65 14859 98
+"Tennessee" "Rhea" -64 13608 98
+"Tennessee" "Marion" -51 13204 98
+"Tennessee" "Giles" -49 13203 98
+"Tennessee" "Claiborne" -65 12945 98
+"Tennessee" "Henderson" -64 12020 98
+"Tennessee" "White" -63 11867 98
+"Tennessee" "Grainger" -70 10134 98
+"Tennessee" "Overton" -59 10025 98
+"Tennessee" "Hickman" -55 9832 98
+"Tennessee" "Macon" -72 9486 98
+"Tennessee" "Scott" -78 9052 98
+"Tennessee" "Smith" -59 9035 98
+"Tennessee" "Fentress" -71 8729 98
+"Tennessee" "DeKalb" -58 8513 98
+"Tennessee" "Polk" -63 8360 98
+"Tennessee" "Humphreys" -50 8232 98
+"Tennessee" "Morgan" -70 8218 98
+"Tennessee" "Union" -68 8096 98
+"Tennessee" "Johnson" -67 7793 98
+"Tennessee" "Benton" -57 7260 98
+"Tennessee" "Sequatchie" -63 7239 98
+"Tennessee" "Cannon" -60 6557 98
+"Tennessee" "Stewart" -59 6283 98
+"Tennessee" "Grundy" -65 5855 98
+"Tennessee" "Bledsoe" -65 5758 98
+"Tennessee" "Lewis" -61 5604 98
+"Tennessee" "Meigs" -63 5529 98
+"Tennessee" "Jackson" -56 5308 98
+"Tennessee" "Trousdale" -48 3991 98
+"Tennessee" "Houston" -50 3681 98
+"Tennessee" "Clay" -57 3506 98
+"Tennessee" "Perry" -63 3428 98
+"Tennessee" "Van Buren" -62 2917 98
+"Tennessee" "Hancock" -73 2744 98
+"Texas" "Rockwall" -38 53891 93
+"Texas" "Mason" -62 2474 97
+"Texas" "Harris" 13 1640818 98
+"Texas" "Dallas" 32 921638 98
+"Texas" "Tarrant" 0.22 834697 98
+"Texas" "Bexar" 18 768952 98
+"Texas" "Travis" 45 610349 98
+"Texas" "Collin" -4 492216 98
+"Texas" "Denton" -8 417964 98
+"Texas" "Fort Bend" 11 357514 98
+"Texas" "Williamson" 1.4 289312 98
+"Texas" "Montgomery" -44 271451 98
+"Texas" "El Paso" 35 267215 98
+"Texas" "Hidalgo" 17 220884 98
+"Texas" "Galveston" -23 155060 98
+"Texas" "Brazoria" -18 154984 98
+"Texas" "Bell" -9 127375 98
+"Texas" "Nueces" -3 127314 98
+"Texas" "Lubbock" -32 120771 98
+"Texas" "Cameron" 13 114174 98
+"Texas" "Hays" 11 109357 98
+"Texas" "Smith" -39 100075 98
+"Texas" "McLennan" -23 97771 98
+"Texas" "Jefferson" -1.6 94739 98
+"Texas" "Comal" -43 88863 98
+"Texas" "Ellis" -34 85493 98
+"Texas" "Brazos" -14 85061 98
+"Texas" "Guadalupe" -24 77592 98
+"Texas" "Parker" -64 76128 98
+"Texas" "Johnson" -53 72005 98
+"Texas" "Webb" 23 68397 98
+"Texas" "Randall" -59 64674 98
+"Texas" "Grayson" -50 59439 98
+"Texas" "Midland" -57 58856 98
+"Texas" "Kaufman" -34 56703 98
+"Texas" "Taylor" -45 55112 98
+"Texas" "Gregg" -37 47982 98
+"Texas" "Wichita" -41 46030 98
+"Texas" "Tom Green" -44 45210 98
+"Texas" "Ector" -48 44581 98
+"Texas" "Hunt" -53 38574 98
+"Texas" "Bowie" -43 38261 98
+"Texas" "Bastrop" -14 36665 98
+"Texas" "Henderson" -60 36310 98
+"Texas" "Orange" -63 35994 98
+"Texas" "Angelina" -46 34574 98
+"Texas" "Victoria" -38 34188 98
+"Texas" "Potter" -39 33321 98
+"Texas" "Hood" -64 32541 98
+"Texas" "Wise" -68 32362 98
+"Texas" "Harrison" -46 29710 98
+"Texas" "Liberty" -60 29334 98
+"Texas" "Kerr" -52 27745 98
+"Texas" "Hardin" -74 27635 98
+"Texas" "Nacogdoches" -31 26763 98
+"Texas" "Kendall" -53 26438 98
+"Texas" "Van Zandt" -72 25994 98
+"Texas" "San Patricio" -29 25888 98
+"Texas" "Wilson" -48 25013 98
+"Texas" "Burnet" -53 24717 98
+"Texas" "Polk" -55 24181 98
+"Texas" "Walker" -32 23612 98
+"Texas" "Coryell" -34 23490 98
+"Texas" "Wood" -68 22779 98
+"Texas" "Waller" -27 22734 98
+"Texas" "Medina" -39 22644 98
+"Texas" "Chambers" -62 21652 98
+"Texas" "Lamar" -57 21418 98
+"Texas" "Rusk" -56 21368 98
+"Texas" "Cherokee" -56 19508 98
+"Texas" "Anderson" -58 19227 98
+"Texas" "Navarro" -45 19121 98
+"Texas" "Cooke" -65 18988 98
+"Texas" "Upshur" -68 18887 98
+"Texas" "Atascosa" -34 18118 98
+"Texas" "Starr" 5 17525 98
+"Texas" "Washington" -50 17418 98
+"Texas" "Erath" -64 16853 98
+"Texas" "Wharton" -43 16761 98
+"Texas" "Brown" -73 15969 98
+"Texas" "Hopkins" -61 15939 98
+"Texas" "Gillespie" -59 15846 98
+"Texas" "Jasper" -61 15608 98
+"Texas" "Maverick" 9 15346 98
+"Texas" "Val Verde" -10 15272 98
+"Texas" "Fannin" -63 15004 98
+"Texas" "Caldwell" -9 14973 98
+"Texas" "Hill" -61 14931 98
+"Texas" "Austin" -58 14554 98
+"Texas" "Cass" -59 13927 98
+"Texas" "Matagorda" -45 13726 98
+"Texas" "Jim Wells" -10 13669 98
+"Texas" "Fayette" -58 12941 98
+"Texas" "Bandera" -59 12715 98
+"Texas" "Llano" -60 12660 98
+"Texas" "San Jacinto" -62 12638 98
+"Texas" "Palo Pinto" -64 12485 98
+"Texas" "Grimes" -53 12413 98
+"Texas" "Aransas" -51 12290 98
+"Texas" "Panola" -63 11451 98
+"Texas" "Kleberg" -1.7 10944 98
+"Texas" "Milam" -52 10576 98
+"Texas" "Titus" -45 10539 98
+"Texas" "Lampasas" -57 10399 98
+"Texas" "Uvalde" -20 10342 98
+"Texas" "Howard" -58 10240 98
+"Texas" "La Vaca" -73 10197 98
+"Texas" "Shelby" -59 10084 98
+"Texas" "Colorado" -51 9975 98
+"Texas" "Montague" -77 9814 98
+"Texas" "Tyler" -70 9660 98
+"Texas" "Hale" -51 9584 98
+"Texas" "Houston" -50 9437 98
+"Texas" "Bee" -29 9420 98
+"Texas" "Bosque" -65 9126 98
+"Texas" "Limestone" -50 9095 98
+"Texas" "Hutchinson" -77 8771 98
+"Texas" "Freestone" -61 8711 98
+"Texas" "Leon" -74 8674 98
+"Texas" "Burleson" -58 8609 98
+"Texas" "Eastland" -75 8292 98
+"Texas" "Young" -74 8239 98
+"Texas" "De Witt" -62 8118 98
+"Texas" "Robertson" -40 8099 98
+"Texas" "Hockley" -62 8095 98
+"Texas" "Lee" -56 8086 98
+"Texas" "Calhoun" -44 7856 98
+"Texas" "Gray" -77 7782 98
+"Texas" "Gonzales" -48 7647 98
+"Texas" "Blanco" -47 7441 98
+"Texas" "Trinity" -61 6938 98
+"Texas" "Callahan" -77 6832 98
+"Texas" "Jones" -69 6741 98
+"Texas" "Jackson" -66 6340 98
+"Texas" "Falls" -37 6133 98
+"Texas" "Newton" -61 6094 98
+"Texas" "Comanche" -71 6086 98
+"Texas" "Rains" -71 6053 98
+"Texas" "Gaines" -80 5995 98
+"Texas" "Scurry" -71 5869 98
+"Texas" "Andrews" -70 5863 98
+"Texas" "Red River" -56 5806 98
+"Texas" "Clay" -78 5741 98
+"Texas" "Morris" -39 5587 98
+"Texas" "Willacy" 12 5549 98
+"Texas" "Moore" -60 5508 98
+"Texas" "Sabine" -75 5487 98
+"Texas" "Nolan" -55 5356 98
+"Texas" "Madison" -58 5297 98
+"Texas" "Frio" -8 5279 98
+"Texas" "Karnes" -52 5249 98
+"Texas" "Camp" -44 5060 98
+"Texas" "Live Oak" -67 5054 98
+"Texas" "Duval" 3 5053 98
+"Texas" "Franklin" -67 5009 98
+"Texas" "Somervell" -67 4947 98
+"Texas" "Marion" -44 4864 98
+"Texas" "Brewster" -4 4822 98
+"Texas" "Archer" -80 4796 98
+"Texas" "Pecos" -39 4668 98
+"Texas" "Deaf Smith" -44 4610 98
+"Texas" "Wilbarger" -57 4524 98
+"Texas" "Runnels" -74 4409 98
+"Texas" "Lamb" -61 4408 98
+"Texas" "Zavala" 31 4379 98
+"Texas" "Hamilton" -68 4349 98
+"Texas" "Coleman" -77 4124 98
+"Texas" "Ward" -61 4060 98
+"Texas" "San Augustine" -51 4002 98
+"Texas" "Goliad" -55 3988 98
+"Texas" "Zapata" -5 3874 98
+"Texas" "Stephens" -79 3800 98
+"Texas" "Dawson" -57 3789 98
+"Texas" "Jack" -82 3782 98
+"Texas" "Reeves" -23 3687 98
+"Texas" "Dimmit" 24 3666 98
+"Texas" "Terry" -57 3612 98
+"Texas" "McCulloch" -70 3436 98
+"Texas" "Refugio" -33 3366 98
+"Texas" "Ochiltree" -80 3156 98
+"Texas" "Carson" -80 3122 98
+"Texas" "Parmer" -62 2650 98
+"Texas" "Yoakum" -67 2631 98
+"Texas" "San Saba" -78 2602 98
+"Texas" "Delta" -68 2592 98
+"Texas" "Mitchell" -69 2579 98
+"Texas" "Mills" -78 2505 98
+"Texas" "Brooks" 19 2484 98
+"Texas" "La Salle" -12 2406 98
+"Texas" "Swisher" -58 2355 98
+"Texas" "Wheeler" -85 2337 98
+"Texas" "Lynn" -62 2293 98
+"Texas" "Kimble" -74 2292 98
+"Texas" "Childress" -72 2279 98
+"Texas" "Presidio" 33 2217 98
+"Texas" "Haskell" -67 2214 98
+"Texas" "Martin" -73 2160 98
+"Texas" "Winkler" -66 2126 98
+"Texas" "Castro" -55 2083 98
+"Texas" "Hartley" -81 2078 98
+"Texas" "Hansford" -82 2047 98
+"Texas" "Floyd" -56 2039 98
+"Texas" "Jim Hogg" 18 2036 98
+"Texas" "Real" -67 1982 98
+"Texas" "Crosby" -44 1953 98
+"Texas" "Bailey" -55 1860 98
+"Texas" "Fisher" -60 1826 98
+"Texas" "Coke" -79 1779 98
+"Texas" "Hemphill" -74 1720 98
+"Texas" "Baylor" -77 1702 98
+"Texas" "Garza" -72 1653 98
+"Texas" "Donley" -75 1648 98
+"Texas" "Shackelford" -83 1628 98
+"Texas" "Dallam" -74 1609 98
+"Texas" "Kinney" -44 1603 98
+"Texas" "Hardeman" -69 1580 98
+"Texas" "Crockett" -56 1574 98
+"Texas" "Sutton" -58 1557 98
+"Texas" "Crane" -67 1503 98
+"Texas" "Knox" -63 1456 98
+"Texas" "Upton" -74 1368 98
+"Texas" "Lipscomb" -79 1353 98
+"Texas" "Jeff Davis" -22 1305 98
+"Texas" "Concho" -68 1268 98
+"Texas" "Collingsworth" -73 1218 98
+"Texas" "Hall" -71 1168 98
+"Texas" "Hudspeth" -35 1165 98
+"Texas" "Schleicher" -63 1159 98
+"Texas" "Reagan" -69 1124 98
+"Texas" "Armstrong" -86 1112 98
+"Texas" "Edwards" -68 1066 98
+"Texas" "Menard" -61 1028 98
+"Texas" "Oldham" -83 1009 98
+"Texas" "Cochran" -63 1000 98
+"Texas" "Sherman" -80 991 98
+"Texas" "Dickens" -73 988 98
+"Texas" "Throckmorton" -81 899 98
+"Texas" "Irion" -72 889 98
+"Texas" "Culberson" 3 864 98
+"Texas" "Stonewall" -68 736 98
+"Texas" "Briscoe" -77 725 98
+"Texas" "Cottle" -65 662 98
+"Texas" "Glasscock" -88 653 98
+"Texas" "Motley" -86 652 98
+"Texas" "Sterling" -83 639 98
+"Texas" "Foard" -63 551 98
+"Texas" "Roberts" -93 550 98
+"Texas" "McMullen" -79 516 98
+"Texas" "Kent" -79 462 98
+"Texas" "Terrell" -47 458 98
+"Texas" "Borden" -92 416 98
+"Texas" "Kenedy" -32 194 98
+"Texas" "King" -90 159 98
+"Texas" "Loving" -85 66 98
+"Utah" "Salt Lake" 11 541175 98
+"Utah" "Utah" -41 284480 98
+"Utah" "Davis" -28 169895 98
+"Utah" "Weber" -23 111442 98
+"Utah" "Washington" -52 90476 98
+"Utah" "Cache" -37 57571 98
+"Utah" "Tooele" -38 31518 98
+"Utah" "Box Elder" -63 27027 98
+"Utah" "Summit" 19 26088 98
+"Utah" "Iron" -57 24890 98
+"Utah" "Wasatch" -26 17581 98
+"Utah" "Uintah" -76 15307 98
+"Utah" "Sanpete" -69 12631 98
+"Utah" "Sevier" -77 10363 98
+"Utah" "Carbon" -46 9369 98
+"Utah" "Duchesne" -78 8524 98
+"Utah" "San Juan" -6 6878 98
+"Utah" "Morgan" -63 6512 98
+"Utah" "Millard" -78 6160 98
+"Utah" "Juab" -76 5866 98
+"Utah" "Grand" 11 5185 98
+"Utah" "Emery" -75 4865 98
+"Utah" "Kane" -46 4180 98
+"Utah" "Beaver" -75 3100 98
+"Utah" "Garfield" -60 2732 98
+"Utah" "Wayne" -53 1621 98
+"Utah" "Rich" -72 1363 98
+"Utah" "Piute" -79 871 98
+"Utah" "Daggett" -62 619 98
+"Vermont" "Goshen" 44 126 98
+"Vermont" "Brunswick" -13 64 98
+"Vermont" "Lemington" 4 49 98
+"Vermont" "Burlington" 76 22218 98
+"Vermont" "Essex" 46 13414 98
+"Vermont" "South Burlington" 61 12670 98
+"Vermont" "Colchester" 38 9594 98
+"Vermont" "Rutland" 21 8000 98
+"Vermont" "Bennington" 27 7096 98
+"Vermont" "Williston" 47 6873 98
+"Vermont" "Brattleboro" 66 6663 98
+"Vermont" "Hartford" 47 6264 98
+"Vermont" "Milton" 12 6168 98
+"Vermont" "Shelburne" 63 5419 98
+"Vermont" "Montpelier" 79 5185 98
+"Vermont" "Barre Town" 9 4766 98
+"Vermont" "Springfield" 18 4516 98
+"Vermont" "Middlebury" 63 4331 98
+"Vermont" "Barre" 28 3807 98
+"Vermont" "St. Albans Town" 15 3794 98
+"Vermont" "Winooski" 65 3701 98
+"Vermont" "Jericho" 48 3662 98
+"Vermont" "Waterbury" 62 3498 98
+"Vermont" "Stowe" 62 3406 98
+"Vermont" "St. Johnsbury" 24 3377 98
+"Vermont" "Swanton" 0.62 3228 98
+"Vermont" "Morristown" 45 3197 98
+"Vermont" "Hinesburg" 49 3084 98
+"Vermont" "St. Albans" 34 3057 98
+"Vermont" "Fairfax" 14 2996 98
+"Vermont" "Richmond" 58 2941 98
+"Vermont" "Georgia" 8 2917 98
+"Vermont" "Charlotte" 61 2886 98
+"Vermont" "Manchester" 45 2785 98
+"Vermont" "Randolph" 34 2586 98
+"Vermont" "Norwich" 82 2570 98
+"Vermont" "Rockingham" 39 2519 98
+"Vermont" "Derby" -4 2515 98
+"Vermont" "Rutland Town" 14 2486 98
+"Vermont" "Northfield" 27 2465 98
+"Vermont" "Lyndon" 3 2440 98
+"Vermont" "Bristol" 35 2245 98
+"Vermont" "Shaftsbury" 24 2225 98
+"Vermont" "Underhill" 50 2224 98
+"Vermont" "Cambridge" 42 2199 98
+"Vermont" "Hartland" 40 2198 98
+"Vermont" "Brandon" 15 2184 98
+"Vermont" "Castleton" 0.65 2161 98
+"Vermont" "Woodstock" 59 2109 98
+"Vermont" "Thetford" 54 1910 98
+"Vermont" "Windsor" 39 1890 98
+"Vermont" "Williamstown" -3 1862 98
+"Vermont" "Newport" 15 1842 98
+"Vermont" "Ferrisburg" 35 1830 98
+"Vermont" "Weathersfield" 16 1792 98
+"Vermont" "Westminster" 49 1789 98
+"Vermont" "Pownal" 3 1778 98
+"Vermont" "Chester" 27 1772 98
+"Vermont" "East Montpelier" 52 1764 98
+"Vermont" "Pittsford" 6 1737 98
+"Vermont" "Hyde Park" 33 1731 98
+"Vermont" "Highgate" -16 1726 98
+"Vermont" "Poultney" 5 1664 98
+"Vermont" "Johnson" 29 1589 98
+"Vermont" "Hardwick" 23 1577 98
+"Vermont" "Berlin" 29 1534 98
+"Vermont" "Putney" 66 1515 98
+"Vermont" "Bradford" 23 1494 98
+"Vermont" "Royalton" 29 1486 98
+"Vermont" "Arlington" 28 1485 98
+"Vermont" "Vergennes" 40 1478 98
+"Vermont" "Clarendon" -9 1469 98
+"Vermont" "Danville" 20 1469 98
+"Vermont" "Westford" 39 1425 98
+"Vermont" "Dorset" 44 1413 98
+"Vermont" "Grand Isle" 21 1409 98
+"Vermont" "Huntington" 52 1405 98
+"Vermont" "Monkton" 40 1403 98
+"Vermont" "Dummerston" 56 1357 98
+"Vermont" "Guilford" 47 1354 98
+"Vermont" "South Hero" 40 1309 98
+"Vermont" "Fair Haven" -1.8 1308 98
+"Vermont" "Vernon" 13 1300 98
+"Vermont" "Wallingford" 11 1298 98
+"Vermont" "Barton" 9 1296 98
+"Vermont" "Enosburgh" 4 1274 98
+"Vermont" "Warren" 68 1264 98
+"Vermont" "Waitsfield" 66 1248 98
+"Vermont" "Middlesex" 60 1243 98
+"Vermont" "Ludlow" 20 1237 98
+"Vermont" "Newbury" 16 1214 98
+"Vermont" "Moretown" 59 1185 98
+"Vermont" "New Haven" 29 1172 98
+"Vermont" "West Rutland" -9 1167 98
+"Vermont" "Wilmington" 39 1156 98
+"Vermont" "Calais" 58 1148 98
+"Vermont" "Bethel" 30 1147 98
+"Vermont" "Newfane" 51 1141 98
+"Vermont" "Fairfield" 13 1140 98
+"Vermont" "Londonderry" 36 1118 98
+"Vermont" "Barnet" 17 1095 98
+"Vermont" "Alburgh" 5 1079 98
+"Vermont" "Starksboro" 30 1023 98
+"Vermont" "Sheldon" -10 1015 98
+"Vermont" "Fayston" 67 971 98
+"Vermont" "Marshfield" 26 964 98
+"Vermont" "Lincoln" 53 959 98
+"Vermont" "Proctor" 15 955 98
+"Vermont" "Dover" 33 948 98
+"Vermont" "Richford" -5 942 98
+"Vermont" "Burke" 18 924 98
+"Vermont" "Wolcott" 31 923 98
+"Vermont" "Duxbury" 44 914 98
+"Vermont" "Sharon" 34 894 98
+"Vermont" "Cabot" 29 892 98
+"Vermont" "Pawlet" 14 887 98
+"Vermont" "Addison" 8 870 98
+"Vermont" "Tunbridge" 23 863 98
+"Vermont" "Chittenden" 15 853 98
+"Vermont" "Brookfield" 23 852 98
+"Vermont" "Cornwall" 61 850 98
+"Vermont" "Mount Holly" 9 848 98
+"Vermont" "West Windsor" 50 841 98
+"Vermont" "Killington" 36 836 98
+"Vermont" "Waterford" 4 831 98
+"Vermont" "Corinth" 13 830 98
+"Vermont" "Fletcher" 25 824 98
+"Vermont" "Plainfield" 54 814 98
+"Vermont" "Strafford" 67 800 98
+"Vermont" "Troy" -3 795 98
+"Vermont" "Cavendish" 21 792 98
+"Vermont" "Mendon" 17 780 98
+"Vermont" "Bolton" 41 778 98
+"Vermont" "Newport Town" -10 776 98
+"Vermont" "Whitingham" 7 775 98
+"Vermont" "Craftsbury" 48 774 98
+"Vermont" "Townshend" 47 769 98
+"Vermont" "Montgomery" 23 756 98
+"Vermont" "Danby" -11 755 98
+"Vermont" "Franklin" -12 754 98
+"Vermont" "Orwell" 2 752 98
+"Vermont" "Shoreham" 25 742 98
+"Vermont" "Wells" -14 742 98
+"Vermont" "Bridport" 10 738 98
+"Vermont" "Rochester" 47 732 98
+"Vermont" "Chelsea" 17 723 98
+"Vermont" "Braintree" 24 717 98
+"Vermont" "Berkshire" -17 711 98
+"Vermont" "North Hero" 26 705 98
+"Vermont" "Bakersfield" 18 696 98
+"Vermont" "Shrewsbury" 18 690 98
+"Vermont" "Pomfret" 53 679 98
+"Vermont" "Salisbury" 20 676 98
+"Vermont" "Winhall" 43 674 98
+"Vermont" "Irasburg" -22 673 98
+"Vermont" "Barnard" 43 669 98
+"Vermont" "Glover" 24 666 98
+"Vermont" "Sunderland" 22 652 98
+"Vermont" "Ryegate" 5 648 98
+"Vermont" "Marlboro" 67 646 98
+"Vermont" "Topsham" -13 646 98
+"Vermont" "Eden" -1.6 634 98
+"Vermont" "Lunenburg" -19 633 98
+"Vermont" "Concord" -13 630 98
+"Vermont" "Worcester" 54 624 98
+"Vermont" "Fairlee" 45 621 98
+"Vermont" "Brighton" -14 619 98
+"Vermont" "Weybridge" 72 612 98
+"Vermont" "Orange" -10 610 98
+"Vermont" "Washington" 4 609 98
+"Vermont" "Elmore" 49 606 98
+"Vermont" "Bridgewater" 27 601 98
+"Vermont" "Woodbury" 30 588 98
+"Vermont" "Walden" 25 586 98
+"Vermont" "Benson" -8 583 98
+"Vermont" "Jamaica" 44 581 98
+"Vermont" "Coventry" -9 568 98
+"Vermont" "Groton" -4 549 98
+"Vermont" "Middletown Springs" 15 549 98
+"Vermont" "Leicester" 12 542 98
+"Vermont" "Charleston" -5 541 98
+"Vermont" "Albany" 9 540 98
+"Vermont" "Stamford" -2 539 98
+"Vermont" "Sutton" -6 539 98
+"Vermont" "Peacham" 42 519 98
+"Vermont" "Canaan" -0.4 498 98
+"Vermont" "Halifax" 16 492 98
+"Vermont" "Wardsboro" 34 492 98
+"Vermont" "Greensboro" 53 491 98
+"Vermont" "Brownington" -10 490 98
+"Vermont" "Lowell" -15 487 98
+"Vermont" "Stockbridge" 46 477 98
+"Vermont" "Weston" 48 456 98
+"Vermont" "Waterville" 4 454 98
+"Vermont" "St. George" 40 453 98
+"Vermont" "Wheelock" 8 452 98
+"Vermont" "Reading" 43 445 98
+"Vermont" "Rupert" 26 437 98
+"Vermont" "Roxbury" 34 433 98
+"Vermont" "Readsboro" -2 431 98
+"Vermont" "Vershire" 30 428 98
+"Vermont" "Hubbardton" 7 427 98
+"Vermont" "Panton" 32 420 98
+"Vermont" "Grafton" 33 405 98
+"Vermont" "Morgan" -11 401 98
+"Vermont" "Sudbury" 32 388 98
+"Vermont" "Sheffield" 9 374 98
+"Vermont" "Plymouth" 40 371 98
+"Vermont" "Ripton" 55 369 98
+"Vermont" "Andover" 23 365 98
+"Vermont" "Holland" -20 358 98
+"Vermont" "West Fairlee" 26 357 98
+"Vermont" "Isle La Motte" 13 349 98
+"Vermont" "Westfield" 13 349 98
+"Vermont" "Newark" 3 346 98
+"Vermont" "Tinmouth" 2 341 98
+"Vermont" "Pittsfield" 26 332 98
+"Vermont" "Brookline" 37 329 98
+"Vermont" "Kirby" 19 329 98
+"Vermont" "Waltham" 35 326 98
+"Vermont" "Peru" 49 300 98
+"Vermont" "Jay" 1.7 294 98
+"Vermont" "Windham" 37 282 98
+"Vermont" "Ira" 0 262 98
+"Vermont" "Sandgate" 20 253 98
+"Vermont" "Westmore" 10 240 98
+"Vermont" "Whiting" 18 218 98
+"Vermont" "Athens" 17 214 98
+"Vermont" "Woodford" -0.51 196 98
+"Vermont" "Stratton" 27 190 98
+"Vermont" "Belvidere" -8 176 98
+"Vermont" "Guildhall" -6 174 98
+"Vermont" "Hancock" 26 171 98
+"Vermont" "Granville" 63 169 98
+"Vermont" "West Haven" 5 151 98
+"Vermont" "Maidstone" -5 145 98
+"Vermont" "Baltimore" -6 143 98
+"Vermont" "East Haven" 3 140 98
+"Vermont" "Landgrove" 72 134 98
+"Vermont" "Bloomfield" -14 130 98
+"Vermont" "Mount Tabor" -0.85 117 98
+"Vermont" "Stannard" 47 114 98
+"Vermont" "Norton" -17 108 98
+"Vermont" "Searsburg" -13 64 98
+"Vermont" "Victory" -35 55 98
+"Vermont" "Granby" -7 43 98
+"Virginia" "Accomack" -9 16962 71
+"Virginia" "Fredericksburg" 35 12862 75
+"Virginia" "Mecklenburg" -15 16204 88
+"Virginia" "Fairfax" 42 600823 98
+"Virginia" "Prince William" 27 228056 98
+"Virginia" "Virginia Beach" 5 227561 98
+"Virginia" "Loudoun" 25 224862 98
+"Virginia" "Chesterfield" 7 203884 98
+"Virginia" "Henrico" 29 183152 98
+"Virginia" "Arlington" 64 130699 98
+"Virginia" "Chesapeake" 6 127108 98
+"Virginia" "Richmond City" 68 111159 98
+"Virginia" "Norfolk" 46 89881 98
+"Virginia" "Alexandria" 63 82508 98
+"Virginia" "Newport News" 33 81203 98
+"Virginia" "Stafford" 3 79625 98
+"Virginia" "Spotsylvania" -7 75317 98
+"Virginia" "Hanover" -27 70967 98
+"Virginia" "Hampton" 42 65901 98
+"Virginia" "Albemarle" 34 64657 98
+"Virginia" "Roanoke" -22 57184 98
+"Virginia" "Suffolk" 17 49642 98
+"Virginia" "James City" 5 49622 98
+"Virginia" "Frederick" -27 48703 98
+"Virginia" "Bedford" -48 48669 98
+"Virginia" "Montgomery" 6 45037 98
+"Virginia" "Portsmouth" 41 44582 98
+"Virginia" "Rockingham" -40 43811 98
+"Virginia" "Fauquier" -17 43661 98
+"Virginia" "Roanoke City" 26 43323 98
+"Virginia" "Augusta" -47 42278 98
+"Virginia" "York" -7 38787 98
+"Virginia" "Lynchburg" 3 36363 98
+"Virginia" "Pittsylvania" -40 34227 98
+"Virginia" "Campbell" -44 29892 98
+"Virginia" "Franklin" -42 29702 98
+"Virginia" "Washington" -53 28685 98
+"Virginia" "Culpeper" -20 27116 98
+"Virginia" "Henry" -29 26105 98
+"Virginia" "Charlottesville" 73 24205 98
+"Virginia" "Shenandoah" -41 23684 98
+"Virginia" "Isle of Wight" -18 23456 98
+"Virginia" "Gloucester" -36 22282 98
+"Virginia" "Louisa" -23 21915 98
+"Virginia" "Warren" -35 21147 98
+"Virginia" "Botetourt" -45 21120 98
+"Virginia" "Orange" -21 20742 98
+"Virginia" "Tazewell" -67 20134 98
+"Virginia" "Powhatan" -44 19730 98
+"Virginia" "Danville" 22 19389 98
+"Virginia" "Halifax" -15 18248 98
+"Virginia" "Prince George" -17 17432 98
+"Virginia" "Pulaski" -41 17376 98
+"Virginia" "Harrisonburg" 32 17086 98
+"Virginia" "Amherst" -32 17005 98
+"Virginia" "Manassas" 24 16968 98
+"Virginia" "Goochland" -19 16950 98
+"Virginia" "Wise" -62 16615 98
+"Virginia" "Caroline" -4 16288 98
+"Virginia" "Fluvanna" -5 15840 98
+"Virginia" "Carroll" -63 15651 98
+"Virginia" "Dinwiddie" -16 15092 98
+"Virginia" "Wythe" -57 15072 98
+"Virginia" "New Kent" -35 14463 98
+"Virginia" "King George" -21 14224 98
+"Virginia" "Smyth" -56 14136 98
+"Virginia" "Petersburg" 77 14118 98
+"Virginia" "Fairfax City" 38 13483 98
+"Virginia" "Russell" -64 13386 98
+"Virginia" "Salem" -19 13051 98
+"Virginia" "Staunton" 10 12990 98
+"Virginia" "Page" -51 12514 98
+"Virginia" "Rockbridge" -32 12373 98
+"Virginia" "Winchester" 11 12106 98
+"Virginia" "Greene" -24 11311 98
+"Virginia" "Scott" -68 10869 98
+"Virginia" "King William" -38 10736 98
+"Virginia" "Waynesboro" -5 10717 98
+"Virginia" "Buchanan" -68 9953 98
+"Virginia" "Lee" -69 9946 98
+"Virginia" "Westmoreland" -8 9933 98
+"Virginia" "Southampton" -18 9786 98
+"Virginia" "Hopewell" 15 9608 98
+"Virginia" "Prince Edward" 6 9574 98
+"Virginia" "Patrick" -58 9534 98
+"Virginia" "Floyd" -34 9408 98
+"Virginia" "Clarke" -14 9337 98
+"Virginia" "Nelson" -5 9316 98
+"Virginia" "Appomattox" -46 9268 98
+"Virginia" "Giles" -51 9176 98
+"Virginia" "Colonial Heights" -33 9146 98
+"Virginia" "Falls Church" 64 8819 98
+"Virginia" "Alleghany" -44 8203 98
+"Virginia" "Grayson" -61 8131 98
+"Virginia" "Madison" -32 8129 98
+"Virginia" "Buckingham" -13 8126 98
+"Virginia" "Brunswick" 15 7948 98
+"Virginia" "Amelia" -38 7893 98
+"Virginia" "Poquoson" -45 7857 98
+"Virginia" "Northumberland" -16 7815 98
+"Virginia" "Bristol" -39 7806 98
+"Virginia" "Dickenson" -58 7303 98
+"Virginia" "Lancaster" -5 7152 98
+"Virginia" "Nottoway" -15 7078 98
+"Virginia" "Williamsburg" 41 6883 98
+"Virginia" "Middlesex" -25 6785 98
+"Virginia" "Northampton" 11 6732 98
+"Virginia" "Radford" 9 6320 98
+"Virginia" "Charlotte" -24 6191 98
+"Virginia" "Essex" -0.6 6178 98
+"Virginia" "Manassas Park" 33 6087 98
+"Virginia" "Martinsville" 27 6013 98
+"Virginia" "Lunenburg" -19 6000 98
+"Virginia" "Mathews" -36 5826 98
+"Virginia" "Cumberland" -15 5310 98
+"Virginia" "Sussex" 12 5088 98
+"Virginia" "Rappahannock" -14 4978 98
+"Virginia" "Greensville" 16 4574 98
+"Virginia" "Surry" 8 4471 98
+"Virginia" "Charles City" 19 4441 98
+"Virginia" "King and Queen" -21 4115 98
+"Virginia" "Richmond" -25 4102 98
+"Virginia" "Franklin City" 26 4058 98
+"Virginia" "Bland" -68 3479 98
+"Virginia" "Craig" -62 3169 98
+"Virginia" "Buena Vista" -37 2776 98
+"Virginia" "Lexington" 32 2762 98
+"Virginia" "Galax" -40 2638 98
+"Virginia" "Covington" -24 2603 98
+"Virginia" "Bath" -48 2501 98
+"Virginia" "Emporia" 36 2381 98
+"Virginia" "Norton" -40 1601 98
+"Virginia" "Highland" -44 1533 98
+"Washington" "King" 53 1202570 98
+"Washington" "Pierce" 11 460714 98
+"Washington" "Snohomish" 21 435582 98
+"Washington" "Spokane" -4 293294 98
+"Washington" "Clark" 5 273451 98
+"Washington" "Thurston" 19 166965 98
+"Washington" "Kitsap" 18 157625 98
+"Washington" "Whatcom" 24 137660 98
+"Washington" "Benton" -21 102307 98
+"Washington" "Yakima" -8 95713 98
+"Washington" "Skagit" 8 72937 98
+"Washington" "Cowlitz" -17 59969 98
+"Washington" "Island" 12 53539 98
+"Washington" "Clallam" 3 49025 98
+"Washington" "Lewis" -33 45077 98
+"Washington" "Chelan" -8 43025 98
+"Washington" "Grays Harbor" -7 38256 98
+"Washington" "Grant" -35 37475 98
+"Washington" "Mason" -4 37112 98
+"Washington" "Franklin" -15 32226 98
+"Washington" "Walla Walla" -9 31055 98
+"Washington" "Stevens" -42 28283 98
+"Washington" "Kittitas" -11 26113 98
+"Washington" "Jefferson" 42 24658 98
+"Washington" "Douglas" -24 21183 98
+"Washington" "Okanogan" -14 21152 98
+"Washington" "Whitman" 10 20964 98
+"Washington" "Pacific" -1.1 14017 98
+"Washington" "Klickitat" -9 13481 98
+"Washington" "San Juan" 51 13090 98
+"Washington" "Asotin" -26 11880 98
+"Washington" "Pend Oreille" -37 8513 98
+"Washington" "Skamania" -10 7268 98
+"Washington" "Lincoln" -49 6993 98
+"Washington" "Adams" -36 5836 98
+"Washington" "Ferry" -30 4351 98
+"Washington" "Wahkiakum" -19 2972 98
+"Washington" "Columbia" -44 2482 98
+"Washington" "Garfield" -47 1481 98
+"West Virginia" "Gilmer" -53 2662 95
+"West Virginia" "Logan" -63 13026 96
+"West Virginia" "Mingo" -71 10022 96
+"West Virginia" "McDowell" -58 6527 96
+"West Virginia" "Ritchie" -72 4283 96
+"West Virginia" "Marshall" -50 14080 97
+"West Virginia" "Wetzel" -52 6667 97
+"West Virginia" "Lewis" -57 7457 98
+"West Virginia" "Tyler" -66 3922 98
+"West Virginia" "Kanawha" -15 82244 98
+"West Virginia" "Berkeley" -31 51535 98
+"West Virginia" "Monongalia" -1.2 42072 98
+"West Virginia" "Wood" -42 38762 98
+"West Virginia" "Cabell" -18 37360 98
+"West Virginia" "Raleigh" -50 33106 98
+"West Virginia" "Harrison" -38 30465 98
+"West Virginia" "Putnam" -43 28501 98
+"West Virginia" "Jefferson" -10 27703 98
+"West Virginia" "Marion" -29 25794 98
+"West Virginia" "Mercer" -54 25134 98
+"West Virginia" "Ohio" -26 19898 98
+"West Virginia" "Wayne" -50 16947 98
+"West Virginia" "Fayette" -39 16862 98
+"West Virginia" "Greenbrier" -40 15850 98
+"West Virginia" "Preston" -55 14572 98
+"West Virginia" "Hancock" -44 13800 98
+"West Virginia" "Jackson" -51 13508 98
+"West Virginia" "Mineral" -57 12872 98
+"West Virginia" "Randolph" -44 12200 98
+"West Virginia" "Mason" -53 11203 98
+"West Virginia" "Brooke" -43 10656 98
+"West Virginia" "Nicholas" -57 10630 98
+"West Virginia" "Upshur" -54 10221 98
+"West Virginia" "Hampshire" -60 10086 98
+"West Virginia" "Boone" -53 9012 98
+"West Virginia" "Morgan" -52 8695 98
+"West Virginia" "Wyoming" -72 8592 98
+"West Virginia" "Lincoln" -55 7830 98
+"West Virginia" "Taylor" -50 7383 98
+"West Virginia" "Barbour" -55 6677 98
+"West Virginia" "Monroe" -57 6490 98
+"West Virginia" "Hardy" -55 6331 98
+"West Virginia" "Roane" -48 5763 98
+"West Virginia" "Braxton" -47 5664 98
+"West Virginia" "Summers" -47 5585 98
+"West Virginia" "Grant" -77 5509 98
+"West Virginia" "Pocahontas" -46 4008 98
+"West Virginia" "Tucker" -50 3844 98
+"West Virginia" "Pendleton" -54 3659 98
+"West Virginia" "Pleasants" -59 3491 98
+"West Virginia" "Webster" -63 3402 98
+"West Virginia" "Clay" -61 3365 98
+"West Virginia" "Doddridge" -70 3101 98
+"West Virginia" "Calhoun" -60 2971 98
+"West Virginia" "Wirt" -63 2653 98
+"Wisconsin" "Milwaukee" 40 458971 98
+"Wisconsin" "Dane" 53 344791 98
+"Wisconsin" "Waukesha" -21 267996 98
+"Wisconsin" "Brown" -7 144017 98
+"Wisconsin" "Outagamie" -10 108022 98
+"Wisconsin" "Racine" -4 106451 98
+"Wisconsin" "Winnebago" -4 94160 98
+"Wisconsin" "Kenosha" -3 88738 98
+"Wisconsin" "Washington" -38 88070 98
+"Wisconsin" "Rock" 11 85360 98
+"Wisconsin" "Marathon" -18 76751 98
+"Wisconsin" "La Crosse" 13 67884 98
+"Wisconsin" "Sheboygan" -16 66003 98
+"Wisconsin" "Ozaukee" -12 61486 98
+"Wisconsin" "Eau Claire" 11 58275 98
+"Wisconsin" "Walworth" -19 57600 98
+"Wisconsin" "Fond du Lac" -26 57251 98
+"Wisconsin" "St. Croix" -16 56707 98
+"Wisconsin" "Dodge" -31 48436 98
+"Wisconsin" "Jefferson" -15 47979 98
+"Wisconsin" "Manitowoc" -23 44829 98
+"Wisconsin" "Wood" -19 41298 98
+"Wisconsin" "Portage" 3 40603 98
+"Wisconsin" "Sauk" 1.7 36203 98
+"Wisconsin" "Chippewa" -20 35938 98
+"Wisconsin" "Columbia" -1.5 33869 98
+"Wisconsin" "Calumet" -20 30774 98
+"Wisconsin" "Waupaca" -32 29130 98
+"Wisconsin" "Polk" -27 26371 98
+"Wisconsin" "Grant" -12 25608 98
+"Wisconsin" "Barron" -26 25346 98
+"Wisconsin" "Douglas" 9 24677 98
+"Wisconsin" "Oneida" -15 24159 98
+"Wisconsin" "Dunn" -14 23524 98
+"Wisconsin" "Pierce" -13 23458 98
+"Wisconsin" "Oconto" -41 23215 98
+"Wisconsin" "Marinette" -35 22979 98
+"Wisconsin" "Monroe" -24 22611 98
+"Wisconsin" "Shawano" -36 22607 98
+"Wisconsin" "Green" 3 21406 98
+"Wisconsin" "Door" 1.5 20117 98
+"Wisconsin" "Lincoln" -23 16497 98
+"Wisconsin" "Vernon" -5 15914 98
+"Wisconsin" "Vilas" -22 15369 98
+"Wisconsin" "Trempealeau" -17 15220 98
+"Wisconsin" "Clark" -37 14898 98
+"Wisconsin" "Iowa" 14 13992 98
+"Wisconsin" "Juneau" -29 13709 98
+"Wisconsin" "Waushara" -34 13568 98
+"Wisconsin" "Kewaunee" -33 12095 98
+"Wisconsin" "Adams" -26 11818 98
+"Wisconsin" "Langlade" -32 11165 98
+"Wisconsin" "Bayfield" 14 10880 98
+"Wisconsin" "Taylor" -46 10684 98
+"Wisconsin" "Green Lake" -36 10671 98
+"Wisconsin" "Sawyer" -13 10510 98
+"Wisconsin" "Washburn" -24 10378 98
+"Wisconsin" "Jackson" -15 10184 98
+"Wisconsin" "Burnett" -29 10141 98
+"Wisconsin" "Marquette" -27 9065 98
+"Wisconsin" "Richland" -10 9014 98
+"Wisconsin" "Ashland" 11 8757 98
+"Wisconsin" "Crawford" -8 8695 98
+"Wisconsin" "Lafayette" -14 8555 98
+"Wisconsin" "Price" -28 8546 98
+"Wisconsin" "Rusk" -35 7886 98
+"Wisconsin" "Buffalo" -25 7816 98
+"Wisconsin" "Forest" -31 5053 98
+"Wisconsin" "Pepin" -26 4144 98
+"Wisconsin" "Iron" -23 4010 98
+"Wisconsin" "Florence" -46 2940 98
+"Wisconsin" "Menominee" 64 1590 98
+"Wyoming" "Laramie" -28 44982 98
+"Wyoming" "Natrona" -48 35202 98
+"Wyoming" "Campbell" -77 19566 98
+"Wyoming" "Albany" 3 18617 98
+"Wyoming" "Fremont" -36 18111 98
+"Wyoming" "Park" -56 16717 98
+"Wyoming" "Sweetwater" -51 16603 98
+"Wyoming" "Sheridan" -47 16428 98
+"Wyoming" "Teton" 38 14677 98
+"Wyoming" "Lincoln" -68 10468 98
+"Wyoming" "Uinta" -63 9402 98
+"Wyoming" "Converse" -73 6970 98
+"Wyoming" "Carbon" -54 6664 98
+"Wyoming" "Goshen" -59 6241 98
+"Wyoming" "Big Horn" -70 5752 98
+"Wyoming" "Sublette" -62 4970 98
+"Wyoming" "Platte" -61 4923 98
+"Wyoming" "Johnson" -61 4914 98
+"Wyoming" "Crook" -79 4119 98
+"Wyoming" "Washakie" -65 4012 98
+"Wyoming" "Weston" -78 3542 98
+"Wyoming" "Hot Springs" -59 2577 98
+"Wyoming" "Niobrara" -74 1308 98

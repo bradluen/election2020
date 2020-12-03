@@ -1,0 +1,56 @@
+---
+title: "Scrape the election"
+author: "Brad Luen"
+date: "12/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rvest)
+library(dplyr)
+```
+
+Load megafile:
+
+```{r}
+megafile = read.table("eday-covid.txt", header = TRUE)
+```
+
+```{r}
+source("nytscraper2020.R")
+```
+
+```{r}
+statelist = unique(megafile$state.x)
+# Not states: DC, Guam, Marianas, Puerto Rico, Virgin Islands
+statelist = statelist[-c(9, 12, 37, 42, 50)]
+urllist = rep(NA, length(statelist))
+statelist2 = tolower(statelist)
+statelist2 = gsub(" ", "-", statelist2)
+for(J in 1:length(urllist)){
+  urllist[J] = paste("https://www.nytimes.com/interactive/2020/11/03/us/elections/results-", statelist2[J], ".html", sep = "")
+}
+```
+
+```{r}
+results2020 = scrapenyt(statelist[1], urllist[1])
+```
+
+```{r}
+for(J in 2:length(statelist)){
+  print(J)
+  df = scrapenyt(statelist[J], urllist[J])
+  results2020 = rbind(results2020, df)
+}
+```
+
+```{r}
+#unique(results2020$state)
+```
+
+```{r, eval = FALSE}
+write.table(results2020, file = "results2020.txt", row.names = FALSE)
+#results2020 = read.table("results2020.txt", header = TRUE)
+```
+
